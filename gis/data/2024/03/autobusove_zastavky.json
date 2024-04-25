@@ -1,0 +1,1897 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 1,
+                "nazev": "",
+                "inventarni_cislo": 1,
+                "poznamka": "Ulica: Dolné Suroviny",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548881.68,
+                    -1226635.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2,
+                "nazev": "",
+                "inventarni_cislo": 2,
+                "poznamka": "Ulica: Dolné Suroviny",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548816.18,
+                    -1226459.16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 3,
+                "nazev": "",
+                "inventarni_cislo": 3,
+                "poznamka": "",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548607.07,
+                    -1225638.33
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 4,
+                "nazev": "",
+                "inventarni_cislo": 4,
+                "poznamka": "Ulica: Horné Suroviny",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "nevyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547885.64,
+                    -1225995.86
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 5,
+                "nazev": "",
+                "inventarni_cislo": 5,
+                "poznamka": "Ulica: Vajanského",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548544.98,
+                    -1225515.85
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 6,
+                "nazev": "",
+                "inventarni_cislo": 6,
+                "poznamka": "Ulica: Hlbocká cesta",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547162.41,
+                    -1225185.39
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 7,
+                "nazev": "",
+                "inventarni_cislo": 7,
+                "poznamka": "Ulica: Košútovec",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -546700.47,
+                    -1225703.19
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 8,
+                "nazev": "",
+                "inventarni_cislo": 8,
+                "poznamka": "Ulica: SNP\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548326.25,
+                    -1224195.16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 9,
+                "nazev": "",
+                "inventarni_cislo": 9,
+                "poznamka": "Ulica: Priemyselná\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549312.22,
+                    -1224321.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 10,
+                "nazev": "",
+                "inventarni_cislo": 10,
+                "poznamka": "Ulica: Vajanského",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548602.77,
+                    -1224429.82
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 11,
+                "nazev": "",
+                "inventarni_cislo": 11,
+                "poznamka": "Ulica: Vajanského",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548618.04,
+                    -1224448.79
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 12,
+                "nazev": "",
+                "inventarni_cislo": 12,
+                "poznamka": "Ulica: Lipová\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548890.49,
+                    -1224334.27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 13,
+                "nazev": "",
+                "inventarni_cislo": 13,
+                "poznamka": "Ulica: Hviezdoslavova\nLinka: 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549487.27,
+                    -1223494.67
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 14,
+                "nazev": "",
+                "inventarni_cislo": 14,
+                "poznamka": "Ulica: Hviezdoslavova\nLinka: 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549433.52,
+                    -1223498.02
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 15,
+                "nazev": "",
+                "inventarni_cislo": 15,
+                "poznamka": "Ulica: Dlhá\nLinka: 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549586.4,
+                    -1223816.22
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 16,
+                "nazev": "",
+                "inventarni_cislo": 16,
+                "poznamka": "Ulica: Dlhá\nLinka: 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549674.69,
+                    -1223835.94
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 17,
+                "nazev": "",
+                "inventarni_cislo": 17,
+                "poznamka": "Ulica: Železničná\nLinka: 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549844.56,
+                    -1223817.37
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 18,
+                "nazev": "",
+                "inventarni_cislo": 18,
+                "poznamka": "Ulica: Tehelná\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550005.8,
+                    -1223772.02
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 19,
+                "nazev": "",
+                "inventarni_cislo": 19,
+                "poznamka": "Ulica: Železničná\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550358.11,
+                    -1224119.22
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 20,
+                "nazev": "",
+                "inventarni_cislo": 20,
+                "poznamka": "Ulica: Železničná\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550422.33,
+                    -1224148.27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 21,
+                "nazev": "",
+                "inventarni_cislo": 21,
+                "poznamka": "Ulica: Železničná\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550746.07,
+                    -1224396.82
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 22,
+                "nazev": "",
+                "inventarni_cislo": 22,
+                "poznamka": "Ulica: Železničná\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550777.38,
+                    -1224400.38
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 23,
+                "nazev": "",
+                "inventarni_cislo": 23,
+                "poznamka": "Ulica: Železničná\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -551252.48,
+                    -1224735.68
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 24,
+                "nazev": "",
+                "inventarni_cislo": 24,
+                "poznamka": "Ulica: Čáčovská\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550855.51,
+                    -1223452.69
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 25,
+                "nazev": "",
+                "inventarni_cislo": 25,
+                "poznamka": "Ulica: Čáčovská\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550857.53,
+                    -1223473.04
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 26,
+                "nazev": "",
+                "inventarni_cislo": 26,
+                "poznamka": "Ulica: Čáčovská\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -551498.77,
+                    -1223696.41
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 27,
+                "nazev": "",
+                "inventarni_cislo": 27,
+                "poznamka": "Ulica: Čáčovská\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -551400.26,
+                    -1223683.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 28,
+                "nazev": "",
+                "inventarni_cislo": 28,
+                "poznamka": "Ulica: Čáčovská\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550589.16,
+                    -1223366.88
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 29,
+                "nazev": "",
+                "inventarni_cislo": 29,
+                "poznamka": "Ulica: Čáčovská\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550448.88,
+                    -1223328.38
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 30,
+                "nazev": "",
+                "inventarni_cislo": 30,
+                "poznamka": "Ulica: Hviezdoslavova\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549005.16,
+                    -1223316.41
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 31,
+                "nazev": "",
+                "inventarni_cislo": 31,
+                "poznamka": "Ulica: Hviezdoslavova\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548987.06,
+                    -1223329.34
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 32,
+                "nazev": "",
+                "inventarni_cislo": 32,
+                "poznamka": "Ulica: Štefánikova\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548514,
+                    -1223316.59
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 33,
+                "nazev": "",
+                "inventarni_cislo": 33,
+                "poznamka": "Ulica: Štefánikova\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548474.93,
+                    -1223299.46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 34,
+                "nazev": "",
+                "inventarni_cislo": 34,
+                "poznamka": "Ulica: Štefánikova\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548168.42,
+                    -1223346.85
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 35,
+                "nazev": "",
+                "inventarni_cislo": 35,
+                "poznamka": "Ulica: Štefánikova\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548140.28,
+                    -1223329.66
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 36,
+                "nazev": "",
+                "inventarni_cislo": 36,
+                "poznamka": "Ulica: Dlhá\nLinka: 2, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549081.22,
+                    -1223818.79
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 37,
+                "nazev": "",
+                "inventarni_cislo": 37,
+                "poznamka": "Ulica: Dlhá\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548708.13,
+                    -1223791.63
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 38,
+                "nazev": "",
+                "inventarni_cislo": 38,
+                "poznamka": "Ulica: Dlhá\nLinka: 2, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549121.85,
+                    -1223831.38
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 39,
+                "nazev": "",
+                "inventarni_cislo": 39,
+                "poznamka": "Ulica: Vajanského\nLinka: 1, 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548667.82,
+                    -1223847.83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 40,
+                "nazev": "",
+                "inventarni_cislo": 40,
+                "poznamka": "Ulica: Vajanského\nLinka: 1, 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548650.7,
+                    -1223745.89
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 41,
+                "nazev": "",
+                "inventarni_cislo": 41,
+                "poznamka": "Ulica: Brezová\nLinka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548440.83,
+                    -1223755.85
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 42,
+                "nazev": "",
+                "inventarni_cislo": 42,
+                "poznamka": "Ulica: SNP\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548368.49,
+                    -1223829.64
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 43,
+                "nazev": "",
+                "inventarni_cislo": 43,
+                "poznamka": "Ulica: Komenského\nLinka: 1, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548026.89,
+                    -1223685.63
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 44,
+                "nazev": "",
+                "inventarni_cislo": 44,
+                "poznamka": "Ulica: Komenského\nLinka: 1, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548016.21,
+                    -1223682.94
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 45,
+                "nazev": "",
+                "inventarni_cislo": 45,
+                "poznamka": "Ulica: Brestové",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -545374.88,
+                    -1223914.44
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 46,
+                "nazev": "",
+                "inventarni_cislo": 46,
+                "poznamka": "Ulica: Brestové",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -545395.04,
+                    -1223899.01
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 47,
+                "nazev": "",
+                "inventarni_cislo": 47,
+                "poznamka": "",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -545963.37,
+                    -1220967.67
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 48,
+                "nazev": "",
+                "inventarni_cislo": 48,
+                "poznamka": "Linka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -546305.09,
+                    -1222096.94
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 49,
+                "nazev": "",
+                "inventarni_cislo": 49,
+                "poznamka": "Linka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -546005.69,
+                    -1222547.79
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 50,
+                "nazev": "",
+                "inventarni_cislo": 50,
+                "poznamka": "Linka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -545990.13,
+                    -1222556.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 51,
+                "nazev": "",
+                "inventarni_cislo": 51,
+                "poznamka": "Linka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -546347.05,
+                    -1222869.49
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 52,
+                "nazev": "",
+                "inventarni_cislo": 52,
+                "poznamka": "Ulica: Štefánikova\nLinka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547557.72,
+                    -1223368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 53,
+                "nazev": "",
+                "inventarni_cislo": 53,
+                "poznamka": "Ulica: Štefánikova\nLinka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547602.85,
+                    -1223377.36
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 54,
+                "nazev": "",
+                "inventarni_cislo": 54,
+                "poznamka": "Ulica: Sadová\nLinka: 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548346.46,
+                    -1223083.01
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 55,
+                "nazev": "",
+                "inventarni_cislo": 55,
+                "poznamka": "Ulica: L. Novomeského\nLinka: 2, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548201.84,
+                    -1222857.87
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 56,
+                "nazev": "",
+                "inventarni_cislo": 56,
+                "poznamka": "Ulica: Sotinská\nLinka: 1, 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548582.74,
+                    -1222621.18
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 57,
+                "nazev": "",
+                "inventarni_cislo": 57,
+                "poznamka": "Ulica: Sotinská\nLinka: 1, 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548588.36,
+                    -1222597.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 58,
+                "nazev": "",
+                "inventarni_cislo": 58,
+                "poznamka": "Ulica: Sotinská\nLinka: 1, 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548255.24,
+                    -1222618.54
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 59,
+                "nazev": "",
+                "inventarni_cislo": 59,
+                "poznamka": "Ulica: Sotinská\nLinka: 1, 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548245.83,
+                    -1222640.45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 60,
+                "nazev": "",
+                "inventarni_cislo": 60,
+                "poznamka": "Ulica: Sotinská\nLinka: 1, 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547824.14,
+                    -1222708.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 61,
+                "nazev": "",
+                "inventarni_cislo": 61,
+                "poznamka": "Linka: 2, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547927.2,
+                    -1222892.51
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 62,
+                "nazev": "",
+                "inventarni_cislo": 62,
+                "poznamka": "Linka: 1, 2, 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548837.22,
+                    -1223121.13
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 274,
+                "nazev": "",
+                "inventarni_cislo": "",
+                "poznamka": "",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -547909.95,
+                        -1222911.53
+                    ]
+                ]
+            }
+        }
+    ]
+}

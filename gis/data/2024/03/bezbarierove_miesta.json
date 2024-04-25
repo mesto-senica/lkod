@@ -1,0 +1,5307 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 182,
+                "nazev": "",
+                "inventarni_cislo": 1,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík; ...\nbez úpravy\nnájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548686.63,
+                                -1223282.86
+                            ],
+                            [
+                                -548687.61,
+                                -1223281.21
+                            ],
+                            [
+                                -548687.6,
+                                -1223280.98
+                            ],
+                            [
+                                -548682.3,
+                                -1223281.58
+                            ],
+                            [
+                                -548682.56,
+                                -1223283.44
+                            ],
+                            [
+                                -548686.63,
+                                -1223282.86
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 183,
+                "nazev": "",
+                "inventarni_cislo": 2,
+                "poznamka": "-slabozraký; nevidiaci; \n\ndrážky/výstupky na dlažbe\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548691.55,
+                                -1223280.95
+                            ],
+                            [
+                                -548691.98,
+                                -1223280.95
+                            ],
+                            [
+                                -548692.69,
+                                -1223278.31
+                            ],
+                            [
+                                -548693.22,
+                                -1223275.64
+                            ],
+                            [
+                                -548692.74,
+                                -1223275.6
+                            ],
+                            [
+                                -548692.3,
+                                -1223277.75
+                            ],
+                            [
+                                -548686.73,
+                                -1223276.96
+                            ],
+                            [
+                                -548682.44,
+                                -1223276.38
+                            ],
+                            [
+                                -548682.4,
+                                -1223277.1
+                            ],
+                            [
+                                -548689.73,
+                                -1223278.09
+                            ],
+                            [
+                                -548692.14,
+                                -1223278.5
+                            ],
+                            [
+                                -548691.55,
+                                -1223280.95
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 184,
+                "nazev": "",
+                "inventarni_cislo": 3,
+                "poznamka": "slabozraký; nevidiaci;\ndrážky/výstupky na dlažbe;\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548706.19,
+                                -1223281.37
+                            ],
+                            [
+                                -548705.74,
+                                -1223278.45
+                            ],
+                            [
+                                -548710.25,
+                                -1223278.51
+                            ],
+                            [
+                                -548710.16,
+                                -1223277.41
+                            ],
+                            [
+                                -548705.63,
+                                -1223277.37
+                            ],
+                            [
+                                -548705.57,
+                                -1223275.22
+                            ],
+                            [
+                                -548704.95,
+                                -1223275.16
+                            ],
+                            [
+                                -548705.06,
+                                -1223277.75
+                            ],
+                            [
+                                -548705.7,
+                                -1223281.48
+                            ],
+                            [
+                                -548706.19,
+                                -1223281.37
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 185,
+                "nazev": "",
+                "inventarni_cislo": 4,
+                "poznamka": "slabozraký; nevidiaci; \n\ndrážky/výstupky na dlažbe;\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548720.77,
+                                -1223313.01
+                            ],
+                            [
+                                -548718.41,
+                                -1223314.14
+                            ],
+                            [
+                                -548716.36,
+                                -1223315.33
+                            ],
+                            [
+                                -548716.56,
+                                -1223315.74
+                            ],
+                            [
+                                -548719.04,
+                                -1223314.39
+                            ],
+                            [
+                                -548717.84,
+                                -1223326.48
+                            ],
+                            [
+                                -548718.18,
+                                -1223326.54
+                            ],
+                            [
+                                -548717.28,
+                                -1223341.64
+                            ],
+                            [
+                                -548717.7,
+                                -1223341.43
+                            ],
+                            [
+                                -548718.56,
+                                -1223326.54
+                            ],
+                            [
+                                -548718.89,
+                                -1223326.53
+                            ],
+                            [
+                                -548719.49,
+                                -1223314.16
+                            ],
+                            [
+                                -548721.27,
+                                -1223313.46
+                            ],
+                            [
+                                -548721.26,
+                                -1223312.8
+                            ],
+                            [
+                                -548720.77,
+                                -1223313.01
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 186,
+                "nazev": "",
+                "inventarni_cislo": 5,
+                "poznamka": "slabozraký; nevidiaci;\n\ndrážky/výstupky na dlažbe;\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548720.38,
+                                -1223298.25
+                            ],
+                            [
+                                -548721.13,
+                                -1223298.44
+                            ],
+                            [
+                                -548721.14,
+                                -1223297.86
+                            ],
+                            [
+                                -548719.71,
+                                -1223297.42
+                            ],
+                            [
+                                -548719.82,
+                                -1223293.18
+                            ],
+                            [
+                                -548720.09,
+                                -1223287.26
+                            ],
+                            [
+                                -548719.34,
+                                -1223287.23
+                            ],
+                            [
+                                -548719.19,
+                                -1223294.91
+                            ],
+                            [
+                                -548719.07,
+                                -1223297.21
+                            ],
+                            [
+                                -548717.26,
+                                -1223296.39
+                            ],
+                            [
+                                -548717.13,
+                                -1223296.83
+                            ],
+                            [
+                                -548720.38,
+                                -1223298.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 187,
+                "nazev": "",
+                "inventarni_cislo": 6,
+                "poznamka": "slabozraký; nevidiaci;\n\ndrážky/výstupky na dlažbe;\n\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548704.82,
+                                -1223337.37
+                            ],
+                            [
+                                -548704.79,
+                                -1223335.1
+                            ],
+                            [
+                                -548711.05,
+                                -1223335.55
+                            ],
+                            [
+                                -548711.08,
+                                -1223334.49
+                            ],
+                            [
+                                -548704.78,
+                                -1223334.05
+                            ],
+                            [
+                                -548705.05,
+                                -1223332.45
+                            ],
+                            [
+                                -548704.45,
+                                -1223332.4
+                            ],
+                            [
+                                -548704.2,
+                                -1223334.96
+                            ],
+                            [
+                                -548704.35,
+                                -1223337.31
+                            ],
+                            [
+                                -548704.82,
+                                -1223337.37
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 188,
+                "nazev": "",
+                "inventarni_cislo": 7,
+                "poznamka": "slabozraký; nevidiaci;\n\ndrážky/výstupky na dlažbe;\n\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548713.5,
+                                -1223344.99
+                            ],
+                            [
+                                -548714.32,
+                                -1223343.97
+                            ],
+                            [
+                                -548712.29,
+                                -1223335.67
+                            ],
+                            [
+                                -548711.17,
+                                -1223335.88
+                            ],
+                            [
+                                -548713.5,
+                                -1223344.99
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 189,
+                "nazev": "",
+                "inventarni_cislo": 8,
+                "poznamka": "slabozraký; nevidiaci;\ndrážky/výstupky na dlažbe;\n\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548690.12,
+                                -1223333.07
+                            ],
+                            [
+                                -548689.9,
+                                -1223332.11
+                            ],
+                            [
+                                -548689.39,
+                                -1223332.25
+                            ],
+                            [
+                                -548689.72,
+                                -1223333.71
+                            ],
+                            [
+                                -548690.08,
+                                -1223337.2
+                            ],
+                            [
+                                -548690.41,
+                                -1223337.18
+                            ],
+                            [
+                                -548690.12,
+                                -1223333.07
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 190,
+                "nazev": "",
+                "inventarni_cislo": 9,
+                "poznamka": "slabozraký; nevidiaci;\ndrážky/výstupky na dlažbe;\n\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548667.44,
+                                -1223309.41
+                            ],
+                            [
+                                -548668.84,
+                                -1223310
+                            ],
+                            [
+                                -548668.36,
+                                -1223319.69
+                            ],
+                            [
+                                -548669.24,
+                                -1223319.8
+                            ],
+                            [
+                                -548669.56,
+                                -1223314.86
+                            ],
+                            [
+                                -548669.87,
+                                -1223310.25
+                            ],
+                            [
+                                -548671.96,
+                                -1223311.3
+                            ],
+                            [
+                                -548672.27,
+                                -1223310.9
+                            ],
+                            [
+                                -548671.63,
+                                -1223310.54
+                            ],
+                            [
+                                -548667.54,
+                                -1223308.78
+                            ],
+                            [
+                                -548667.44,
+                                -1223309.41
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 191,
+                "nazev": "",
+                "inventarni_cislo": 10,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548661.34,
+                                -1223285.8
+                            ],
+                            [
+                                -548666,
+                                -1223285.99
+                            ],
+                            [
+                                -548666.19,
+                                -1223284.78
+                            ],
+                            [
+                                -548661.36,
+                                -1223284.54
+                            ],
+                            [
+                                -548661.34,
+                                -1223285.8
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 192,
+                "nazev": "",
+                "inventarni_cislo": 11,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548256.41,
+                                -1222587.75
+                            ],
+                            [
+                                -548253.77,
+                                -1222588.04
+                            ],
+                            [
+                                -548254.6,
+                                -1222593.36
+                            ],
+                            [
+                                -548257.06,
+                                -1222593.06
+                            ],
+                            [
+                                -548256.41,
+                                -1222587.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 193,
+                "nazev": "",
+                "inventarni_cislo": 12,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548470.46,
+                                -1222547.77
+                            ],
+                            [
+                                -548469.77,
+                                -1222547.82
+                            ],
+                            [
+                                -548470.08,
+                                -1222550.76
+                            ],
+                            [
+                                -548470.77,
+                                -1222550.68
+                            ],
+                            [
+                                -548470.46,
+                                -1222547.77
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 194,
+                "nazev": "",
+                "inventarni_cislo": 13,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548488.48,
+                                -1222545.79
+                            ],
+                            [
+                                -548487.78,
+                                -1222545.84
+                            ],
+                            [
+                                -548488.19,
+                                -1222548.44
+                            ],
+                            [
+                                -548488.76,
+                                -1222548.38
+                            ],
+                            [
+                                -548488.48,
+                                -1222545.79
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 195,
+                "nazev": "",
+                "inventarni_cislo": 14,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548452.58,
+                                -1222549.89
+                            ],
+                            [
+                                -548451.9,
+                                -1222549.97
+                            ],
+                            [
+                                -548452.2,
+                                -1222552.92
+                            ],
+                            [
+                                -548452.9,
+                                -1222552.83
+                            ],
+                            [
+                                -548452.58,
+                                -1222549.89
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 196,
+                "nazev": "",
+                "inventarni_cislo": 15,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548434.66,
+                                -1222551.94
+                            ],
+                            [
+                                -548433.9,
+                                -1222552.03
+                            ],
+                            [
+                                -548434.16,
+                                -1222553.52
+                            ],
+                            [
+                                -548434.87,
+                                -1222553.48
+                            ],
+                            [
+                                -548434.66,
+                                -1222551.94
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 197,
+                "nazev": "",
+                "inventarni_cislo": 16,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548495.54,
+                                -1222518.63
+                            ],
+                            [
+                                -548495.63,
+                                -1222519.39
+                            ],
+                            [
+                                -548499.09,
+                                -1222518.99
+                            ],
+                            [
+                                -548499.05,
+                                -1222518.34
+                            ],
+                            [
+                                -548495.54,
+                                -1222518.63
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 198,
+                "nazev": "",
+                "inventarni_cislo": 17,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -547973.18,
+                                -1223424.71
+                            ],
+                            [
+                                -547972.42,
+                                -1223424.73
+                            ],
+                            [
+                                -547972.56,
+                                -1223426.82
+                            ],
+                            [
+                                -547973.27,
+                                -1223426.75
+                            ],
+                            [
+                                -547973.18,
+                                -1223424.71
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 199,
+                "nazev": "",
+                "inventarni_cislo": 18,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -547955.24,
+                                -1223425.85
+                            ],
+                            [
+                                -547954.52,
+                                -1223425.93
+                            ],
+                            [
+                                -547954.6,
+                                -1223427.9
+                            ],
+                            [
+                                -547955.43,
+                                -1223427.83
+                            ],
+                            [
+                                -547955.24,
+                                -1223425.85
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 200,
+                "nazev": "",
+                "inventarni_cislo": 19,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -547940.77,
+                                -1223426.54
+                            ],
+                            [
+                                -547939.93,
+                                -1223426.59
+                            ],
+                            [
+                                -547940.09,
+                                -1223428.9
+                            ],
+                            [
+                                -547940.9,
+                                -1223428.88
+                            ],
+                            [
+                                -547940.77,
+                                -1223426.54
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 201,
+                "nazev": "",
+                "inventarni_cislo": 20,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -547922.02,
+                                -1223424.78
+                            ],
+                            [
+                                -547921.2,
+                                -1223424.83
+                            ],
+                            [
+                                -547921.31,
+                                -1223426.95
+                            ],
+                            [
+                                -547922.09,
+                                -1223426.92
+                            ],
+                            [
+                                -547922.02,
+                                -1223424.78
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 202,
+                "nazev": "",
+                "inventarni_cislo": 21,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -547907.7,
+                                -1223425.59
+                            ],
+                            [
+                                -547906.82,
+                                -1223425.65
+                            ],
+                            [
+                                -547906.86,
+                                -1223427.67
+                            ],
+                            [
+                                -547907.74,
+                                -1223427.62
+                            ],
+                            [
+                                -547907.7,
+                                -1223425.59
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 203,
+                "nazev": "",
+                "inventarni_cislo": 22,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548003.75,
+                                -1223413.89
+                            ],
+                            [
+                                -548003.69,
+                                -1223413.17
+                            ],
+                            [
+                                -548001.5,
+                                -1223413.29
+                            ],
+                            [
+                                -548001.56,
+                                -1223414.06
+                            ],
+                            [
+                                -548003.75,
+                                -1223413.89
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 204,
+                "nazev": "",
+                "inventarni_cislo": 23,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548052.1,
+                                -1223441.6
+                            ],
+                            [
+                                -548052.21,
+                                -1223440.56
+                            ],
+                            [
+                                -548049.26,
+                                -1223441.03
+                            ],
+                            [
+                                -548049.25,
+                                -1223441.86
+                            ],
+                            [
+                                -548052.1,
+                                -1223441.6
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 205,
+                "nazev": "",
+                "inventarni_cislo": 24,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úprav\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548052.96,
+                                -1223459.5
+                            ],
+                            [
+                                -548052.89,
+                                -1223458.59
+                            ],
+                            [
+                                -548050.42,
+                                -1223459.05
+                            ],
+                            [
+                                -548050.57,
+                                -1223459.86
+                            ],
+                            [
+                                -548052.96,
+                                -1223459.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 206,
+                "nazev": "",
+                "inventarni_cislo": 25,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548485.91,
+                                -1223723.65
+                            ],
+                            [
+                                -548483.92,
+                                -1223723.39
+                            ],
+                            [
+                                -548483.49,
+                                -1223726.73
+                            ],
+                            [
+                                -548485.47,
+                                -1223726.99
+                            ],
+                            [
+                                -548485.91,
+                                -1223723.65
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 207,
+                "nazev": "",
+                "inventarni_cislo": 26,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548733.22,
+                                -1223704.91
+                            ],
+                            [
+                                -548734.3,
+                                -1223705.13
+                            ],
+                            [
+                                -548735.43,
+                                -1223702.46
+                            ],
+                            [
+                                -548735.74,
+                                -1223702.51
+                            ],
+                            [
+                                -548737.01,
+                                -1223698.82
+                            ],
+                            [
+                                -548735.32,
+                                -1223698.23
+                            ],
+                            [
+                                -548733.22,
+                                -1223704.91
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 208,
+                "nazev": "",
+                "inventarni_cislo": 27,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548728.46,
+                                -1223675
+                            ],
+                            [
+                                -548727.68,
+                                -1223674.72
+                            ],
+                            [
+                                -548727.38,
+                                -1223675.65
+                            ],
+                            [
+                                -548728.14,
+                                -1223675.91
+                            ],
+                            [
+                                -548728.46,
+                                -1223675
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 209,
+                "nazev": "",
+                "inventarni_cislo": 28,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548729.84,
+                                -1223670.73
+                            ],
+                            [
+                                -548729.05,
+                                -1223670.4
+                            ],
+                            [
+                                -548728.43,
+                                -1223672.44
+                            ],
+                            [
+                                -548729.23,
+                                -1223672.71
+                            ],
+                            [
+                                -548729.84,
+                                -1223670.73
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 210,
+                "nazev": "",
+                "inventarni_cislo": 29,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548746.06,
+                                -1223679.09
+                            ],
+                            [
+                                -548745.32,
+                                -1223678.83
+                            ],
+                            [
+                                -548745.08,
+                                -1223679.67
+                            ],
+                            [
+                                -548745.85,
+                                -1223679.9
+                            ],
+                            [
+                                -548746.06,
+                                -1223679.09
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 211,
+                "nazev": "",
+                "inventarni_cislo": 30,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548747.59,
+                                -1223674.64
+                            ],
+                            [
+                                -548746.85,
+                                -1223674.38
+                            ],
+                            [
+                                -548746.22,
+                                -1223676.42
+                            ],
+                            [
+                                -548746.97,
+                                -1223676.67
+                            ],
+                            [
+                                -548747.59,
+                                -1223674.64
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 212,
+                "nazev": "",
+                "inventarni_cislo": 31,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548763,
+                                -1223686.41
+                            ],
+                            [
+                                -548762.37,
+                                -1223686.22
+                            ],
+                            [
+                                -548762.12,
+                                -1223687.1
+                            ],
+                            [
+                                -548762.77,
+                                -1223687.31
+                            ],
+                            [
+                                -548763,
+                                -1223686.41
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 213,
+                "nazev": "",
+                "inventarni_cislo": 32,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548764.33,
+                                -1223682.2
+                            ],
+                            [
+                                -548763.59,
+                                -1223681.95
+                            ],
+                            [
+                                -548763.13,
+                                -1223684.14
+                            ],
+                            [
+                                -548763.68,
+                                -1223684.29
+                            ],
+                            [
+                                -548764.33,
+                                -1223682.2
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 214,
+                "nazev": "",
+                "inventarni_cislo": 33,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548780.7,
+                                -1223690.47
+                            ],
+                            [
+                                -548780.01,
+                                -1223690.23
+                            ],
+                            [
+                                -548779.69,
+                                -1223691.14
+                            ],
+                            [
+                                -548780.38,
+                                -1223691.35
+                            ],
+                            [
+                                -548780.7,
+                                -1223690.47
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 215,
+                "nazev": "",
+                "inventarni_cislo": 34,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548782.11,
+                                -1223686.16
+                            ],
+                            [
+                                -548781.32,
+                                -1223685.91
+                            ],
+                            [
+                                -548780.79,
+                                -1223687.97
+                            ],
+                            [
+                                -548781.49,
+                                -1223688.22
+                            ],
+                            [
+                                -548782.11,
+                                -1223686.16
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 216,
+                "nazev": "",
+                "inventarni_cislo": 35,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548811.37,
+                                -1223670.17
+                            ],
+                            [
+                                -548811.16,
+                                -1223670.84
+                            ],
+                            [
+                                -548812.01,
+                                -1223671.16
+                            ],
+                            [
+                                -548812.23,
+                                -1223670.41
+                            ],
+                            [
+                                -548811.37,
+                                -1223670.17
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 217,
+                "nazev": "",
+                "inventarni_cislo": 36,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548807.2,
+                                -1223668.81
+                            ],
+                            [
+                                -548806.96,
+                                -1223669.54
+                            ],
+                            [
+                                -548809.04,
+                                -1223670.18
+                            ],
+                            [
+                                -548809.27,
+                                -1223669.46
+                            ],
+                            [
+                                -548807.2,
+                                -1223668.81
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 218,
+                "nazev": "",
+                "inventarni_cislo": 37,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548643.35,
+                                -1223567.73
+                            ],
+                            [
+                                -548643.39,
+                                -1223566.67
+                            ],
+                            [
+                                -548641.73,
+                                -1223566.57
+                            ],
+                            [
+                                -548641.71,
+                                -1223567.65
+                            ],
+                            [
+                                -548641.53,
+                                -1223570.61
+                            ],
+                            [
+                                -548643.17,
+                                -1223570.7
+                            ],
+                            [
+                                -548643.35,
+                                -1223567.73
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 219,
+                "nazev": "",
+                "inventarni_cislo": 38,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548643.89,
+                                -1223546.35
+                            ],
+                            [
+                                -548643.86,
+                                -1223547.05
+                            ],
+                            [
+                                -548645.4,
+                                -1223547.15
+                            ],
+                            [
+                                -548645.42,
+                                -1223546.4
+                            ],
+                            [
+                                -548643.89,
+                                -1223546.35
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 220,
+                "nazev": "",
+                "inventarni_cislo": 39,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548644.53,
+                                -1223532.01
+                            ],
+                            [
+                                -548644.45,
+                                -1223532.68
+                            ],
+                            [
+                                -548645.9,
+                                -1223532.75
+                            ],
+                            [
+                                -548645.95,
+                                -1223532.08
+                            ],
+                            [
+                                -548644.53,
+                                -1223532.01
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 221,
+                "nazev": "",
+                "inventarni_cislo": 40,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548645.22,
+                                -1223513.67
+                            ],
+                            [
+                                -548645.25,
+                                -1223514.36
+                            ],
+                            [
+                                -548646.52,
+                                -1223514.44
+                            ],
+                            [
+                                -548646.49,
+                                -1223513.76
+                            ],
+                            [
+                                -548645.22,
+                                -1223513.67
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 222,
+                "nazev": "",
+                "inventarni_cislo": 41,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548645.78,
+                                -1223499.19
+                            ],
+                            [
+                                -548645.69,
+                                -1223500.01
+                            ],
+                            [
+                                -548647.28,
+                                -1223500.05
+                            ],
+                            [
+                                -548647.3,
+                                -1223499.28
+                            ],
+                            [
+                                -548645.78,
+                                -1223499.19
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 223,
+                "nazev": "",
+                "inventarni_cislo": 42,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548646.47,
+                                -1223481.12
+                            ],
+                            [
+                                -548646.45,
+                                -1223481.68
+                            ],
+                            [
+                                -548647.94,
+                                -1223481.78
+                            ],
+                            [
+                                -548647.94,
+                                -1223481.19
+                            ],
+                            [
+                                -548646.47,
+                                -1223481.12
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 224,
+                "nazev": "",
+                "inventarni_cislo": 43,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548647.08,
+                                -1223466.48
+                            ],
+                            [
+                                -548647.05,
+                                -1223467.29
+                            ],
+                            [
+                                -548648.85,
+                                -1223467.34
+                            ],
+                            [
+                                -548648.9,
+                                -1223466.56
+                            ],
+                            [
+                                -548647.08,
+                                -1223466.48
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 225,
+                "nazev": "",
+                "inventarni_cislo": 44,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -547895.73,
+                                -1222754.7
+                            ],
+                            [
+                                -547895.84,
+                                -1222755.91
+                            ],
+                            [
+                                -547899.5,
+                                -1222755.5
+                            ],
+                            [
+                                -547899.42,
+                                -1222754.23
+                            ],
+                            [
+                                -547895.73,
+                                -1222754.7
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 226,
+                "nazev": "",
+                "inventarni_cislo": 45,
+                "poznamka": "s obmedzeným pohybom; kočík\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -547903.32,
+                                -1222771.97
+                            ],
+                            [
+                                -547903.44,
+                                -1222772.76
+                            ],
+                            [
+                                -547904.25,
+                                -1222772.66
+                            ],
+                            [
+                                -547904.18,
+                                -1222771.87
+                            ],
+                            [
+                                -547903.32,
+                                -1222771.97
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 227,
+                "nazev": "",
+                "inventarni_cislo": 46,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -547897.63,
+                                -1222772.66
+                            ],
+                            [
+                                -547897.75,
+                                -1222773.63
+                            ],
+                            [
+                                -547902.05,
+                                -1222773.41
+                            ],
+                            [
+                                -547901.97,
+                                -1222772.1
+                            ],
+                            [
+                                -547897.63,
+                                -1222772.66
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 228,
+                "nazev": "",
+                "inventarni_cislo": 47,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -547898.69,
+                                -1222790.95
+                            ],
+                            [
+                                -547898.82,
+                                -1222791.86
+                            ],
+                            [
+                                -547901.62,
+                                -1222791.47
+                            ],
+                            [
+                                -547901.67,
+                                -1222790.41
+                            ],
+                            [
+                                -547898.69,
+                                -1222790.95
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 229,
+                "nazev": "",
+                "inventarni_cislo": 48,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548112.81,
+                                -1222800.64
+                            ],
+                            [
+                                -548111.81,
+                                -1222800.83
+                            ],
+                            [
+                                -548112.02,
+                                -1222802.43
+                            ],
+                            [
+                                -548113,
+                                -1222802.37
+                            ],
+                            [
+                                -548112.81,
+                                -1222800.64
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 230,
+                "nazev": "",
+                "inventarni_cislo": 49,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548046.91,
+                                -1222807.73
+                            ],
+                            [
+                                -548045.78,
+                                -1222808
+                            ],
+                            [
+                                -548045.89,
+                                -1222809.63
+                            ],
+                            [
+                                -548047.05,
+                                -1222809.46
+                            ],
+                            [
+                                -548046.91,
+                                -1222807.73
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 231,
+                "nazev": "",
+                "inventarni_cislo": 50,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548179.07,
+                                -1222792.95
+                            ],
+                            [
+                                -548177.83,
+                                -1222793.06
+                            ],
+                            [
+                                -548178.05,
+                                -1222794.64
+                            ],
+                            [
+                                -548179.19,
+                                -1222794.47
+                            ],
+                            [
+                                -548179.07,
+                                -1222792.95
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 232,
+                "nazev": "",
+                "inventarni_cislo": 51,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548234.08,
+                                -1222780.21
+                            ],
+                            [
+                                -548233.99,
+                                -1222779.45
+                            ],
+                            [
+                                -548232.49,
+                                -1222779.65
+                            ],
+                            [
+                                -548232.51,
+                                -1222780.36
+                            ],
+                            [
+                                -548234.08,
+                                -1222780.21
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 233,
+                "nazev": "",
+                "inventarni_cislo": 52,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548236.1,
+                                -1222798.22
+                            ],
+                            [
+                                -548236.04,
+                                -1222797.23
+                            ],
+                            [
+                                -548234.54,
+                                -1222797.3
+                            ],
+                            [
+                                -548234.59,
+                                -1222798.3
+                            ],
+                            [
+                                -548236.1,
+                                -1222798.22
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 234,
+                "nazev": "",
+                "inventarni_cislo": 53,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548238.32,
+                                -1222817.82
+                            ],
+                            [
+                                -548238.21,
+                                -1222816.99
+                            ],
+                            [
+                                -548236.35,
+                                -1222817.23
+                            ],
+                            [
+                                -548236.39,
+                                -1222818.07
+                            ],
+                            [
+                                -548238.32,
+                                -1222817.82
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 235,
+                "nazev": "",
+                "inventarni_cislo": 54,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548251.68,
+                                -1222843.02
+                            ],
+                            [
+                                -548250.83,
+                                -1222843.11
+                            ],
+                            [
+                                -548251,
+                                -1222844.92
+                            ],
+                            [
+                                -548251.86,
+                                -1222844.93
+                            ],
+                            [
+                                -548251.68,
+                                -1222843.02
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 236,
+                "nazev": "",
+                "inventarni_cislo": 55,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548269.64,
+                                -1222841.11
+                            ],
+                            [
+                                -548268.82,
+                                -1222841.19
+                            ],
+                            [
+                                -548268.94,
+                                -1222842.89
+                            ],
+                            [
+                                -548269.88,
+                                -1222842.78
+                            ],
+                            [
+                                -548269.64,
+                                -1222841.11
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 237,
+                "nazev": "",
+                "inventarni_cislo": 56,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548283.93,
+                                -1222839.48
+                            ],
+                            [
+                                -548283.15,
+                                -1222839.57
+                            ],
+                            [
+                                -548283.25,
+                                -1222841.28
+                            ],
+                            [
+                                -548284.14,
+                                -1222841.18
+                            ],
+                            [
+                                -548283.93,
+                                -1222839.48
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 238,
+                "nazev": "",
+                "inventarni_cislo": 57,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548301.99,
+                                -1222837.4
+                            ],
+                            [
+                                -548301.2,
+                                -1222837.48
+                            ],
+                            [
+                                -548301.34,
+                                -1222838.93
+                            ],
+                            [
+                                -548302.14,
+                                -1222838.84
+                            ],
+                            [
+                                -548301.99,
+                                -1222837.4
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 239,
+                "nazev": "",
+                "inventarni_cislo": 58,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548309.93,
+                                -1222809.24
+                            ],
+                            [
+                                -548310.01,
+                                -1222809.99
+                            ],
+                            [
+                                -548312,
+                                -1222809.78
+                            ],
+                            [
+                                -548311.92,
+                                -1222809.03
+                            ],
+                            [
+                                -548309.93,
+                                -1222809.24
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 240,
+                "nazev": "",
+                "inventarni_cislo": 59,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548307.85,
+                                -1222791.24
+                            ],
+                            [
+                                -548307.93,
+                                -1222791.99
+                            ],
+                            [
+                                -548309.97,
+                                -1222791.78
+                            ],
+                            [
+                                -548309.9,
+                                -1222791.04
+                            ],
+                            [
+                                -548307.85,
+                                -1222791.24
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 241,
+                "nazev": "",
+                "inventarni_cislo": 60,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548305.89,
+                                -1222773.5
+                            ],
+                            [
+                                -548305.97,
+                                -1222774.23
+                            ],
+                            [
+                                -548307.96,
+                                -1222774.04
+                            ],
+                            [
+                                -548307.88,
+                                -1222773.3
+                            ],
+                            [
+                                -548305.89,
+                                -1222773.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 242,
+                "nazev": "",
+                "inventarni_cislo": 61,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548504.82,
+                                -1223036.11
+                            ],
+                            [
+                                -548505.21,
+                                -1223041.6
+                            ],
+                            [
+                                -548505.97,
+                                -1223042.16
+                            ],
+                            [
+                                -548506.71,
+                                -1223042.43
+                            ],
+                            [
+                                -548507.39,
+                                -1223042.12
+                            ],
+                            [
+                                -548507.8,
+                                -1223041.6
+                            ],
+                            [
+                                -548507.92,
+                                -1223041.08
+                            ],
+                            [
+                                -548507.18,
+                                -1223029.5
+                            ],
+                            [
+                                -548505.89,
+                                -1223029.59
+                            ],
+                            [
+                                -548506.6,
+                                -1223040.97
+                            ],
+                            [
+                                -548506.37,
+                                -1223040.8
+                            ],
+                            [
+                                -548506.11,
+                                -1223036.01
+                            ],
+                            [
+                                -548505.44,
+                                -1223027.05
+                            ],
+                            [
+                                -548504.14,
+                                -1223027.14
+                            ],
+                            [
+                                -548504.82,
+                                -1223036.11
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 243,
+                "nazev": "",
+                "inventarni_cislo": 62,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548499.48,
+                                -1222826.24
+                            ],
+                            [
+                                -548500.78,
+                                -1222826.14
+                            ],
+                            [
+                                -548500.39,
+                                -1222820.64
+                            ],
+                            [
+                                -548499.09,
+                                -1222820.72
+                            ],
+                            [
+                                -548499.48,
+                                -1222826.24
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 244,
+                "nazev": "",
+                "inventarni_cislo": 63,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548477.44,
+                                -1222722.21
+                            ],
+                            [
+                                -548476.55,
+                                -1222722.35
+                            ],
+                            [
+                                -548476.76,
+                                -1222723.72
+                            ],
+                            [
+                                -548477.65,
+                                -1222723.59
+                            ],
+                            [
+                                -548477.44,
+                                -1222722.21
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 245,
+                "nazev": "",
+                "inventarni_cislo": 64,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548460.59,
+                                -1222724.14
+                            ],
+                            [
+                                -548459.86,
+                                -1222724.23
+                            ],
+                            [
+                                -548459.97,
+                                -1222725.4
+                            ],
+                            [
+                                -548460.75,
+                                -1222725.37
+                            ],
+                            [
+                                -548460.59,
+                                -1222724.14
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 246,
+                "nazev": "",
+                "inventarni_cislo": 65,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548443.52,
+                                -1222726.15
+                            ],
+                            [
+                                -548442.78,
+                                -1222726.25
+                            ],
+                            [
+                                -548442.97,
+                                -1222727.68
+                            ],
+                            [
+                                -548443.71,
+                                -1222727.59
+                            ],
+                            [
+                                -548443.52,
+                                -1222726.15
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 247,
+                "nazev": "",
+                "inventarni_cislo": 66,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548745.34,
+                                -1223175.68
+                            ],
+                            [
+                                -548746.13,
+                                -1223175.75
+                            ],
+                            [
+                                -548746.17,
+                                -1223175.31
+                            ],
+                            [
+                                -548745.37,
+                                -1223175.25
+                            ],
+                            [
+                                -548745.34,
+                                -1223175.68
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 248,
+                "nazev": "",
+                "inventarni_cislo": 67,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548793.41,
+                                -1223339.74
+                            ],
+                            [
+                                -548793.41,
+                                -1223341.34
+                            ],
+                            [
+                                -548797.03,
+                                -1223341.35
+                            ],
+                            [
+                                -548797.03,
+                                -1223339.75
+                            ],
+                            [
+                                -548793.41,
+                                -1223339.74
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 249,
+                "nazev": "",
+                "inventarni_cislo": 68,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548821.89,
+                                -1223343.91
+                            ],
+                            [
+                                -548819.72,
+                                -1223342.48
+                            ],
+                            [
+                                -548816.24,
+                                -1223342.27
+                            ],
+                            [
+                                -548816.14,
+                                -1223343.87
+                            ],
+                            [
+                                -548819.2,
+                                -1223344.05
+                            ],
+                            [
+                                -548820.23,
+                                -1223344.74
+                            ],
+                            [
+                                -548820.04,
+                                -1223348.16
+                            ],
+                            [
+                                -548821.64,
+                                -1223348.26
+                            ],
+                            [
+                                -548821.89,
+                                -1223343.91
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 250,
+                "nazev": "",
+                "inventarni_cislo": 69,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548729.91,
+                                -1223379.11
+                            ],
+                            [
+                                -548731.02,
+                                -1223379.14
+                            ],
+                            [
+                                -548731.19,
+                                -1223374.63
+                            ],
+                            [
+                                -548730.09,
+                                -1223374.58
+                            ],
+                            [
+                                -548729.91,
+                                -1223379.11
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 251,
+                "nazev": "",
+                "inventarni_cislo": 70,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548745.31,
+                                -1223362.45
+                            ],
+                            [
+                                -548743.77,
+                                -1223361.76
+                            ],
+                            [
+                                -548743.28,
+                                -1223362.86
+                            ],
+                            [
+                                -548745.03,
+                                -1223363.65
+                            ],
+                            [
+                                -548748.68,
+                                -1223363.78
+                            ],
+                            [
+                                -548748.73,
+                                -1223362.57
+                            ],
+                            [
+                                -548745.31,
+                                -1223362.45
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 252,
+                "nazev": "",
+                "inventarni_cislo": 71,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548754.6,
+                                -1223362.8
+                            ],
+                            [
+                                -548754.56,
+                                -1223364.25
+                            ],
+                            [
+                                -548763.03,
+                                -1223364.52
+                            ],
+                            [
+                                -548763.08,
+                                -1223363.08
+                            ],
+                            [
+                                -548754.6,
+                                -1223362.8
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 253,
+                "nazev": "",
+                "inventarni_cislo": 72,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548824.64,
+                                -1223433.77
+                            ],
+                            [
+                                -548823.14,
+                                -1223433.74
+                            ],
+                            [
+                                -548823.08,
+                                -1223437.38
+                            ],
+                            [
+                                -548824.57,
+                                -1223437.4
+                            ],
+                            [
+                                -548824.64,
+                                -1223433.77
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 254,
+                "nazev": "",
+                "inventarni_cislo": 73,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549084.85,
+                                -1223467.28
+                            ],
+                            [
+                                -549085.51,
+                                -1223467.3
+                            ],
+                            [
+                                -549085.46,
+                                -1223465.4
+                            ],
+                            [
+                                -549084.76,
+                                -1223465.42
+                            ],
+                            [
+                                -549084.85,
+                                -1223467.28
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 255,
+                "nazev": "",
+                "inventarni_cislo": 74,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549099.21,
+                                -1223467.79
+                            ],
+                            [
+                                -549100,
+                                -1223467.8
+                            ],
+                            [
+                                -549100.14,
+                                -1223465.63
+                            ],
+                            [
+                                -549099.45,
+                                -1223465.56
+                            ],
+                            [
+                                -549099.21,
+                                -1223467.79
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 256,
+                "nazev": "",
+                "inventarni_cislo": 75,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549118.15,
+                                -1223466.61
+                            ],
+                            [
+                                -549117.29,
+                                -1223466.63
+                            ],
+                            [
+                                -549117.25,
+                                -1223468.71
+                            ],
+                            [
+                                -549118.03,
+                                -1223468.74
+                            ],
+                            [
+                                -549118.15,
+                                -1223466.61
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 257,
+                "nazev": "",
+                "inventarni_cislo": 76,
+                "poznamka": "s obmedzeným pohybom; vozíčkár; kočík;\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549132.5,
+                                -1223467.13
+                            ],
+                            [
+                                -549131.72,
+                                -1223467.11
+                            ],
+                            [
+                                -549131.64,
+                                -1223469.16
+                            ],
+                            [
+                                -549132.36,
+                                -1223469.17
+                            ],
+                            [
+                                -549132.5,
+                                -1223467.13
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 258,
+                "nazev": "",
+                "inventarni_cislo": 77,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549150.78,
+                                -1223467.87
+                            ],
+                            [
+                                -549150.09,
+                                -1223467.81
+                            ],
+                            [
+                                -549150.08,
+                                -1223469.93
+                            ],
+                            [
+                                -549150.78,
+                                -1223469.92
+                            ],
+                            [
+                                -549150.78,
+                                -1223467.87
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 259,
+                "nazev": "",
+                "inventarni_cislo": 78,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549165.15,
+                                -1223468.32
+                            ],
+                            [
+                                -549164.48,
+                                -1223468.31
+                            ],
+                            [
+                                -549164.43,
+                                -1223470.48
+                            ],
+                            [
+                                -549165.11,
+                                -1223470.48
+                            ],
+                            [
+                                -549165.15,
+                                -1223468.32
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 260,
+                "nazev": "",
+                "inventarni_cislo": 79,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549188.53,
+                                -1223580.81
+                            ],
+                            [
+                                -549187.82,
+                                -1223580.76
+                            ],
+                            [
+                                -549187.75,
+                                -1223582.26
+                            ],
+                            [
+                                -549188.44,
+                                -1223582.28
+                            ],
+                            [
+                                -549188.53,
+                                -1223580.81
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 261,
+                "nazev": "",
+                "inventarni_cislo": 80,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549202.92,
+                                -1223581.39
+                            ],
+                            [
+                                -549202.09,
+                                -1223581.38
+                            ],
+                            [
+                                -549202.07,
+                                -1223582.9
+                            ],
+                            [
+                                -549202.82,
+                                -1223582.88
+                            ],
+                            [
+                                -549202.92,
+                                -1223581.39
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 262,
+                "nazev": "",
+                "inventarni_cislo": 81,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549220.54,
+                                -1223583.62
+                            ],
+                            [
+                                -549221.21,
+                                -1223583.64
+                            ],
+                            [
+                                -549221.23,
+                                -1223582.1
+                            ],
+                            [
+                                -549220.58,
+                                -1223582.08
+                            ],
+                            [
+                                -549220.54,
+                                -1223583.62
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 263,
+                "nazev": "",
+                "inventarni_cislo": 82,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549235.6,
+                                -1223584.56
+                            ],
+                            [
+                                -549235.69,
+                                -1223582.72
+                            ],
+                            [
+                                -549234.91,
+                                -1223582.68
+                            ],
+                            [
+                                -549234.79,
+                                -1223584.56
+                            ],
+                            [
+                                -549235.6,
+                                -1223584.56
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 264,
+                "nazev": "",
+                "inventarni_cislo": 83,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549254.01,
+                                -1223583.46
+                            ],
+                            [
+                                -549253.21,
+                                -1223583.43
+                            ],
+                            [
+                                -549253.13,
+                                -1223584.45
+                            ],
+                            [
+                                -549253.92,
+                                -1223584.49
+                            ],
+                            [
+                                -549254.01,
+                                -1223583.46
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 265,
+                "nazev": "",
+                "inventarni_cislo": 84,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549268.32,
+                                -1223584
+                            ],
+                            [
+                                -549267.55,
+                                -1223583.95
+                            ],
+                            [
+                                -549267.41,
+                                -1223585.81
+                            ],
+                            [
+                                -549268.2,
+                                -1223585.77
+                            ],
+                            [
+                                -549268.32,
+                                -1223584
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 266,
+                "nazev": "",
+                "inventarni_cislo": 85,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549286.74,
+                                -1223585.8
+                            ],
+                            [
+                                -549286.71,
+                                -1223584.77
+                            ],
+                            [
+                                -549285.98,
+                                -1223584.74
+                            ],
+                            [
+                                -549285.94,
+                                -1223585.78
+                            ],
+                            [
+                                -549286.74,
+                                -1223585.8
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 267,
+                "nazev": "",
+                "inventarni_cislo": 86,
+                "poznamka": "s obmedzeným pohybom; kočík\n\nbez úpravy\n\nbezbariérový nájazd",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549301.01,
+                                -1223587.53
+                            ],
+                            [
+                                -549301.1,
+                                -1223585.34
+                            ],
+                            [
+                                -549300.38,
+                                -1223585.26
+                            ],
+                            [
+                                -549300.21,
+                                -1223587.46
+                            ],
+                            [
+                                -549301.01,
+                                -1223587.53
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 268,
+                "nazev": "",
+                "inventarni_cislo": 87,
+                "poznamka": "slabozraký; nevidiaci;\n\ndrážky/výstupky na dlažbe;\n\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548883.28,
+                                -1222636.63
+                            ],
+                            [
+                                -548882.8,
+                                -1222636.56
+                            ],
+                            [
+                                -548882.48,
+                                -1222637.79
+                            ],
+                            [
+                                -548882.19,
+                                -1222639.05
+                            ],
+                            [
+                                -548882.71,
+                                -1222639.11
+                            ],
+                            [
+                                -548883.28,
+                                -1222636.63
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 269,
+                "nazev": "",
+                "inventarni_cislo": 88,
+                "poznamka": "slabozraký; nevidiaci;\n\ndrážky/výstupky na dlažbe;\n\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549035.62,
+                                -1222593.85
+                            ],
+                            [
+                                -549034.74,
+                                -1222595.41
+                            ],
+                            [
+                                -549034.94,
+                                -1222595.49
+                            ],
+                            [
+                                -549033.57,
+                                -1222597.89
+                            ],
+                            [
+                                -549034,
+                                -1222598.12
+                            ],
+                            [
+                                -549035.25,
+                                -1222595.67
+                            ],
+                            [
+                                -549035.46,
+                                -1222595.79
+                            ],
+                            [
+                                -549036.23,
+                                -1222594.21
+                            ],
+                            [
+                                -549037,
+                                -1222594.66
+                            ],
+                            [
+                                -549037.25,
+                                -1222594.19
+                            ],
+                            [
+                                -549035.01,
+                                -1222592.96
+                            ],
+                            [
+                                -549034.78,
+                                -1222593.38
+                            ],
+                            [
+                                -549035.62,
+                                -1222593.85
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 270,
+                "nazev": "",
+                "inventarni_cislo": 89,
+                "poznamka": "slabozraký; nevidiaci;\n\ndrážky/výstupky na dlažbe;\n\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549039.68,
+                                -1222587.92
+                            ],
+                            [
+                                -549040.38,
+                                -1222586.59
+                            ],
+                            [
+                                -549040.2,
+                                -1222586.5
+                            ],
+                            [
+                                -549042.86,
+                                -1222581.61
+                            ],
+                            [
+                                -549042.48,
+                                -1222581.41
+                            ],
+                            [
+                                -549040,
+                                -1222586.34
+                            ],
+                            [
+                                -549039.83,
+                                -1222586.26
+                            ],
+                            [
+                                -549039.15,
+                                -1222587.6
+                            ],
+                            [
+                                -549038.19,
+                                -1222587.08
+                            ],
+                            [
+                                -549037.87,
+                                -1222587.66
+                            ],
+                            [
+                                -549040.14,
+                                -1222588.85
+                            ],
+                            [
+                                -549040.43,
+                                -1222588.32
+                            ],
+                            [
+                                -549039.68,
+                                -1222587.92
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 271,
+                "nazev": "",
+                "inventarni_cislo": 90,
+                "poznamka": "slabozraký; nevidiaci;\n\ndrážky/výstupky na dlažbe;\n\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548295.81,
+                                -1222617.36
+                            ],
+                            [
+                                -548294.33,
+                                -1222617.51
+                            ],
+                            [
+                                -548294,
+                                -1222615.28
+                            ],
+                            [
+                                -548293.11,
+                                -1222615.39
+                            ],
+                            [
+                                -548293.46,
+                                -1222617.61
+                            ],
+                            [
+                                -548292.56,
+                                -1222617.73
+                            ],
+                            [
+                                -548292.67,
+                                -1222618.45
+                            ],
+                            [
+                                -548295.89,
+                                -1222618.07
+                            ],
+                            [
+                                -548295.81,
+                                -1222617.36
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 272,
+                "nazev": "",
+                "inventarni_cislo": 91,
+                "poznamka": "slabozraký; nevidiaci;\n\ndrážky/výstupky na dlažbe;\n\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548295.73,
+                                -1222632.34
+                            ],
+                            [
+                                -548295.91,
+                                -1222635.62
+                            ],
+                            [
+                                -548296.51,
+                                -1222636.12
+                            ],
+                            [
+                                -548297.1,
+                                -1222636.69
+                            ],
+                            [
+                                -548296.61,
+                                -1222632.48
+                            ],
+                            [
+                                -548297.44,
+                                -1222632.73
+                            ],
+                            [
+                                -548297.55,
+                                -1222632.22
+                            ],
+                            [
+                                -548296.25,
+                                -1222631.81
+                            ],
+                            [
+                                -548295.09,
+                                -1222631.53
+                            ],
+                            [
+                                -548293.63,
+                                -1222631.54
+                            ],
+                            [
+                                -548293.77,
+                                -1222632.19
+                            ],
+                            [
+                                -548294.27,
+                                -1222634.49
+                            ],
+                            [
+                                -548294.68,
+                                -1222635.85
+                            ],
+                            [
+                                -548295.27,
+                                -1222637.04
+                            ],
+                            [
+                                -548296.03,
+                                -1222638.08
+                            ],
+                            [
+                                -548296.47,
+                                -1222638.57
+                            ],
+                            [
+                                -548297.19,
+                                -1222639.13
+                            ],
+                            [
+                                -548298.32,
+                                -1222639.73
+                            ],
+                            [
+                                -548300.15,
+                                -1222640.31
+                            ],
+                            [
+                                -548301.88,
+                                -1222640.73
+                            ],
+                            [
+                                -548302.88,
+                                -1222640.86
+                            ],
+                            [
+                                -548303.91,
+                                -1222640.84
+                            ],
+                            [
+                                -548304.13,
+                                -1222640.82
+                            ],
+                            [
+                                -548303.71,
+                                -1222639.07
+                            ],
+                            [
+                                -548303.43,
+                                -1222638.27
+                            ],
+                            [
+                                -548303.14,
+                                -1222637.48
+                            ],
+                            [
+                                -548302.55,
+                                -1222637.53
+                            ],
+                            [
+                                -548302.99,
+                                -1222638.64
+                            ],
+                            [
+                                -548299.67,
+                                -1222639.69
+                            ],
+                            [
+                                -548298.91,
+                                -1222639.49
+                            ],
+                            [
+                                -548297.51,
+                                -1222638.77
+                            ],
+                            [
+                                -548297.11,
+                                -1222638.47
+                            ],
+                            [
+                                -548296.61,
+                                -1222637.96
+                            ],
+                            [
+                                -548296.03,
+                                -1222637.25
+                            ],
+                            [
+                                -548295.41,
+                                -1222636.26
+                            ],
+                            [
+                                -548295.24,
+                                -1222635.72
+                            ],
+                            [
+                                -548294.98,
+                                -1222635.33
+                            ],
+                            [
+                                -548294.45,
+                                -1222632.24
+                            ],
+                            [
+                                -548295.73,
+                                -1222632.34
+                            ]
+                        ],
+                        [
+                            [
+                                -548303.26,
+                                -1222639.34
+                            ],
+                            [
+                                -548303.61,
+                                -1222640.33
+                            ],
+                            [
+                                -548302.28,
+                                -1222640.28
+                            ],
+                            [
+                                -548300.7,
+                                -1222639.96
+                            ],
+                            [
+                                -548303.26,
+                                -1222639.34
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 273,
+                "nazev": "",
+                "inventarni_cislo": 92,
+                "poznamka": "drážky/výstupky na dlažbe;\n\nslabozraký; nevidiaci;\n\nvodiaca línia v priechode pre chodcov",
+                "druh": "bezbariérové miesta",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548312.36,
+                                -1222638.04
+                            ],
+                            [
+                                -548313.93,
+                                -1222637.72
+                            ],
+                            [
+                                -548317.76,
+                                -1222637.02
+                            ],
+                            [
+                                -548317.65,
+                                -1222636.28
+                            ],
+                            [
+                                -548312.52,
+                                -1222637.42
+                            ],
+                            [
+                                -548312.69,
+                                -1222636.42
+                            ],
+                            [
+                                -548312.14,
+                                -1222636.51
+                            ],
+                            [
+                                -548311.75,
+                                -1222638.3
+                            ],
+                            [
+                                -548311.6,
+                                -1222639.34
+                            ],
+                            [
+                                -548312.18,
+                                -1222639.27
+                            ],
+                            [
+                                -548312.36,
+                                -1222638.04
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
