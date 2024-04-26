@@ -1,6 +1,6 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://opendata.senica.sk/gis/dataset-for-specific-period/2024/03/studne_a_hydranty.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/gis/dataset-for-specific-period/2024/03/studne_a_hydranty.jsonld",
     "typ": "Dataset",
     "názov": {
         "sk": "Studne a hydranty"
@@ -29,8 +29,8 @@
         "https://data.gov.sk/id/nuts3/SK021"
     ],
     "webová_stránka_datasetu": "https://gisplan.senica.sk",
-    "dátum_publikácie": "2024-04-25T13:20:51.108Z",
-    "dátum_modifikácie": "2024-04-25T13:20:51.108Z",
+    "dátum_publikácie": "2024-04-26T08:04:30.003Z",
+    "dátum_modifikácie": "2024-04-26T08:04:30.003Z",
     "časové_pokrytie": {
         "typ": "Časový interval",
         "začiatok": "2024-03-01",
@@ -47,10 +47,10 @@
     "koncept_euroVoc": [
         "http://eurovoc.europa.eu/3535"
     ],
-    "je_súčásťou": "https://opendata.senica.sk/gis/dataset/studne_a_hydranty.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/studne_a_hydranty.jsonld",
     "distribúcia": [
         {
-            "iri": "https://opendata.senica.sk/gis/data/2024/03/studne_a_hydranty.json",
+            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/03/studne_a_hydranty.json",
             "typ": "Distribúcia",
             "podmienky_použitia": {
                 "typ": "Špecifikácia podmienok použitia",
@@ -65,8 +65,8 @@
                 },
                 "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
             },
-            "prístupové_url": "https://opendata.senica.sk/gis/data/2024/03/studne_a_hydranty.json",
-            "súbor_na_stiahnutie": "https://opendata.senica.sk/gis/data/2024/03/studne_a_hydranty.json",
+            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/03/studne_a_hydranty.json",
+            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/03/studne_a_hydranty.json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
             "typ_média": "https://www.iana.org/assignments/media-types/application/geo+json",
             "názov": {
