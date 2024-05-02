@@ -61,6 +61,23 @@
         "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/03/studne_a_hydranty.jsonld",
         "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/03/ubytovacie_zariadenia.jsonld",
         "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/03/uzemny_plan.jsonld",
-        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/03/zdravotnicke_zariadenie.jsonld"
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/03/zdravotnicke_zariadenie.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/autobusove_zastavky.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/bezbarierove_miesta.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/cyklotrasy.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/komunikacie_linie.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/kulturne_pamiatky.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/mhd.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/mobiliar.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/mosty.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/nabijacie_stanice.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/osvetlenie.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/parkoviska.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/skolske_zariadenia.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/sportoviska_a_detske_ihriska.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/studne_a_hydranty.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/ubytovacie_zariadenia.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/uzemny_plan.jsonld",
+        "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/zdravotnicke_zariadenie.jsonld"
     ]
 }
