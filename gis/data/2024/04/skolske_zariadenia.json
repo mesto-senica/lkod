@@ -1,0 +1,929 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2543,
+                "type_tid": 20,
+                "title": "Základná škola s MŠ",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Základná škola s MŠ:Zakladna skola s MS:Školské zariadenie:Skolske zariadenie:::'mš':4 's':3 'zariadenie':6 'základná':1 'škola':2 'školské':5:'ms':4 's':3 'skola':2 'skolske':5 'zakladna':1 'zariadenie':6",
+                "tooltip": "Školské zariadenie | Základná škola s MŠ",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548389.15,
+                    -1222790.78
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2544,
+                "type_tid": 20,
+                "title": "Základná škola",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Základná škola:Zakladna skola:Školské zariadenie:Skolske zariadenie:::'zariadenie':4 'základná':1 'škola':2 'školské':3:'skola':2 'skolske':3 'zakladna':1 'zariadenie':4",
+                "tooltip": "Školské zariadenie | Základná škola",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548513.38,
+                    -1222880.09
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2532,
+                "type_tid": 20,
+                "title": "ŠZŠ s MŠ int. ako o. z. Spoj. školy",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "ŠZŠ s MŠ int. ako o. z. Spoj. školy:SZS s MS int. ako o. z. Spoj. skoly:Školské zariadenie:Skolske zariadenie:::'ako':5 'int':4 'mš':3 'o':6 's':2 'spoj':8 'z':7 'zariadenie':11 'školské':10 'školy':9 'šzš':1:'ako':5 'int':4 'ms':3 'o':6 's':2 'skolske':10 'skoly':9 'spoj':8 'szs':1 'z':7 'zariadenie':11",
+                "tooltip": "Školské zariadenie | ŠZŠ s MŠ int. ako o. z. Spoj. školy",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548470.37,
+                    -1223750.05
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2533,
+                "type_tid": 20,
+                "title": "Súkromná SOŠ podnikania",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Súkromná SOŠ podnikania:Sukromna SOS podnikania:Školské zariadenie:Skolske zariadenie:::'podnikania':3 'soš':2 'súkromná':1 'zariadenie':5 'školské':4:'podnikania':3 'skolske':4 'sos':2 'sukromna':1 'zariadenie':5",
+                "tooltip": "Školské zariadenie | Súkromná SOŠ podnikania",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548163.84,
+                    -1223477.08
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2549,
+                "type_tid": 20,
+                "title": "EP ako súčasť MŠ",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "EP ako súčasť MŠ:EP ako sucast MS:Školské zariadenie:Skolske zariadenie:::'ako':2 'ep':1 'mš':4 'súčasť':3 'zariadenie':6 'školské':5:'ako':2 'ep':1 'ms':4 'skolske':5 'sucast':3 'zariadenie':6",
+                "tooltip": "Školské zariadenie | EP ako súčasť MŠ",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549442.3,
+                    -1223587.56
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2550,
+                "type_tid": 20,
+                "title": "EP ako súčasť MŠ",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "EP ako súčasť MŠ:EP ako sucast MS:Školské zariadenie:Skolske zariadenie:::'ako':2 'ep':1 'mš':4 'súčasť':3 'zariadenie':6 'školské':5:'ako':2 'ep':1 'ms':4 'skolske':5 'sucast':3 'zariadenie':6",
+                "tooltip": "Školské zariadenie | EP ako súčasť MŠ",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548961.41,
+                    -1222826.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2551,
+                "type_tid": 20,
+                "title": "EP ako súčasť MŠ",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "EP ako súčasť MŠ:EP ako sucast MS:Školské zariadenie:Skolske zariadenie:::'ako':2 'ep':1 'mš':4 'súčasť':3 'zariadenie':6 'školské':5:'ako':2 'ep':1 'ms':4 'skolske':5 'sucast':3 'zariadenie':6",
+                "tooltip": "Školské zariadenie | EP ako súčasť MŠ",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550904.43,
+                    -1223299.28
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2529,
+                "type_tid": 20,
+                "title": "Špec. MŠ int. ako súčasť ŠZŠ",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Špec. MŠ int. ako súčasť ŠZŠ:Spec. MS int. ako sucast SZS:Školské zariadenie:Skolske zariadenie:::'ako':4 'int':3 'mš':2 'súčasť':5 'zariadenie':8 'školské':7 'špec':1 'šzš':6:'ako':4 'int':3 'ms':2 'skolske':7 'spec':1 'sucast':5 'szs':6 'zariadenie':8",
+                "tooltip": "Školské zariadenie | Špec. MŠ int. ako súčasť ŠZŠ",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548470.37,
+                    -1223750.05
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2541,
+                "type_tid": 20,
+                "title": "Základná škola",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Základná škola:Zakladna skola:Školské zariadenie:Skolske zariadenie:::'zariadenie':4 'základná':1 'škola':2 'školské':3:'skola':2 'skolske':3 'zakladna':1 'zariadenie':4",
+                "tooltip": "Školské zariadenie | Základná škola",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547980.12,
+                    -1223707.83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2542,
+                "type_tid": 20,
+                "title": "Základná škola",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Základná škola:Zakladna skola:Školské zariadenie:Skolske zariadenie:::'zariadenie':4 'základná':1 'škola':2 'školské':3:'skola':2 'skolske':3 'zakladna':1 'zariadenie':4",
+                "tooltip": "Školské zariadenie | Základná škola",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549011.86,
+                    -1224016.43
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2539,
+                "type_tid": 20,
+                "title": "MŠ ako súčasť ZŠ",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "MŠ ako súčasť ZŠ:MS ako sucast ZS:Školské zariadenie:Skolske zariadenie:::'ako':2 'mš':1 'súčasť':3 'zariadenie':6 'zš':4 'školské':5:'ako':2 'ms':1 'skolske':5 'sucast':3 'zariadenie':6 'zs':4",
+                "tooltip": "Školské zariadenie | MŠ ako súčasť ZŠ",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548389.15,
+                    -1222790.78
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2540,
+                "type_tid": 20,
+                "title": "Materská škola",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Materská škola:Materska skola:Školské zariadenie:Skolske zariadenie:::'materská':1 'zariadenie':4 'škola':2 'školské':3:'materska':1 'skola':2 'skolske':3 'zariadenie':4",
+                "tooltip": "Školské zariadenie | Materská škola",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548002.36,
+                    -1222774.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2545,
+                "type_tid": 20,
+                "title": "EP ako súčasť MŠ",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "EP ako súčasť MŠ:EP ako sucast MS:Školské zariadenie:Skolske zariadenie:::'ako':2 'ep':1 'mš':4 'súčasť':3 'zariadenie':6 'školské':5:'ako':2 'ep':1 'ms':4 'skolske':5 'sucast':3 'zariadenie':6",
+                "tooltip": "Školské zariadenie | EP ako súčasť MŠ",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547868.36,
+                    -1223463.46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2546,
+                "type_tid": 20,
+                "title": "EP ako súčasť MŠ",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "EP ako súčasť MŠ:EP ako sucast MS:Školské zariadenie:Skolske zariadenie:::'ako':2 'ep':1 'mš':4 'súčasť':3 'zariadenie':6 'školské':5:'ako':2 'ep':1 'ms':4 'skolske':5 'sucast':3 'zariadenie':6",
+                "tooltip": "Školské zariadenie | EP ako súčasť MŠ",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548015.24,
+                    -1223540.85
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2547,
+                "type_tid": 20,
+                "title": "EP ako súčasť MŠ",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "EP ako súčasť MŠ:EP ako sucast MS:Školské zariadenie:Skolske zariadenie:::'ako':2 'ep':1 'mš':4 'súčasť':3 'zariadenie':6 'školské':5:'ako':2 'ep':1 'ms':4 'skolske':5 'sucast':3 'zariadenie':6",
+                "tooltip": "Školské zariadenie | EP ako súčasť MŠ",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548516.73,
+                    -1223550.72
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2548,
+                "type_tid": 20,
+                "title": "EP ako súčasť MŠ",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "EP ako súčasť MŠ:EP ako sucast MS:Školské zariadenie:Skolske zariadenie:::'ako':2 'ep':1 'mš':4 'súčasť':3 'zariadenie':6 'školské':5:'ako':2 'ep':1 'ms':4 'skolske':5 'sucast':3 'zariadenie':6",
+                "tooltip": "Školské zariadenie | EP ako súčasť MŠ",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549121.53,
+                    -1223496.84
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2536,
+                "type_tid": 20,
+                "title": "Obchodná akadémia",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Obchodná akadémia:Obchodna akademia:Školské zariadenie:Skolske zariadenie:::'akadémia':2 'obchodná':1 'zariadenie':4 'školské':3:'akademia':2 'obchodna':1 'skolske':3 'zariadenie':4",
+                "tooltip": "Školské zariadenie | Obchodná akadémia",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548979.82,
+                    -1223794.87
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2538,
+                "type_tid": 20,
+                "title": "SOŠ podnikania v remeslách a službách",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "SOŠ podnikania v remeslách a službách:SOS podnikania v remeslach a sluzbach:Školské zariadenie:Skolske zariadenie:::'a':5 'podnikania':2 'remeslách':4 'službách':6 'soš':1 'v':3 'zariadenie':8 'školské':7:'a':5 'podnikania':2 'remeslach':4 'skolske':7 'sluzbach':6 'sos':1 'v':3 'zariadenie':8",
+                "tooltip": "Školské zariadenie | SOŠ podnikania v remeslách a službách",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548924.6,
+                    -1223991.35
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2535,
+                "type_tid": 20,
+                "title": "Gymnázium L.Novomeského",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Gymnázium L.Novomeského:Gymnazium L.Novomeskeho:Školské zariadenie:Skolske zariadenie:::'gymnázium':1 'l.novomesk':2 'zariadenie':5 'ého':3 'školské':4:'gymnazium':1 'l.novomeskeho':2 'skolske':3 'zariadenie':4",
+                "tooltip": "Školské zariadenie | Gymnázium L.Novomeského",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549076.15,
+                    -1223793.46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2530,
+                "type_tid": 20,
+                "title": "PŠ int. ako o. z. Spoj. školy",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "PŠ int. ako o. z. Spoj. školy:PS int. ako o. z. Spoj. skoly:Školské zariadenie:Skolske zariadenie:::'ako':3 'int':2 'o':4 'pš':1 'spoj':6 'z':5 'zariadenie':9 'školské':8 'školy':7:'ako':3 'int':2 'o':4 'ps':1 'skolske':8 'skoly':7 'spoj':6 'z':5 'zariadenie':9",
+                "tooltip": "Školské zariadenie | PŠ int. ako o. z. Spoj. školy",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548470.37,
+                    -1223750.05
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2534,
+                "type_tid": 20,
+                "title": "Základná umelecká škola",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Základná umelecká škola:Zakladna umelecka skola:Školské zariadenie:Skolske zariadenie:::'umelecká':2 'zariadenie':5 'základná':1 'škola':3 'školské':4:'skola':3 'skolske':4 'umelecka':2 'zakladna':1 'zariadenie':5",
+                "tooltip": "Školské zariadenie | Základná umelecká škola",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548634.2,
+                    -1223713.39
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2552,
+                "type_tid": 20,
+                "title": "Jakola",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Jakola:Jakola:Školské zariadenie:Skolske zariadenie:::'jakola':1 'zariadenie':3 'školské':2:'jakola':1 'skolske':2 'zariadenie':3",
+                "tooltip": "Školské zariadenie | Jakola",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548385.26,
+                    -1223420.78
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2553,
+                "type_tid": 20,
+                "title": "Cool School",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Cool School:Cool School:Školské zariadenie:Skolske zariadenie:::'cool':1 'school':2 'zariadenie':4 'školské':3:'cool':1 'school':2 'skolske':3 'zariadenie':4",
+                "tooltip": "Školské zariadenie | Cool School",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548620.95,
+                    -1223460.66
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2528,
+                "type_tid": 20,
+                "title": "ŠI ako súčasť Spoj. školy",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "ŠI ako súčasť Spoj. školy:SI ako sucast Spoj. skoly:Školské zariadenie:Skolske zariadenie:::'ako':2 'spoj':4 'súčasť':3 'zariadenie':7 'ši':1 'školské':6 'školy':5:'ako':2 'si':1 'skolske':6 'skoly':5 'spoj':4 'sucast':3 'zariadenie':7",
+                "tooltip": "Školské zariadenie | ŠI ako súčasť Spoj. školy",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548470.37,
+                    -1223750.05
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2537,
+                "type_tid": 20,
+                "title": "ŠI ako súčasť SOŠ podnik.",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "ŠI ako súčasť SOŠ podnik.:SI ako sucast SOS podnik.:Školské zariadenie:Skolske zariadenie:::'ako':2 'podnik':5 'soš':4 'súčasť':3 'zariadenie':7 'ši':1 'školské':6:'ako':2 'podnik':5 'si':1 'skolske':6 'sos':4 'sucast':3 'zariadenie':7",
+                "tooltip": "Školské zariadenie | ŠI ako súčasť SOŠ podnik.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548908.11,
+                    -1223896.47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2526,
+                "type_tid": 20,
+                "title": "Stonožka - centrum voľného času",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "Stonožka - centrum voľného času:Stonozka - centrum volneho casu:Školské zariadenie:Skolske zariadenie:::'centrum':2 'stonožka':1 'voľného':3 'zariadenie':6 'času':4 'školské':5:'casu':4 'centrum':2 'skolske':5 'stonozka':1 'volneho':3 'zariadenie':6",
+                "tooltip": "Školské zariadenie | Stonožka - centrum voľného času",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548307.97,
+                    -1223098.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2527,
+                "type_tid": 20,
+                "title": "CVČ ako súčasť Spoj. školy",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "CVČ ako súčasť Spoj. školy:CVC ako sucast Spoj. skoly:Školské zariadenie:Skolske zariadenie:::'ako':2 'cvč':1 'spoj':4 'súčasť':3 'zariadenie':7 'školské':6 'školy':5:'ako':2 'cvc':1 'skolske':6 'skoly':5 'spoj':4 'sucast':3 'zariadenie':7",
+                "tooltip": "Školské zariadenie | CVČ ako súčasť Spoj. školy",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548470.37,
+                    -1223750.05
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2531,
+                "type_tid": 20,
+                "title": "CŠPP ako súč. Spoj. školy",
+                "description": "",
+                "typcz": "Školské zariadenie",
+                "ikona": "sko_4-mala-skola.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/sko_4-mala-skola.png",
+                "vyhledavani": "CŠPP ako súč. Spoj. školy:CSPP ako suc. Spoj. skoly:Školské zariadenie:Skolske zariadenie:::'ako':2 'cšpp':1 'spoj':4 'súč':3 'zariadenie':7 'školské':6 'školy':5:'ako':2 'cspp':1 'skolske':6 'skoly':5 'spoj':4 'suc':3 'zariadenie':7",
+                "tooltip": "Školské zariadenie | CŠPP ako súč. Spoj. školy",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548470.37,
+                    -1223750.05
+                ]
+            }
+        }
+    ]
+}

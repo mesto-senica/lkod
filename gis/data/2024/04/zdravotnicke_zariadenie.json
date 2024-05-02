@@ -1,0 +1,3866 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2570,
+                "type_tid": 21,
+                "title": "Lekáreň Sun Pharma",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Lekáreň Sun Pharma:Lekaren Sun Pharma:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'lekáreň':1 'pharma':3 'sun':2 'zariadenie':5 'zdravotnícke':4:'lekaren':1 'pharma':3 'sun':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Lekáreň Sun Pharma",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548652.15,
+                    -1223440.86
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2571,
+                "type_tid": 21,
+                "title": "Lekáreň Arnika",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Lekáreň Arnika:Lekaren Arnika:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'arnika':2 'lekáreň':1 'zariadenie':4 'zdravotnícke':3:'arnika':2 'lekaren':1 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Lekáreň Arnika",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548348.51,
+                    -1222734.59
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2573,
+                "type_tid": 21,
+                "title": "Sotinská lekáreň",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Sotinská lekáreň:Sotinska lekaren:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'lekáreň':2 'sotinská':1 'zariadenie':4 'zdravotnícke':3:'lekaren':2 'sotinska':1 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Sotinská lekáreň",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548246.28,
+                    -1222581.27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2574,
+                "type_tid": 21,
+                "title": "Benu Lekáreň",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Benu Lekáreň:Benu Lekaren:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'benu':1 'lekáreň':2 'zariadenie':4 'zdravotnícke':3:'benu':1 'lekaren':2 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Benu Lekáreň",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548435.7,
+                    -1222583.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2575,
+                "type_tid": 21,
+                "title": "Lekáreň Melissa",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Lekáreň Melissa:Lekaren Melissa:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'lekáreň':1 'melissa':2 'zariadenie':4 'zdravotnícke':3:'lekaren':1 'melissa':2 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Lekáreň Melissa",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548679.05,
+                    -1223224.64
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2576,
+                "type_tid": 21,
+                "title": "Lekáreň U Martina",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Lekáreň U Martina:Lekaren U Martina:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'lekáreň':1 'martina':3 'u':2 'zariadenie':5 'zdravotnícke':4:'lekaren':1 'martina':3 'u':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Lekáreň U Martina",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548767.9,
+                    -1223560.92
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2577,
+                "type_tid": 21,
+                "title": "Lekáreň Verbascum",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Lekáreň Verbascum:Lekaren Verbascum:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'lekáreň':1 'verbascum':2 'zariadenie':4 'zdravotnícke':3:'lekaren':1 'verbascum':2 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Lekáreň Verbascum",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549520.32,
+                    -1223666.91
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2578,
+                "type_tid": 21,
+                "title": "Lekáreň Eurodom",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Lekáreň Eurodom:Lekaren Eurodom:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'eurodom':2 'lekáreň':1 'zariadenie':4 'zdravotnícke':3:'eurodom':2 'lekaren':1 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Lekáreň Eurodom",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548747.39,
+                    -1223337.46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2579,
+                "type_tid": 21,
+                "title": "Lekáreň Centrum",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Lekáreň Centrum:Lekaren Centrum:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'centrum':2 'lekáreň':1 'zariadenie':4 'zdravotnícke':3:'centrum':2 'lekaren':1 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Lekáreň Centrum",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548629.21,
+                    -1223318.18
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2580,
+                "type_tid": 21,
+                "title": "Lekáreň Dr. Max",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Lekáreň Dr. Max:Lekaren Dr. Max:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'dr':2 'lekáreň':1 'max':3 'zariadenie':5 'zdravotnícke':4:'dr':2 'lekaren':1 'max':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Lekáreň Dr. Max",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548832.89,
+                    -1222687.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2581,
+                "type_tid": 21,
+                "title": "Regionálna veterinárna a potravinová správa Senica",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Regionálna veterinárna a potravinová správa Senica:Regionalna veterinarna a potravinova sprava Senica:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'a':3 'potravinová':4 'regionálna':1 'senica':6 'správa':5 'veterinárna':2 'zariadenie':8 'zdravotnícke':7:'a':3 'potravinova':4 'regionalna':1 'senica':6 'sprava':5 'veterinarna':2 'zariadenie':8 'zdravotnicke':7",
+                "tooltip": "Zdravotnícke zariadenie | Regionálna veterinárna a potravinová správa Senica",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550142.87,
+                    -1223152.98
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2582,
+                "type_tid": 21,
+                "title": "Vetguard Veterinárna klinika",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Vetguard Veterinárna klinika:Vetguard Veterinarna klinika:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'klinika':3 'veterinárna':2 'vetguard':1 'zariadenie':5 'zdravotnícke':4:'klinika':3 'veterinarna':2 'vetguard':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Vetguard Veterinárna klinika",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549588,
+                    -1223488.65
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2583,
+                "type_tid": 21,
+                "title": "MVDr. Peter Kubík Pet Vet Centrum",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MVDr. Peter Kubík Pet Vet Centrum:MVDr. Peter Kubik Pet Vet Centrum:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'centrum':6 'kubík':3 'mvdr':1 'pet':4 'peter':2 'vet':5 'zariadenie':8 'zdravotnícke':7:'centrum':6 'kubik':3 'mvdr':1 'pet':4 'peter':2 'vet':5 'zariadenie':8 'zdravotnicke':7",
+                "tooltip": "Zdravotnícke zariadenie | MVDr. Peter Kubík Pet Vet Centrum",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548268.77,
+                    -1223071.19
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2584,
+                "type_tid": 21,
+                "title": "Veterinárna klinika Kerri",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Veterinárna klinika Kerri:Veterinarna klinika Kerri:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'kerri':3 'klinika':2 'veterinárna':1 'zariadenie':5 'zdravotnícke':4:'kerri':3 'klinika':2 'veterinarna':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Veterinárna klinika Kerri",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549027.49,
+                    -1223302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2585,
+                "type_tid": 21,
+                "title": "Poliklinika - Stomatológia",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Poliklinika - Stomatológia:Poliklinika - Stomatologia:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'poliklinika':1 'stomatológia':2 'zariadenie':4 'zdravotnícke':3:'poliklinika':1 'stomatologia':2 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Poliklinika - Stomatológia",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548491.2,
+                    -1223275.32
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2586,
+                "type_tid": 21,
+                "title": "Poliklinika Senica, n.o.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Poliklinika Senica, n.o.:Poliklinika Senica, n.o.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'n.o':3 'poliklinika':1 'senica':2 'zariadenie':5 'zdravotnícke':4:'n.o':3 'poliklinika':1 'senica':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Poliklinika Senica, n.o.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548246.28,
+                    -1222581.27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2587,
+                "type_tid": 21,
+                "title": "Rosson, s. r. o.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Rosson, s. r. o.:Rosson, s. r. o.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'o':4 'r':3 'rosson':1 's':2 'zariadenie':6 'zdravotnícke':5:'o':4 'r':3 'rosson':1 's':2 'zariadenie':6 'zdravotnicke':5",
+                "tooltip": "Zdravotnícke zariadenie | Rosson, s. r. o.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548246.09,
+                    -1222580.77
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2588,
+                "type_tid": 21,
+                "title": "MDDr. Dušan Kuric",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MDDr. Dušan Kuric:MDDr. Dusan Kuric:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'dušan':2 'kuric':3 'mddr':1 'zariadenie':5 'zdravotnícke':4:'dusan':2 'kuric':3 'mddr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MDDr. Dušan Kuric",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548305.17,
+                    -1223350.35
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2589,
+                "type_tid": 21,
+                "title": "MDDr. Dušan Kuric",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MDDr. Dušan Kuric:MDDr. Dusan Kuric:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'dušan':2 'kuric':3 'mddr':1 'zariadenie':5 'zdravotnícke':4:'dusan':2 'kuric':3 'mddr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MDDr. Dušan Kuric",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548304.58,
+                    -1223350.72
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2590,
+                "type_tid": 21,
+                "title": "MUDr. Ondrej Žilínek",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Ondrej Žilínek:MUDr. Ondrej Zilinek:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'ondrej':2 'zariadenie':5 'zdravotnícke':4 'žilínek':3:'mudr':1 'ondrej':2 'zariadenie':5 'zdravotnicke':4 'zilinek':3",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Ondrej Žilínek",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548246.29,
+                    -1222581.11
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2591,
+                "type_tid": 21,
+                "title": "MUDr. Peter Valášek",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Peter Valášek:MUDr. Peter Valasek:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'peter':2 'valášek':3 'zariadenie':5 'zdravotnícke':4:'mudr':1 'peter':2 'valasek':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Peter Valášek",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548245.71,
+                    -1222581.37
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2592,
+                "type_tid": 21,
+                "title": "MUDr. Ján Potúček",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Ján Potúček:MUDr. Jan Potucek:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'ján':2 'mudr':1 'potúček':3 'zariadenie':5 'zdravotnícke':4:'jan':2 'mudr':1 'potucek':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Ján Potúček",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548245.4,
+                    -1222581.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2593,
+                "type_tid": 21,
+                "title": "MDDr. Michal Závodný",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MDDr. Michal Závodný:MDDr. Michal Zavodny:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mddr':1 'michal':2 'zariadenie':5 'zdravotnícke':4 'závodný':3:'mddr':1 'michal':2 'zariadenie':5 'zavodny':3 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MDDr. Michal Závodný",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548206.73,
+                    -1222524.88
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2594,
+                "type_tid": 21,
+                "title": "LSE - Life Star Emergency, s.r.o.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "LSE - Life Star Emergency, s.r.o.:LSE - Life Star Emergency, s.r.o.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'emergency':4 'life':2 'lse':1 's.r.o':5 'star':3 'zariadenie':7 'zdravotnícke':6:'emergency':4 'life':2 'lse':1 's.r.o':5 'star':3 'zariadenie':7 'zdravotnicke':6",
+                "tooltip": "Zdravotnícke zariadenie | LSE - Life Star Emergency, s.r.o.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548262.39,
+                    -1222576.96
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2595,
+                "type_tid": 21,
+                "title": "Mediekos Labor, s.r.o.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Mediekos Labor, s.r.o.:Mediekos Labor, s.r.o.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'labor':2 'mediekos':1 's.r.o':3 'zariadenie':5 'zdravotnícke':4:'labor':2 'mediekos':1 's.r.o':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Mediekos Labor, s.r.o.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548262.22,
+                    -1222576.86
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2596,
+                "type_tid": 21,
+                "title": "MUDr. Danka Pražienková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Danka Pražienková:MUDr. Danka Prazienkova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'danka':2 'mudr':1 'pražienková':3 'zariadenie':5 'zdravotnícke':4:'danka':2 'mudr':1 'prazienkova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Danka Pražienková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548262.25,
+                    -1222577.17
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2597,
+                "type_tid": 21,
+                "title": "MUDr. Danka Pražienková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Danka Pražienková:MUDr. Danka Prazienkova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'danka':2 'mudr':1 'pražienková':3 'zariadenie':5 'zdravotnícke':4:'danka':2 'mudr':1 'prazienkova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Danka Pražienková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548261.93,
+                    -1222577.21
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2598,
+                "type_tid": 21,
+                "title": "Endomedi s.r.o.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Endomedi s.r.o.:Endomedi s.r.o.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'endomedi':1 's.r.o':2 'zariadenie':4 'zdravotnícke':3:'endomedi':1 's.r.o':2 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Endomedi s.r.o.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548722.73,
+                    -1222833.93
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2599,
+                "type_tid": 21,
+                "title": "MUDr. Veronika Brenkus Steinerová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Veronika Brenkus Steinerová:MUDr. Veronika Brenkus Steinerova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'brenkus':3 'mudr':1 'steinerová':4 'veronika':2 'zariadenie':6 'zdravotnícke':5:'brenkus':3 'mudr':1 'steinerova':4 'veronika':2 'zariadenie':6 'zdravotnicke':5",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Veronika Brenkus Steinerová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548445.1,
+                    -1222586.81
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2600,
+                "type_tid": 21,
+                "title": "Emotrans, spol. s r.o.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Emotrans, spol. s r.o.:Emotrans, spol. s r.o.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'emotrans':1 'r.o':4 's':3 'spol':2 'zariadenie':6 'zdravotnícke':5:'emotrans':1 'r.o':4 's':3 'spol':2 'zariadenie':6 'zdravotnicke':5",
+                "tooltip": "Zdravotnícke zariadenie | Emotrans, spol. s r.o.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548524.78,
+                    -1223287.65
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2601,
+                "type_tid": 21,
+                "title": "MUDr. Ihab Ibrahim",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Ihab Ibrahim:MUDr. Ihab Ibrahim:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'ibrahim':3 'ihab':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'ibrahim':3 'ihab':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Ihab Ibrahim",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548261.9,
+                    -1222577.29
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2602,
+                "type_tid": 21,
+                "title": "MUDr. Monika Markovičová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Monika Markovičová:MUDr. Monika Markovicova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'markovičová':3 'monika':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'markovicova':3 'monika':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Monika Markovičová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548261.62,
+                    -1222577.63
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2603,
+                "type_tid": 21,
+                "title": "MDDr. Rastislav Kostelný",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MDDr. Rastislav Kostelný:MDDr. Rastislav Kostelny:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'kostelný':3 'mddr':1 'rastislav':2 'zariadenie':5 'zdravotnícke':4:'kostelny':3 'mddr':1 'rastislav':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MDDr. Rastislav Kostelný",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548647.1,
+                    -1222545.65
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2604,
+                "type_tid": 21,
+                "title": "Mgr. Daniel Krutý",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Mgr. Daniel Krutý:Mgr. Daniel Kruty:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'daniel':2 'krutý':3 'mgr':1 'zariadenie':5 'zdravotnícke':4:'daniel':2 'kruty':3 'mgr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Mgr. Daniel Krutý",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548684.35,
+                    -1223220.69
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2605,
+                "type_tid": 21,
+                "title": "MUDr. Henrich Gašparík PhD.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Henrich Gašparík PhD.:MUDr. Henrich Gasparik PhD.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'gašparík':3 'henrich':2 'mudr':1 'phd':4 'zariadenie':6 'zdravotnícke':5:'gasparik':3 'henrich':2 'mudr':1 'phd':4 'zariadenie':6 'zdravotnicke':5",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Henrich Gašparík PhD.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548234.81,
+                    -1222568.86
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2606,
+                "type_tid": 21,
+                "title": "MDDr. Romana Petrovičová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MDDr. Romana Petrovičová:MDDr. Romana Petrovicova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mddr':1 'petrovičová':3 'romana':2 'zariadenie':5 'zdravotnícke':4:'mddr':1 'petrovicova':3 'romana':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MDDr. Romana Petrovičová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548448.59,
+                    -1223236.66
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2607,
+                "type_tid": 21,
+                "title": "MDDr. Boris Vraňák",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MDDr. Boris Vraňák:MDDr. Boris Vranak:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'boris':2 'mddr':1 'vraňák':3 'zariadenie':5 'zdravotnícke':4:'boris':2 'mddr':1 'vranak':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MDDr. Boris Vraňák",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548234.33,
+                    -1222568.83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2608,
+                "type_tid": 21,
+                "title": "Symed s.r.o.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Symed s.r.o.:Symed s.r.o.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'s.r.o':2 'symed':1 'zariadenie':4 'zdravotnícke':3:'s.r.o':2 'symed':1 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Symed s.r.o.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548445.03,
+                    -1222586.54
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2609,
+                "type_tid": 21,
+                "title": "MUDr. Barbora Horská",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Barbora Horská:MUDr. Barbora Horska:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'barbora':2 'horská':3 'mudr':1 'zariadenie':5 'zdravotnícke':4:'barbora':2 'horska':3 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Barbora Horská",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548234.19,
+                    -1222569.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2610,
+                "type_tid": 21,
+                "title": "MUDr. Jana Gašparová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Jana Gašparová:MUDr. Jana Gasparova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'gašparová':3 'jana':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'gasparova':3 'jana':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Jana Gašparová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548448.89,
+                    -1223236.55
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2611,
+                "type_tid": 21,
+                "title": "MUDr. Viera Mikolajová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Viera Mikolajová:MUDr. Viera Mikolajova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mikolajová':3 'mudr':1 'viera':2 'zariadenie':5 'zdravotnícke':4:'mikolajova':3 'mudr':1 'viera':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Viera Mikolajová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548683.28,
+                    -1223221.11
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2612,
+                "type_tid": 21,
+                "title": "MUDr. Mária Richterová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Mária Richterová:MUDr. Maria Richterova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'mária':2 'richterová':3 'zariadenie':5 'zdravotnícke':4:'maria':2 'mudr':1 'richterova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Mária Richterová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548233.98,
+                    -1222569.73
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2613,
+                "type_tid": 21,
+                "title": "MUDr. Zdeněk Šulek",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Zdeněk Šulek:MUDr. Zdenek Sulek:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'zariadenie':5 'zdeněk':2 'zdravotnícke':4 'šulek':3:'mudr':1 'sulek':3 'zariadenie':5 'zdenek':2 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Zdeněk Šulek",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548234.23,
+                    -1222569.08
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2614,
+                "type_tid": 21,
+                "title": "MUDr. Pavol Gašpar",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Pavol Gašpar:MUDr. Pavol Gaspar:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'gašpar':3 'mudr':1 'pavol':2 'zariadenie':5 'zdravotnícke':4:'gaspar':3 'mudr':1 'pavol':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Pavol Gašpar",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548448.99,
+                    -1223236.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2615,
+                "type_tid": 21,
+                "title": "MUDr. Peter Pružinec",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Peter Pružinec:MUDr. Peter Pruzinec:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'peter':2 'pružinec':3 'zariadenie':5 'zdravotnícke':4:'mudr':1 'peter':2 'pruzinec':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Peter Pružinec",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548234.76,
+                    -1222568.83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2616,
+                "type_tid": 21,
+                "title": "Pharmacy - HC, spol. s r.o.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Pharmacy - HC, spol. s r.o.:Pharmacy - HC, spol. s r.o.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'hc':2 'pharmacy':1 'r.o':5 's':4 'spol':3 'zariadenie':7 'zdravotnícke':6:'hc':2 'pharmacy':1 'r.o':5 's':4 'spol':3 'zariadenie':7 'zdravotnicke':6",
+                "tooltip": "Zdravotnícke zariadenie | Pharmacy - HC, spol. s r.o.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548256.82,
+                    -1222557.37
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2617,
+                "type_tid": 21,
+                "title": "Dentadent s.r.o.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Dentadent s.r.o.:Dentadent s.r.o.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'dentadent':1 's.r.o':2 'zariadenie':4 'zdravotnícke':3:'dentadent':1 's.r.o':2 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Dentadent s.r.o.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548496.42,
+                    -1223039.43
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2618,
+                "type_tid": 21,
+                "title": "MUDr. Monika Markovičová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Monika Markovičová:MUDr. Monika Markovicova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'markovičová':3 'monika':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'markovicova':3 'monika':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Monika Markovičová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548257.02,
+                    -1222557.82
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2619,
+                "type_tid": 21,
+                "title": "MUDr. Gabriela Bartošková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Gabriela Bartošková:MUDr. Gabriela Bartoskova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'bartošková':3 'gabriela':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'bartoskova':3 'gabriela':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Gabriela Bartošková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548899.95,
+                    -1222909.83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2620,
+                "type_tid": 21,
+                "title": "B. Braun Avitum, s.r.o.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "B. Braun Avitum, s.r.o.:B. Braun Avitum, s.r.o.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'avitum':3 'b':1 'braun':2 's.r.o':4 'zariadenie':6 'zdravotnícke':5:'avitum':3 'b':1 'braun':2 's.r.o':4 'zariadenie':6 'zdravotnicke':5",
+                "tooltip": "Zdravotnícke zariadenie | B. Braun Avitum, s.r.o.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549165.73,
+                    -1222748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2621,
+                "type_tid": 21,
+                "title": "MUDr. Stanislav Vojt",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Stanislav Vojt:MUDr. Stanislav Vojt:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'stanislav':2 'vojt':3 'zariadenie':5 'zdravotnícke':4:'mudr':1 'stanislav':2 'vojt':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Stanislav Vojt",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549166.01,
+                    -1222747.66
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2638,
+                "type_tid": 21,
+                "title": "MUDr. Renáta Mihálová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Renáta Mihálová:MUDr. Renata Mihalova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mihálová':3 'mudr':1 'renáta':2 'zariadenie':5 'zdravotnícke':4:'mihalova':3 'mudr':1 'renata':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Renáta Mihálová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548258.13,
+                    -1222539.55
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2639,
+                "type_tid": 21,
+                "title": "MUDr. Mária Richterová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Mária Richterová:MUDr. Maria Richterova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'mária':2 'richterová':3 'zariadenie':5 'zdravotnícke':4:'maria':2 'mudr':1 'richterova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Mária Richterová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548258.41,
+                    -1222539.21
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2622,
+                "type_tid": 21,
+                "title": "MUDr. Eva Šulcová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Eva Šulcová:MUDr. Eva Sulcova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'eva':2 'mudr':1 'zariadenie':5 'zdravotnícke':4 'šulcová':3:'eva':2 'mudr':1 'sulcova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Eva Šulcová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548257.16,
+                    -1222557.22
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2623,
+                "type_tid": 21,
+                "title": "MUDr. Svetlana Wolfová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Svetlana Wolfová:MUDr. Svetlana Wolfova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'svetlana':2 'wolfová':3 'zariadenie':5 'zdravotnícke':4:'mudr':1 'svetlana':2 'wolfova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Svetlana Wolfová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548257.16,
+                    -1222557.22
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2624,
+                "type_tid": 21,
+                "title": "MUDr. Jozef Gembeš",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Jozef Gembeš:MUDr. Jozef Gembes:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'gembeš':3 'jozef':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'gembes':3 'jozef':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Jozef Gembeš",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548257.19,
+                    -1222557.53
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2625,
+                "type_tid": 21,
+                "title": "MUDr. Jana Timeková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Jana Timeková:MUDr. Jana Timekova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'jana':2 'mudr':1 'timeková':3 'zariadenie':5 'zdravotnícke':4:'jana':2 'mudr':1 'timekova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Jana Timeková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548256.82,
+                    -1222557.41
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2626,
+                "type_tid": 21,
+                "title": "MUDr. Peter Slezák",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Peter Slezák:MUDr. Peter Slezak:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'peter':2 'slezák':3 'zariadenie':5 'zdravotnícke':4:'mudr':1 'peter':2 'slezak':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Peter Slezák",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548444.64,
+                    -1222586.57
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2627,
+                "type_tid": 21,
+                "title": "MUDr. Drahomíra Mičová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Drahomíra Mičová:MUDr. Drahomira Micova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'drahomíra':2 'mičová':3 'mudr':1 'zariadenie':5 'zdravotnícke':4:'drahomira':2 'micova':3 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Drahomíra Mičová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548448.18,
+                    -1223237.02
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2628,
+                "type_tid": 21,
+                "title": "MUDr. Janka Švárna",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Janka Švárna:MUDr. Janka Svarna:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'janka':2 'mudr':1 'zariadenie':5 'zdravotnícke':4 'švárna':3:'janka':2 'mudr':1 'svarna':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Janka Švárna",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548232.09,
+                    -1222550.85
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2629,
+                "type_tid": 21,
+                "title": "Slovenský Červený kríž, územný spolok Senica",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Slovenský Červený kríž, územný spolok Senica:Slovensky Cerveny kriz, uzemny spolok Senica:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'kríž':3 'senica':6 'slovenský':1 'spolok':5 'zariadenie':8 'zdravotnícke':7 'územný':4 'červený':2:'cerveny':2 'kriz':3 'senica':6 'slovensky':1 'spolok':5 'uzemny':4 'zariadenie':8 'zdravotnicke':7",
+                "tooltip": "Zdravotnícke zariadenie | Slovenský Červený kríž, územný spolok Senica",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549536.17,
+                    -1223592.62
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2630,
+                "type_tid": 21,
+                "title": "MUDr. Andrej Živica",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Andrej Živica:MUDr. Andrej Zivica:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'andrej':2 'mudr':1 'zariadenie':5 'zdravotnícke':4 'živica':3:'andrej':2 'mudr':1 'zariadenie':5 'zdravotnicke':4 'zivica':3",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Andrej Živica",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548232.12,
+                    -1222551.16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2631,
+                "type_tid": 21,
+                "title": "MUDr. Petra Račková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Petra Račková:MUDr. Petra Rackova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'petra':2 'račková':3 'zariadenie':5 'zdravotnícke':4:'mudr':1 'petra':2 'rackova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Petra Račková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548445,
+                    -1222586.97
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2632,
+                "type_tid": 21,
+                "title": "MUDr. Jana Rybnikárová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Jana Rybnikárová:MUDr. Jana Rybnikarova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'jana':2 'mudr':1 'rybnikárová':3 'zariadenie':5 'zdravotnícke':4:'jana':2 'mudr':1 'rybnikarova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Jana Rybnikárová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548232,
+                    -1222551.49
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2633,
+                "type_tid": 21,
+                "title": "MUDr. Saeed Rahjou",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Saeed Rahjou:MUDr. Saeed Rahjou:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'rahjou':3 'saeed':2 'zariadenie':5 'zdravotnícke':4:'mudr':1 'rahjou':3 'saeed':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Saeed Rahjou",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548231.68,
+                    -1222551.52
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2634,
+                "type_tid": 21,
+                "title": "MUDr. Martin Potúček",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Martin Potúček:MUDr. Martin Potucek:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'martin':2 'mudr':1 'potúček':3 'zariadenie':5 'zdravotnícke':4:'martin':2 'mudr':1 'potucek':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Martin Potúček",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548232.28,
+                    -1222551.15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2635,
+                "type_tid": 21,
+                "title": "MUDr. Adrián Nečas",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Adrián Nečas:MUDr. Adrian Necas:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'adrián':2 'mudr':1 'nečas':3 'zariadenie':5 'zdravotnícke':4:'adrian':2 'mudr':1 'necas':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Adrián Nečas",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548231.34,
+                    -1222551.24
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2636,
+                "type_tid": 21,
+                "title": "MUDr. Viktória Tallová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Viktória Tallová:MUDr. Viktoria Tallova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'tallová':3 'viktória':2 'zariadenie':5 'zdravotnícke':4:'mudr':1 'tallova':3 'viktoria':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Viktória Tallová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548259.04,
+                    -1222539.15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2637,
+                "type_tid": 21,
+                "title": "Zariadenie spoločných vyšetrovacích a liečebných zložiek, klinická biochémia",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Zariadenie spoločných vyšetrovacích a liečebných zložiek, klinická biochémia:Zariadenie spolocnych vysetrovacich a liecebnych zloziek, klinicka biochemia:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'a':4 'biochémia':8 'klinická':7 'liečebných':5 'spoločných':2 'vyšetrovacích':3 'zariadenie':1,10 'zdravotnícke':9 'zložiek':6:'a':4 'biochemia':8 'klinicka':7 'liecebnych':5 'spolocnych':2 'vysetrovacich':3 'zariadenie':1,10 'zdravotnicke':9 'zloziek':6",
+                "tooltip": "Zdravotnícke zariadenie | Zariadenie spoločných vyšetrovacích a liečebných zložiek, klinická biochémia",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548258.41,
+                    -1222539.21
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2640,
+                "type_tid": 21,
+                "title": "PaedDr. Renáta Kožíšková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "PaedDr. Renáta Kožíšková:PaedDr. Renata Koziskova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'kožíšková':3 'paeddr':1 'renáta':2 'zariadenie':5 'zdravotnícke':4:'koziskova':3 'paeddr':1 'renata':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | PaedDr. Renáta Kožíšková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548258.25,
+                    -1222539.62
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2641,
+                "type_tid": 21,
+                "title": "MUDr. Pavol Gašpar",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Pavol Gašpar:MUDr. Pavol Gaspar:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'gašpar':3 'mudr':1 'pavol':2 'zariadenie':5 'zdravotnícke':4:'gaspar':3 'mudr':1 'pavol':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Pavol Gašpar",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548448.57,
+                    -1223236.47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2642,
+                "type_tid": 21,
+                "title": "MUDr. Ivana Vrancová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Ivana Vrancová:MUDr. Ivana Vrancova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'ivana':2 'mudr':1 'vrancová':3 'zariadenie':5 'zdravotnícke':4:'ivana':2 'mudr':1 'vrancova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Ivana Vrancová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548258.58,
+                    -1222539.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2643,
+                "type_tid": 21,
+                "title": "MUDr. Miroslav Magát",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Miroslav Magát:MUDr. Miroslav Magat:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'magát':3 'miroslav':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'magat':3 'miroslav':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Miroslav Magát",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548713.83,
+                    -1223259.08
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2644,
+                "type_tid": 21,
+                "title": "MUDr. Zuzana Žilineková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Zuzana Žilineková:MUDr. Zuzana Zilinekova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'zariadenie':5 'zdravotnícke':4 'zuzana':2 'žilineková':3:'mudr':1 'zariadenie':5 'zdravotnicke':4 'zilinekova':3 'zuzana':2",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Zuzana Žilineková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547834.81,
+                    -1222654.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2645,
+                "type_tid": 21,
+                "title": "MUDr. Zdeněk Šulek",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Zdeněk Šulek:MUDr. Zdenek Sulek:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'zariadenie':5 'zdeněk':2 'zdravotnícke':4 'šulek':3:'mudr':1 'sulek':3 'zariadenie':5 'zdenek':2 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Zdeněk Šulek",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548229.65,
+                    -1222535.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2646,
+                "type_tid": 21,
+                "title": "MUDr. Renáta Kajabová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Renáta Kajabová:MUDr. Renata Kajabova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'kajabová':3 'mudr':1 'renáta':2 'zariadenie':5 'zdravotnícke':4:'kajabova':3 'mudr':1 'renata':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Renáta Kajabová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548683.59,
+                    -1223220.65
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2647,
+                "type_tid": 21,
+                "title": "MUDr. Peter Pružinec",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Peter Pružinec:MUDr. Peter Pruzinec:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'peter':2 'pružinec':3 'zariadenie':5 'zdravotnícke':4:'mudr':1 'peter':2 'pruzinec':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Peter Pružinec",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548229.44,
+                    -1222535.52
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2648,
+                "type_tid": 21,
+                "title": "MUDr. Oľga Guzyová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Oľga Guzyová:MUDr. Olga Guzyova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'guzyová':3 'mudr':1 'oľga':2 'zariadenie':5 'zdravotnícke':4:'guzyova':3 'mudr':1 'olga':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Oľga Guzyová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548229.7,
+                    -1222534.94
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2649,
+                "type_tid": 21,
+                "title": "MUDr. Mária Brichtová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Mária Brichtová:MUDr. Maria Brichtova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'brichtová':3 'mudr':1 'mária':2 'zariadenie':5 'zdravotnícke':4:'brichtova':3 'maria':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Mária Brichtová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548448.68,
+                    -1223236.02
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2650,
+                "type_tid": 21,
+                "title": "MUDr. Monika Poláková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Monika Poláková:MUDr. Monika Polakova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'monika':2 'mudr':1 'poláková':3 'zariadenie':5 'zdravotnícke':4:'monika':2 'mudr':1 'polakova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Monika Poláková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548447.42,
+                    -1223223.17
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2651,
+                "type_tid": 21,
+                "title": "MUDr. Milan Krpčiar",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Milan Krpčiar:MUDr. Milan Krpciar:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'krpčiar':3 'milan':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'krpciar':3 'milan':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Milan Krpčiar",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548229.53,
+                    -1222534.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2652,
+                "type_tid": 21,
+                "title": "MUDr. Milan Guzy",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Milan Guzy:MUDr. Milan Guzy:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'guzy':3 'milan':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'guzy':3 'milan':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Milan Guzy",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548228.9,
+                    -1222534.86
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2653,
+                "type_tid": 21,
+                "title": "MUDr. Martin Čulen",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Martin Čulen:MUDr. Martin Culen:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'martin':2 'mudr':1 'zariadenie':5 'zdravotnícke':4 'čulen':3:'culen':3 'martin':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Martin Čulen",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548229.5,
+                    -1222534.48
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2654,
+                "type_tid": 21,
+                "title": "MUDr. Katarína Sivoňová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Katarína Sivoňová:MUDr. Katarina Sivonova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'katarína':2 'mudr':1 'sivoňová':3 'zariadenie':5 'zdravotnícke':4:'katarina':2 'mudr':1 'sivonova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Katarína Sivoňová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548787.6,
+                    -1223098.98
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2655,
+                "type_tid": 21,
+                "title": "MUDr. Ján Potúček",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Ján Potúček:MUDr. Jan Potucek:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'ján':2 'mudr':1 'potúček':3 'zariadenie':5 'zdravotnícke':4:'jan':2 'mudr':1 'potucek':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Ján Potúček",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548255.31,
+                    -1222520.88
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2656,
+                "type_tid": 21,
+                "title": "MUDr. Ján Dolinský",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Ján Dolinský:MUDr. Jan Dolinsky:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'dolinský':3 'ján':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'dolinsky':3 'jan':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Ján Dolinský",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548445.15,
+                    -1222586.48
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2657,
+                "type_tid": 21,
+                "title": "MUDr. Jana Gašparová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Jana Gašparová:MUDr. Jana Gasparova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'gašparová':3 'jana':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'gasparova':3 'jana':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Jana Gašparová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548446.45,
+                    -1223222.94
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2658,
+                "type_tid": 21,
+                "title": "MUDr. Pavol Mizerák",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Pavol Mizerák:MUDr. Pavol Mizerak:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mizerák':3 'mudr':1 'pavol':2 'zariadenie':5 'zdravotnícke':4:'mizerak':3 'mudr':1 'pavol':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Pavol Mizerák",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548255.82,
+                    -1222520.87
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2659,
+                "type_tid": 21,
+                "title": "MUDr. Magdaléna Sečová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Magdaléna Sečová:MUDr. Magdalena Secova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'magdaléna':2 'mudr':1 'sečová':3 'zariadenie':5 'zdravotnícke':4:'magdalena':2 'mudr':1 'secova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Magdaléna Sečová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548444.67,
+                    -1222586.53
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2660,
+                "type_tid": 21,
+                "title": "MUDr. Illia Baranov",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Illia Baranov:MUDr. Illia Baranov:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'baranov':3 'illia':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'baranov':3 'illia':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Illia Baranov",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548444.92,
+                    -1222587.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2661,
+                "type_tid": 21,
+                "title": "MUDr. Libuša Čambalová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Libuša Čambalová:MUDr. Libusa Cambalova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'libuša':2 'mudr':1 'zariadenie':5 'zdravotnícke':4 'čambalová':3:'cambalova':3 'libusa':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Libuša Čambalová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548440.87,
+                    -1222586.05
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2662,
+                "type_tid": 21,
+                "title": "Lenka Koláriková, dipl.d.h.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Lenka Koláriková, dipl.d.h.:Lenka Kolarikova, dipl.d.h.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'dipl.d.h':3 'koláriková':2 'lenka':1 'zariadenie':5 'zdravotnícke':4:'dipl.d.h':3 'kolarikova':2 'lenka':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Lenka Koláriková, dipl.d.h.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548255.42,
+                    -1222520.43
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2663,
+                "type_tid": 21,
+                "title": "MUDr. Karol Kovačič",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Karol Kovačič:MUDr. Karol Kovacic:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'karol':2 'kovačič':3 'mudr':1 'zariadenie':5 'zdravotnícke':4:'karol':2 'kovacic':3 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Karol Kovačič",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548255.53,
+                    -1222519.91
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2664,
+                "type_tid": 21,
+                "title": "MUDr. Michal Častven",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Michal Častven:MUDr. Michal Castven:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'michal':2 'mudr':1 'zariadenie':5 'zdravotnícke':4 'častven':3:'castven':3 'michal':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Michal Častven",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548255.28,
+                    -1222520.57
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2665,
+                "type_tid": 21,
+                "title": "MUDr. Peter Šťastný",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Peter Šťastný:MUDr. Peter Stastny:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'peter':2 'zariadenie':5 'zdravotnícke':4 'šťastný':3:'mudr':1 'peter':2 'stastny':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Peter Šťastný",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548440.62,
+                    -1222586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2666,
+                "type_tid": 21,
+                "title": "MUDr. Dagmar Moravanská",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Dagmar Moravanská:MUDr. Dagmar Moravanska:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'dagmar':2 'moravanská':3 'mudr':1 'zariadenie':5 'zdravotnícke':4:'dagmar':2 'moravanska':3 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Dagmar Moravanská",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548437.37,
+                    -1222588.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2667,
+                "type_tid": 21,
+                "title": "Mgr. Jana Kyselicová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Mgr. Jana Kyselicová:Mgr. Jana Kyselicova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'jana':2 'kyselicová':3 'mgr':1 'zariadenie':5 'zdravotnícke':4:'jana':2 'kyselicova':3 'mgr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Mgr. Jana Kyselicová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548255.19,
+                    -1222520.89
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2668,
+                "type_tid": 21,
+                "title": "MUDr. Dana Grebeníčková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Dana Grebeníčková:MUDr. Dana Grebenickova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'dana':2 'grebeníčková':3 'mudr':1 'zariadenie':5 'zdravotnícke':4:'dana':2 'grebenickova':3 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Dana Grebeníčková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548683.83,
+                    -1223220.23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2669,
+                "type_tid": 21,
+                "title": "MUDr. Monika Kučerová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Monika Kučerová:MUDr. Monika Kucerova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'kučerová':3 'monika':2 'mudr':1 'zariadenie':5 'zdravotnícke':4:'kucerova':3 'monika':2 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Monika Kučerová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548254.78,
+                    -1222519.94
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2670,
+                "type_tid": 21,
+                "title": "MUDr. Jana Planková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Jana Planková:MUDr. Jana Plankova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'jana':2 'mudr':1 'planková':3 'zariadenie':5 'zdravotnícke':4:'jana':2 'mudr':1 'plankova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Jana Planková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548225.89,
+                    -1222517.11
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2671,
+                "type_tid": 21,
+                "title": "MUDr. Radovan Hyža",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Radovan Hyža:MUDr. Radovan Hyza:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'hyža':3 'mudr':1 'radovan':2 'zariadenie':5 'zdravotnícke':4:'hyza':3 'mudr':1 'radovan':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Radovan Hyža",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548225.92,
+                    -1222517.43
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2672,
+                "type_tid": 21,
+                "title": "MUDr. Eva Mikuličová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Eva Mikuličová:MUDr. Eva Mikulicova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'eva':2 'mikuličová':3 'mudr':1 'zariadenie':5 'zdravotnícke':4:'eva':2 'mikulicova':3 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Eva Mikuličová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548439.71,
+                    -1222588.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2673,
+                "type_tid": 21,
+                "title": "MUDr. Zora Landlová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Zora Landlová:MUDr. Zora Landlova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'landlová':3 'mudr':1 'zariadenie':5 'zdravotnícke':4 'zora':2:'landlova':3 'mudr':1 'zariadenie':5 'zdravotnicke':4 'zora':2",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Zora Landlová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548226.15,
+                    -1222517.72
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2674,
+                "type_tid": 21,
+                "title": "ADOS - 4Life s.r.o.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "ADOS - 4Life s.r.o.:ADOS - 4Life s.r.o.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'4life':2 'ados':1 's.r.o':3 'zariadenie':5 'zdravotnícke':4:'4life':2 'ados':1 's.r.o':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | ADOS - 4Life s.r.o.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548225.43,
+                    -1222516.84
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2675,
+                "type_tid": 21,
+                "title": "MUDr. Janette Nosková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Janette Nosková:MUDr. Janette Noskova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'janette':2 'mudr':1 'nosková':3 'zariadenie':5 'zdravotnícke':4:'janette':2 'mudr':1 'noskova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Janette Nosková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548257.91,
+                    -1222566.35
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2676,
+                "type_tid": 21,
+                "title": "Mgr. Jana Kuníková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Mgr. Jana Kuníková:Mgr. Jana Kunikova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'jana':2 'kuníková':3 'mgr':1 'zariadenie':5 'zdravotnícke':4:'jana':2 'kunikova':3 'mgr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Mgr. Jana Kuníková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548233.47,
+                    -1222558.41
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2677,
+                "type_tid": 21,
+                "title": "Mgr. Alexandra Štorová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Mgr. Alexandra Štorová:Mgr. Alexandra Storova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'alexandra':2 'mgr':1 'zariadenie':5 'zdravotnícke':4 'štorová':3:'alexandra':2 'mgr':1 'storova':3 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | Mgr. Alexandra Štorová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548255.19,
+                    -1222520.89
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2678,
+                "type_tid": 21,
+                "title": "Doc. MUDr. Mariana Príkazská, PhD.",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Doc. MUDr. Mariana Príkazská, PhD.:Doc. MUDr. Mariana Prikazska, PhD.:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'doc':1 'mariana':3 'mudr':2 'phd':5 'príkazská':4 'zariadenie':7 'zdravotnícke':6:'doc':1 'mariana':3 'mudr':2 'phd':5 'prikazska':4 'zariadenie':7 'zdravotnicke':6",
+                "tooltip": "Zdravotnícke zariadenie | Doc. MUDr. Mariana Príkazská, PhD.",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548254.74,
+                    -1222546.35
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2679,
+                "type_tid": 21,
+                "title": "MUDr. Veronika Živicová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Veronika Živicová:MUDr. Veronika Zivicova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'veronika':2 'zariadenie':5 'zdravotnícke':4 'živicová':3:'mudr':1 'veronika':2 'zariadenie':5 'zdravotnicke':4 'zivicova':3",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Veronika Živicová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548256.17,
+                    -1222530.16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2680,
+                "type_tid": 21,
+                "title": "Ing. Jana Netriová, PhD., MPH",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Ing. Jana Netriová, PhD., MPH:Ing. Jana Netriova, PhD., MPH:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'ing':1 'jana':2 'mph':5 'netriová':3 'phd':4 'zariadenie':7 'zdravotnícke':6:'ing':1 'jana':2 'mph':5 'netriova':3 'phd':4 'zariadenie':7 'zdravotnicke':6",
+                "tooltip": "Zdravotnícke zariadenie | Ing. Jana Netriová, PhD., MPH",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548240.13,
+                    -1222517.61
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2681,
+                "type_tid": 21,
+                "title": "Alena Minaříková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Alena Minaříková:Alena Minarikova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'alena':1 'minaříková':2 'zariadenie':4 'zdravotnícke':3:'alena':1 'minarikova':2 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Alena Minaříková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548227.59,
+                    -1222526.19
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2682,
+                "type_tid": 21,
+                "title": "Klaudia Búzková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Klaudia Búzková:Klaudia Buzkova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'búzková':2 'klaudia':1 'zariadenie':4 'zdravotnícke':3:'buzkova':2 'klaudia':1 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Klaudia Búzková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548227.59,
+                    -1222526.19
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2683,
+                "type_tid": 21,
+                "title": "Alexandra Jurigová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Alexandra Jurigová:Alexandra Jurigova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'alexandra':1 'jurigová':2 'zariadenie':4 'zdravotnícke':3:'alexandra':1 'jurigova':2 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Alexandra Jurigová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548227.59,
+                    -1222526.19
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2684,
+                "type_tid": 21,
+                "title": "Eva Surová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Eva Surová:Eva Surova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'eva':1 'surová':2 'zariadenie':4 'zdravotnícke':3:'eva':1 'surova':2 'zariadenie':4 'zdravotnicke':3",
+                "tooltip": "Zdravotnícke zariadenie | Eva Surová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548227.59,
+                    -1222526.19
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2685,
+                "type_tid": 21,
+                "title": "MUDr. Václava Roháriková",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Václava Roháriková:MUDr. Vaclava Roharikova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'mudr':1 'roháriková':3 'václava':2 'zariadenie':5 'zdravotnícke':4:'mudr':1 'roharikova':3 'vaclava':2 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Václava Roháriková",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548256.7,
+                    -1222537.62
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2686,
+                "type_tid": 21,
+                "title": "MUDr. Jana Kovářová",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "MUDr. Jana Kovářová:MUDr. Jana Kovarova:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'jana':2 'kovářová':3 'mudr':1 'zariadenie':5 'zdravotnícke':4:'jana':2 'kovarova':3 'mudr':1 'zariadenie':5 'zdravotnicke':4",
+                "tooltip": "Zdravotnícke zariadenie | MUDr. Jana Kovářová",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548231.51,
+                    -1222548.52
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2572,
+                "type_tid": 21,
+                "title": "Ekolekáreň",
+                "description": "",
+                "typcz": "Zdravotnícke zariadenie",
+                "ikona": "zdr_4-mala-zdravotnik.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/zdr_4-mala-zdravotnik.png",
+                "vyhledavani": "Ekolekáreň:Ekolekaren:Zdravotnícke zariadenie:Zdravotnicke zariadenie:::'ekolekáreň':1 'zariadenie':3 'zdravotnícke':2:'ekolekaren':1 'zariadenie':3 'zdravotnicke':2",
+                "tooltip": "Zdravotnícke zariadenie | Ekolekáreň",
+                "barva": "#ffffff",
+                "rgb": "255,255,255",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548561.35,
+                    -1222411.3
+                ]
+            }
+        }
+    ]
+}
