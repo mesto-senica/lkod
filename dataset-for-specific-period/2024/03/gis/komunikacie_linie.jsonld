@@ -49,7 +49,7 @@
         "http://eurovoc.europa.eu/3438",
         "http://eurovoc.europa.eu/1433"
     ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/komunikacie_linie.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis/komunikacie_linie.jsonld",
     "distribúcia": [
         {
             "iri": "https://mesto-senica.github.io/lkod/data/2024/03/gis/komunikacie_linie.json",

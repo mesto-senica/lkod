@@ -47,7 +47,7 @@
     "koncept_euroVoc": [
         "http://data.europa.eu/ehl/cpa21/86"
     ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/zdravotnicke_zariadenie.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis/zdravotnicke_zariadenie.jsonld",
     "distribúcia": [
         {
             "iri": "https://mesto-senica.github.io/lkod/data/2024/03/gis/zdravotnicke_zariadenie.json",

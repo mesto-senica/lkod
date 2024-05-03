@@ -47,7 +47,7 @@
     "koncept_euroVoc": [
         "http://data.europa.eu/cpv/cpv/31681500"
     ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/nabijacie_stanice.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis/nabijacie_stanice.jsonld",
     "distribúcia": [
         {
             "iri": "https://mesto-senica.github.io/lkod/data/2024/04/gis/nabijacie_stanice.json",

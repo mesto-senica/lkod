@@ -47,7 +47,7 @@
     "koncept_euroVoc": [
         "http://eurovoc.europa.eu/5747"
     ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/kulturne_pamiatky.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis/kulturne_pamiatky.jsonld",
     "distribúcia": [
         {
             "iri": "https://mesto-senica.github.io/lkod/data/2024/04/gis/kulturne_pamiatky.json",

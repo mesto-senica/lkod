@@ -47,7 +47,7 @@
     "koncept_euroVoc": [
         "http://eurovoc.europa.eu/3535"
     ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/studne_a_hydranty.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis/studne_a_hydranty.jsonld",
     "distribúcia": [
         {
             "iri": "https://mesto-senica.github.io/lkod/data/2024/03/gis/studne_a_hydranty.json",

@@ -44,7 +44,7 @@
         "e-mail": "mailto:opendata@senica.sk"
     },
     "koncept_euroVoc": [],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/bezbarierove_miesta.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis/bezbarierove_miesta.jsonld",
     "distribúcia": [
         {
             "iri": "https://mesto-senica.github.io/lkod/data/2024/04/gis/bezbarierove_miesta.json",

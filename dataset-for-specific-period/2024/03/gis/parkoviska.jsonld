@@ -47,7 +47,7 @@
     "koncept_euroVoc": [
         "http://eurovoc.europa.eu/5429"
     ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/parkoviska.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis/parkoviska.jsonld",
     "distribúcia": [
         {
             "iri": "https://mesto-senica.github.io/lkod/data/2024/03/gis/parkoviska.json",

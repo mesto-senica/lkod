@@ -47,7 +47,7 @@
     "koncept_euroVoc": [
         "http://data.europa.eu/ehl/cpa21/85"
     ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/skolske_zariadenia.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis/skolske_zariadenia.jsonld",
     "distribúcia": [
         {
             "iri": "https://mesto-senica.github.io/lkod/data/2024/03/gis/skolske_zariadenia.json",
