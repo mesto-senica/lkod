@@ -1,12 +1,12 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/gis/dataset/mosty.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset/gis/mosty.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Mosty"
+        "sk": "Mosty - zastrešujúci dataset"
     },
     "popis": {
-        "sk": "Mosty"
+        "sk": "Mosty - zastrešujúci dataset dátovej série"
     },
     "poskytovateľ": "https://data.gov.sk/id/legal-subject/00309974",
     "typ_datasetu": "https://data.gov.sk/def/dataset-type/1",
@@ -29,8 +29,8 @@
         "https://data.gov.sk/id/nuts3/SK021"
     ],
     "webová_stránka_datasetu": "https://gisplan.senica.sk",
-    "dátum_publikácie": "2024-04-26T07:49:29.626Z",
-    "dátum_modifikácie": "2024-04-26T07:49:29.626Z",
+    "dátum_publikácie": "2024-05-03T09:03:19.557Z",
+    "dátum_modifikácie": "2024-05-03T09:03:19.557Z",
     "časové_pokrytie": {
         "typ": "Časový interval",
         "začiatok": "2024-03-01",
