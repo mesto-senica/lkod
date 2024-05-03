@@ -1,0 +1,5618 @@
+[
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 40
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 2
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 5
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 1
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 49
+    },
+    "data_end_timestamp": "1714724700000",
+    "data_start_timestamp": "1714724400000",
+    "timestamp": "2024-05-03T08:20:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 31
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 5
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 42
+    },
+    "data_end_timestamp": "1714725000000",
+    "data_start_timestamp": "1714724700000",
+    "timestamp": "2024-05-03T08:25:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 2
+        },
+        {
+          "category": "bus",
+          "count": 2
+        },
+        {
+          "category": "car",
+          "count": 33
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 4
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 6
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 1
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 49
+    },
+    "data_end_timestamp": "1714725300000",
+    "data_start_timestamp": "1714725000000",
+    "timestamp": "2024-05-03T08:30:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 2
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 25
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 4
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 2
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 1
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 34
+    },
+    "data_end_timestamp": "1714725600000",
+    "data_start_timestamp": "1714725300000",
+    "timestamp": "2024-05-03T08:35:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 42
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 3
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 51
+    },
+    "data_end_timestamp": "1714725900000",
+    "data_start_timestamp": "1714725600000",
+    "timestamp": "2024-05-03T08:40:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 1
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 35
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 11
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 52
+    },
+    "data_end_timestamp": "1714726200000",
+    "data_start_timestamp": "1714725900000",
+    "timestamp": "2024-05-03T08:45:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 1
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 33
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 4
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 2
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 1
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 42
+    },
+    "data_end_timestamp": "1714726500000",
+    "data_start_timestamp": "1714726200000",
+    "timestamp": "2024-05-03T08:50:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 1
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 24
+        },
+        {
+          "category": "car trailer",
+          "count": 1
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 3
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 5
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 34
+    },
+    "data_end_timestamp": "1714726800000",
+    "data_start_timestamp": "1714726500000",
+    "timestamp": "2024-05-03T08:55:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 50
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 2
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 3
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 0
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 3
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 59
+    },
+    "data_end_timestamp": "1714727100000",
+    "data_start_timestamp": "1714726800000",
+    "timestamp": "2024-05-03T09:00:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 23
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 4
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 4
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 34
+    },
+    "data_end_timestamp": "1714727400000",
+    "data_start_timestamp": "1714727100000",
+    "timestamp": "2024-05-03T09:05:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 2
+        },
+        {
+          "category": "car",
+          "count": 38
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 4
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 2
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 49
+    },
+    "data_end_timestamp": "1714727700000",
+    "data_start_timestamp": "1714727400000",
+    "timestamp": "2024-05-03T09:10:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 26
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 9
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 0
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 37
+    },
+    "data_end_timestamp": "1714728000000",
+    "data_start_timestamp": "1714727700000",
+    "timestamp": "2024-05-03T09:15:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 44
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 5
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 1
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 54
+    },
+    "data_end_timestamp": "1714728300000",
+    "data_start_timestamp": "1714728000000",
+    "timestamp": "2024-05-03T09:20:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 1
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 29
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 8
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 41
+    },
+    "data_end_timestamp": "1714728600000",
+    "data_start_timestamp": "1714728300000",
+    "timestamp": "2024-05-03T09:25:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 2
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 34
+        },
+        {
+          "category": "car trailer",
+          "count": 1
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 5
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 48
+    },
+    "data_end_timestamp": "1714728900000",
+    "data_start_timestamp": "1714728600000",
+    "timestamp": "2024-05-03T09:30:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 20
+        },
+        {
+          "category": "car trailer",
+          "count": 1
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 2
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 28
+    },
+    "data_end_timestamp": "1714729200000",
+    "data_start_timestamp": "1714728900000",
+    "timestamp": "2024-05-03T09:35:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 33
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 2
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 5
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 43
+    },
+    "data_end_timestamp": "1714729500000",
+    "data_start_timestamp": "1714729200000",
+    "timestamp": "2024-05-03T09:40:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 27
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 7
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 36
+    },
+    "data_end_timestamp": "1714729800000",
+    "data_start_timestamp": "1714729500000",
+    "timestamp": "2024-05-03T09:45:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 41
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 2
+        },
+        {
+          "category": "light",
+          "count": 3
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 8
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 0
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 55
+    },
+    "data_end_timestamp": "1714730100000",
+    "data_start_timestamp": "1714729800000",
+    "timestamp": "2024-05-03T09:50:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 24
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 8
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 1
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 38
+    },
+    "data_end_timestamp": "1714730400000",
+    "data_start_timestamp": "1714730100000",
+    "timestamp": "2024-05-03T09:55:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 1
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 40
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 4
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 9
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 56
+    },
+    "data_end_timestamp": "1714730700000",
+    "data_start_timestamp": "1714730400000",
+    "timestamp": "2024-05-03T10:00:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 23
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 8
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 1
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 5
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 40
+    },
+    "data_end_timestamp": "1714731000000",
+    "data_start_timestamp": "1714730700000",
+    "timestamp": "2024-05-03T10:05:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 2
+        },
+        {
+          "category": "car",
+          "count": 35
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 2
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 6
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 1
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 48
+    },
+    "data_end_timestamp": "1714731300000",
+    "data_start_timestamp": "1714731000000",
+    "timestamp": "2024-05-03T10:10:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 26
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 2
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 8
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 1
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 39
+    },
+    "data_end_timestamp": "1714731600000",
+    "data_start_timestamp": "1714731300000",
+    "timestamp": "2024-05-03T10:15:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 2
+        },
+        {
+          "category": "car",
+          "count": 41
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 3
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 1
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 50
+    },
+    "data_end_timestamp": "1714731900000",
+    "data_start_timestamp": "1714731600000",
+    "timestamp": "2024-05-03T10:20:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 30
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 2
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 4
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 42
+    },
+    "data_end_timestamp": "1714732200000",
+    "data_start_timestamp": "1714731900000",
+    "timestamp": "2024-05-03T10:25:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 31
+        },
+        {
+          "category": "car trailer",
+          "count": 1
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 1
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 5
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 41
+    },
+    "data_end_timestamp": "1714732500000",
+    "data_start_timestamp": "1714732200000",
+    "timestamp": "2024-05-03T10:30:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 18
+        },
+        {
+          "category": "car trailer",
+          "count": 1
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 4
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 30
+    },
+    "data_end_timestamp": "1714732800000",
+    "data_start_timestamp": "1714732500000",
+    "timestamp": "2024-05-03T10:35:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 2
+        },
+        {
+          "category": "car",
+          "count": 38
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 9
+        },
+        {
+          "category": "pram",
+          "count": 1
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 52
+    },
+    "data_end_timestamp": "1714733100000",
+    "data_start_timestamp": "1714732800000",
+    "timestamp": "2024-05-03T10:40:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 27
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 3
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 0
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 33
+    },
+    "data_end_timestamp": "1714733400000",
+    "data_start_timestamp": "1714733100000",
+    "timestamp": "2024-05-03T10:45:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 36
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 2
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 1
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 4
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 1
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 49
+    },
+    "data_end_timestamp": "1714733700000",
+    "data_start_timestamp": "1714733400000",
+    "timestamp": "2024-05-03T10:50:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 21
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 5
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 1
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 29
+    },
+    "data_end_timestamp": "1714734000000",
+    "data_start_timestamp": "1714733700000",
+    "timestamp": "2024-05-03T10:55:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 33
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 2
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 12
+        },
+        {
+          "category": "pram",
+          "count": 1
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 52
+    },
+    "data_end_timestamp": "1714734300000",
+    "data_start_timestamp": "1714734000000",
+    "timestamp": "2024-05-03T11:00:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 3
+        },
+        {
+          "category": "car",
+          "count": 30
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 4
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 1
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 40
+    },
+    "data_end_timestamp": "1714734600000",
+    "data_start_timestamp": "1714734300000",
+    "timestamp": "2024-05-03T11:05:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 1
+        },
+        {
+          "category": "bus",
+          "count": 2
+        },
+        {
+          "category": "car",
+          "count": 54
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 4
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 7
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 73
+    },
+    "data_end_timestamp": "1714734900000",
+    "data_start_timestamp": "1714734600000",
+    "timestamp": "2024-05-03T11:10:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 2
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 21
+        },
+        {
+          "category": "car trailer",
+          "count": 1
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 2
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 8
+        },
+        {
+          "category": "pram",
+          "count": 1
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 40
+    },
+    "data_end_timestamp": "1714735200000",
+    "data_start_timestamp": "1714734900000",
+    "timestamp": "2024-05-03T11:15:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 37
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 3
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 2
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 3
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 47
+    },
+    "data_end_timestamp": "1714735500000",
+    "data_start_timestamp": "1714735200000",
+    "timestamp": "2024-05-03T11:20:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 3
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 34
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 6
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 45
+    },
+    "data_end_timestamp": "1714735800000",
+    "data_start_timestamp": "1714735500000",
+    "timestamp": "2024-05-03T11:25:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 1
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 28
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 2
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 8
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 44
+    },
+    "data_end_timestamp": "1714736100000",
+    "data_start_timestamp": "1714735800000",
+    "timestamp": "2024-05-03T11:30:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 26
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 14
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 1
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 46
+    },
+    "data_end_timestamp": "1714736400000",
+    "data_start_timestamp": "1714736100000",
+    "timestamp": "2024-05-03T11:35:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 22
+        },
+        {
+          "category": "car trailer",
+          "count": 1
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 2
+        },
+        {
+          "category": "light",
+          "count": 3
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 8
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 41
+    },
+    "data_end_timestamp": "1714736700000",
+    "data_start_timestamp": "1714736400000",
+    "timestamp": "2024-05-03T11:40:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 23
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 3
+        },
+        {
+          "category": "light",
+          "count": 3
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 8
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 39
+    },
+    "data_end_timestamp": "1714737000000",
+    "data_start_timestamp": "1714736700000",
+    "timestamp": "2024-05-03T11:45:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 38
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 3
+        },
+        {
+          "category": "light",
+          "count": 3
+        },
+        {
+          "category": "motorcycle",
+          "count": 1
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 7
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 1
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 54
+    },
+    "data_end_timestamp": "1714737300000",
+    "data_start_timestamp": "1714737000000",
+    "timestamp": "2024-05-03T11:50:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 1
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 30
+        },
+        {
+          "category": "car trailer",
+          "count": 1
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 13
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 50
+    },
+    "data_end_timestamp": "1714737600000",
+    "data_start_timestamp": "1714737300000",
+    "timestamp": "2024-05-03T11:55:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 42
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 3
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 1
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 48
+    },
+    "data_end_timestamp": "1714737900000",
+    "data_start_timestamp": "1714737600000",
+    "timestamp": "2024-05-03T12:00:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 3
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 23
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 7
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 35
+    },
+    "data_end_timestamp": "1714738200000",
+    "data_start_timestamp": "1714737900000",
+    "timestamp": "2024-05-03T12:05:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 1
+        },
+        {
+          "category": "bus",
+          "count": 3
+        },
+        {
+          "category": "car",
+          "count": 42
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 9
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 3
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 59
+    },
+    "data_end_timestamp": "1714738500000",
+    "data_start_timestamp": "1714738200000",
+    "timestamp": "2024-05-03T12:10:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 29
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 4
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 36
+    },
+    "data_end_timestamp": "1714738800000",
+    "data_start_timestamp": "1714738500000",
+    "timestamp": "2024-05-03T12:15:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 3
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 40
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 1
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 5
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 55
+    },
+    "data_end_timestamp": "1714739100000",
+    "data_start_timestamp": "1714738800000",
+    "timestamp": "2024-05-03T12:20:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 23
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 11
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 39
+    },
+    "data_end_timestamp": "1714739400000",
+    "data_start_timestamp": "1714739100000",
+    "timestamp": "2024-05-03T12:25:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 3
+        },
+        {
+          "category": "car",
+          "count": 28
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 3
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 8
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 4
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 48
+    },
+    "data_end_timestamp": "1714739700000",
+    "data_start_timestamp": "1714739400000",
+    "timestamp": "2024-05-03T12:30:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 1
+        },
+        {
+          "category": "bus",
+          "count": 0
+        },
+        {
+          "category": "car",
+          "count": 20
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 1
+        },
+        {
+          "category": "light",
+          "count": 2
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 5
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 1
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 3
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 33
+    },
+    "data_end_timestamp": "1714740000000",
+    "data_start_timestamp": "1714739700000",
+    "timestamp": "2024-05-03T12:35:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 0
+        },
+        {
+          "category": "bus",
+          "count": 2
+        },
+        {
+          "category": "car",
+          "count": 49
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 1
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 7
+        },
+        {
+          "category": "pram",
+          "count": 1
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 0
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 2
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 62
+    },
+    "data_end_timestamp": "1714740300000",
+    "data_start_timestamp": "1714740000000",
+    "timestamp": "2024-05-03T12:40:00.000"
+  },
+  {
+    "data": {
+      "categories": [
+        {
+          "category": "animal",
+          "count": 0
+        },
+        {
+          "category": "bicycle",
+          "count": 2
+        },
+        {
+          "category": "bus",
+          "count": 1
+        },
+        {
+          "category": "car",
+          "count": 30
+        },
+        {
+          "category": "car trailer",
+          "count": 0
+        },
+        {
+          "category": "caravan",
+          "count": 0
+        },
+        {
+          "category": "e-cart",
+          "count": 0
+        },
+        {
+          "category": "head",
+          "count": 0
+        },
+        {
+          "category": "heavy",
+          "count": 0
+        },
+        {
+          "category": "light",
+          "count": 0
+        },
+        {
+          "category": "motorcycle",
+          "count": 0
+        },
+        {
+          "category": "obstacle",
+          "count": 0
+        },
+        {
+          "category": "pedestrian",
+          "count": 13
+        },
+        {
+          "category": "pram",
+          "count": 0
+        },
+        {
+          "category": "scooter",
+          "count": 0
+        },
+        {
+          "category": "skate",
+          "count": 0
+        },
+        {
+          "category": "tractor",
+          "count": 1
+        },
+        {
+          "category": "tram",
+          "count": 0
+        },
+        {
+          "category": "truck trailer",
+          "count": 0
+        },
+        {
+          "category": "tuk-tuk",
+          "count": 0
+        },
+        {
+          "category": "unknown",
+          "count": 0
+        },
+        {
+          "category": "van",
+          "count": 0
+        },
+        {
+          "category": "wheelchair",
+          "count": 0
+        }
+      ],
+      "data_validity": "ok",
+      "evaluation_validity": "ok",
+      "object_count": 47
+    },
+    "data_end_timestamp": "1714740600000",
+    "data_start_timestamp": "1714740300000",
+    "timestamp": "2024-05-03T12:45:00.000"
+  }
+]
