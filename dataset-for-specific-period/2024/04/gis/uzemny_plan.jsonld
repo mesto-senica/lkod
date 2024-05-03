@@ -50,7 +50,7 @@
     "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/uzemny_plan.jsonld",
     "distribúcia": [
         {
-            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/04/uzemny_plan.json",
+            "iri": "https://mesto-senica.github.io/lkod/data/2024/04/gis/uzemny_plan.json",
             "typ": "Distribúcia",
             "podmienky_použitia": {
                 "typ": "Špecifikácia podmienok použitia",
@@ -65,8 +65,8 @@
                 },
                 "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
             },
-            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/04/uzemny_plan.json",
-            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/04/uzemny_plan.json",
+            "prístupové_url": "https://mesto-senica.github.io/lkod/data/2024/04/gis/uzemny_plan.json",
+            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/2024/04/gis/uzemny_plan.json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
             "typ_média": "https://www.iana.org/assignments/media-types/application/geo+json",
             "názov": {

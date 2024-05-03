@@ -50,7 +50,7 @@
     "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/mobiliar.jsonld",
     "distribúcia": [
         {
-            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/03/mobiliar.json",
+            "iri": "https://mesto-senica.github.io/lkod/data/2024/03/gis/mobiliar.json",
             "typ": "Distribúcia",
             "podmienky_použitia": {
                 "typ": "Špecifikácia podmienok použitia",
@@ -65,8 +65,8 @@
                 },
                 "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
             },
-            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/03/mobiliar.json",
-            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/03/mobiliar.json",
+            "prístupové_url": "https://mesto-senica.github.io/lkod/data/2024/03/gis/mobiliar.json",
+            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/2024/03/gis/mobiliar.json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
             "typ_média": "https://www.iana.org/assignments/media-types/application/geo+json",
             "názov": {
