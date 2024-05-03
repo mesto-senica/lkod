@@ -45,6 +45,7 @@
         "https://mesto-senica.github.io/lkod/dataset/gis/ubytovacie_zariadenia.jsonld",
         "https://mesto-senica.github.io/lkod/dataset/gis/uzemny_plan.jsonld",
         "https://mesto-senica.github.io/lkod/dataset/gis/zdravotnicke_zariadenie.jsonld",
+        "https://mesto-senica.github.io/lkod/dataset/monitoring-dopravy/hlavna-krizovatka/hurbanova/vchadzajuce-vozidla.jsonld",
         "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/03/gis/autobusove_zastavky.jsonld",
         "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/03/gis/bezbarierove_miesta.jsonld",
         "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/03/gis/cyklotrasy.jsonld",
@@ -78,6 +79,7 @@
         "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/04/gis/studne_a_hydranty.jsonld",
         "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/04/gis/ubytovacie_zariadenia.jsonld",
         "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/04/gis/uzemny_plan.jsonld",
-        "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/04/gis/zdravotnicke_zariadenie.jsonld"
+        "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/04/gis/zdravotnicke_zariadenie.jsonld",
+        "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/05/monitoring-dopravy/hlavna-krizovatka/hurbanova/vchadzajuce-vozidla.jsonld"
     ]
 }
