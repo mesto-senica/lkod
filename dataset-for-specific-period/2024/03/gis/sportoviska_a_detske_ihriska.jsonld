@@ -1,6 +1,6 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/03/sportoviska_a_detske_ihriska.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/03/gis/sportoviska_a_detske_ihriska.jsonld",
     "typ": "Dataset",
     "názov": {
         "sk": "Športoviská a detské ihriská"

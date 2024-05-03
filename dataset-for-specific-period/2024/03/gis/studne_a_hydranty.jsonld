@@ -1,6 +1,6 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/03/studne_a_hydranty.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/03/gis/studne_a_hydranty.jsonld",
     "typ": "Dataset",
     "názov": {
         "sk": "Studne a hydranty"
