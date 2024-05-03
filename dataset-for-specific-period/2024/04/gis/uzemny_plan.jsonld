@@ -1,12 +1,12 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/parkoviska.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/04/gis/uzemny_plan.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Parkoviská - Apríl 2024"
+        "sk": "Územný plán - Apríl 2024"
     },
     "popis": {
-        "sk": "Parkoviská - Apríl 2024"
+        "sk": "Územný plán - Apríl 2024"
     },
     "poskytovateľ": "https://data.gov.sk/id/legal-subject/00309974",
     "typ_datasetu": "https://data.gov.sk/def/dataset-type/1",
@@ -16,8 +16,8 @@
     "periodicita_aktualizácie": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
     "kľúčové_slovo": {
         "sk": [
-            "Parkoviská",
-            "parkingArea"
+            "Územný plán",
+            "urbanism"
         ]
     },
     "geografické_územie": [
@@ -45,12 +45,12 @@
         "e-mail": "mailto:opendata@senica.sk"
     },
     "koncept_euroVoc": [
-        "http://eurovoc.europa.eu/5429"
+        "http://data.europa.eu/ehl/cpa21/71113"
     ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/parkoviska.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/uzemny_plan.jsonld",
     "distribúcia": [
         {
-            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/04/parkoviska.json",
+            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/04/uzemny_plan.json",
             "typ": "Distribúcia",
             "podmienky_použitia": {
                 "typ": "Špecifikácia podmienok použitia",
@@ -65,12 +65,12 @@
                 },
                 "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
             },
-            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/04/parkoviska.json",
-            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/04/parkoviska.json",
+            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/04/uzemny_plan.json",
+            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/04/uzemny_plan.json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
             "typ_média": "https://www.iana.org/assignments/media-types/application/geo+json",
             "názov": {
-                "sk": "Parkoviská vo formáte GeoJSON"
+                "sk": "Územný plán vo formáte GeoJSON"
             }
         }
     ]

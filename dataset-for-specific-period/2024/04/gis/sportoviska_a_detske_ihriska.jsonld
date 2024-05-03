@@ -1,12 +1,12 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/kulturne_pamiatky.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/04/gis/sportoviska_a_detske_ihriska.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Kultúrne pamiatky - Apríl 2024"
+        "sk": "Športoviská a detské ihriská - Apríl 2024"
     },
     "popis": {
-        "sk": "Kultúrne pamiatky - Apríl 2024"
+        "sk": "Športoviská a detské ihriská - Apríl 2024"
     },
     "poskytovateľ": "https://data.gov.sk/id/legal-subject/00309974",
     "typ_datasetu": "https://data.gov.sk/def/dataset-type/1",
@@ -16,8 +16,8 @@
     "periodicita_aktualizácie": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
     "kľúčové_slovo": {
         "sk": [
-            "Kultúrne pamiatky",
-            "monuments"
+            "Športoviská a detské ihriská",
+            "playgroundEquipment"
         ]
     },
     "geografické_územie": [
@@ -45,12 +45,12 @@
         "e-mail": "mailto:opendata@senica.sk"
     },
     "koncept_euroVoc": [
-        "http://eurovoc.europa.eu/5747"
+        "http://data.europa.eu/cpv/cpv/37535200"
     ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/kulturne_pamiatky.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/sportoviska_a_detske_ihriska.jsonld",
     "distribúcia": [
         {
-            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/04/kulturne_pamiatky.json",
+            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/04/sportoviska_a_detske_ihriska.json",
             "typ": "Distribúcia",
             "podmienky_použitia": {
                 "typ": "Špecifikácia podmienok použitia",
@@ -65,12 +65,12 @@
                 },
                 "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
             },
-            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/04/kulturne_pamiatky.json",
-            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/04/kulturne_pamiatky.json",
+            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/04/sportoviska_a_detske_ihriska.json",
+            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/04/sportoviska_a_detske_ihriska.json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
             "typ_média": "https://www.iana.org/assignments/media-types/application/geo+json",
             "názov": {
-                "sk": "Kultúrne pamiatky vo formáte GeoJSON"
+                "sk": "Športoviská a detské ihriská vo formáte GeoJSON"
             }
         }
     ]

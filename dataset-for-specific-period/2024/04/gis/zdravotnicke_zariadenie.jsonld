@@ -1,12 +1,12 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/osvetlenie.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/04/gis/zdravotnicke_zariadenie.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Osvetlenie - Apríl 2024"
+        "sk": "Zdravotnícke zariadenie - Apríl 2024"
     },
     "popis": {
-        "sk": "Osvetlenie - Apríl 2024"
+        "sk": "Zdravotnícke zariadenie - Apríl 2024"
     },
     "poskytovateľ": "https://data.gov.sk/id/legal-subject/00309974",
     "typ_datasetu": "https://data.gov.sk/def/dataset-type/1",
@@ -16,8 +16,8 @@
     "periodicita_aktualizácie": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
     "kľúčové_slovo": {
         "sk": [
-            "Osvetlenie",
-            "lighting"
+            "Zdravotnícke zariadenie",
+            "humanHealthServices"
         ]
     },
     "geografické_územie": [
@@ -45,12 +45,12 @@
         "e-mail": "mailto:opendata@senica.sk"
     },
     "koncept_euroVoc": [
-        "http://eurovoc.europa.eu/626"
+        "http://data.europa.eu/ehl/cpa21/86"
     ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/osvetlenie.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/zdravotnicke_zariadenie.jsonld",
     "distribúcia": [
         {
-            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/04/osvetlenie.json",
+            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/04/zdravotnicke_zariadenie.json",
             "typ": "Distribúcia",
             "podmienky_použitia": {
                 "typ": "Špecifikácia podmienok použitia",
@@ -65,12 +65,12 @@
                 },
                 "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
             },
-            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/04/osvetlenie.json",
-            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/04/osvetlenie.json",
+            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/04/zdravotnicke_zariadenie.json",
+            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/04/zdravotnicke_zariadenie.json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
             "typ_média": "https://www.iana.org/assignments/media-types/application/geo+json",
             "názov": {
-                "sk": "Osvetlenie vo formáte GeoJSON"
+                "sk": "Zdravotnícke zariadenie vo formáte GeoJSON"
             }
         }
     ]

@@ -1,12 +1,12 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/bezbarierove_miesta.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/04/gis/ubytovacie_zariadenia.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Bezbarierové miesta - Apríl 2024"
+        "sk": "Ubytovacie zariadenia - Apríl 2024"
     },
     "popis": {
-        "sk": "Bezbarierové miesta - Apríl 2024"
+        "sk": "Ubytovacie zariadenia - Apríl 2024"
     },
     "poskytovateľ": "https://data.gov.sk/id/legal-subject/00309974",
     "typ_datasetu": "https://data.gov.sk/def/dataset-type/1",
@@ -16,7 +16,8 @@
     "periodicita_aktualizácie": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
     "kľúčové_slovo": {
         "sk": [
-            "Bezbarierové miesta"
+            "Ubytovacie zariadenia",
+            "accomodationServices"
         ]
     },
     "geografické_územie": [
@@ -43,11 +44,13 @@
         },
         "e-mail": "mailto:opendata@senica.sk"
     },
-    "koncept_euroVoc": [],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/bezbarierove_miesta.jsonld",
+    "koncept_euroVoc": [
+        "http://data.europa.eu/ehl/cpa21/5510"
+    ],
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/ubytovacie_zariadenia.jsonld",
     "distribúcia": [
         {
-            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/04/bezbarierove_miesta.json",
+            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/04/ubytovacie_zariadenia.json",
             "typ": "Distribúcia",
             "podmienky_použitia": {
                 "typ": "Špecifikácia podmienok použitia",
@@ -62,12 +65,12 @@
                 },
                 "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
             },
-            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/04/bezbarierove_miesta.json",
-            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/04/bezbarierove_miesta.json",
+            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/04/ubytovacie_zariadenia.json",
+            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/04/ubytovacie_zariadenia.json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
             "typ_média": "https://www.iana.org/assignments/media-types/application/geo+json",
             "názov": {
-                "sk": "Bezbarierové miesta vo formáte GeoJSON"
+                "sk": "Ubytovacie zariadenia vo formáte GeoJSON"
             }
         }
     ]

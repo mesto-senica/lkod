@@ -1,12 +1,12 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/gis/dataset/dataset-for-specific-period/2024/04/studne_a_hydranty.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/04/gis/kulturne_pamiatky.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Studne a hydranty - Apríl 2024"
+        "sk": "Kultúrne pamiatky - Apríl 2024"
     },
     "popis": {
-        "sk": "Studne a hydranty - Apríl 2024"
+        "sk": "Kultúrne pamiatky - Apríl 2024"
     },
     "poskytovateľ": "https://data.gov.sk/id/legal-subject/00309974",
     "typ_datasetu": "https://data.gov.sk/def/dataset-type/1",
@@ -16,8 +16,8 @@
     "periodicita_aktualizácie": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
     "kľúčové_slovo": {
         "sk": [
-            "Studne a hydranty",
-            "waterResource"
+            "Kultúrne pamiatky",
+            "monuments"
         ]
     },
     "geografické_územie": [
@@ -45,12 +45,12 @@
         "e-mail": "mailto:opendata@senica.sk"
     },
     "koncept_euroVoc": [
-        "http://eurovoc.europa.eu/3535"
+        "http://eurovoc.europa.eu/5747"
     ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/studne_a_hydranty.jsonld",
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/gis/dataset/kulturne_pamiatky.jsonld",
     "distribúcia": [
         {
-            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/04/studne_a_hydranty.json",
+            "iri": "https://mesto-senica.github.io/lkod/gis/data/2024/04/kulturne_pamiatky.json",
             "typ": "Distribúcia",
             "podmienky_použitia": {
                 "typ": "Špecifikácia podmienok použitia",
@@ -65,12 +65,12 @@
                 },
                 "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
             },
-            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/04/studne_a_hydranty.json",
-            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/04/studne_a_hydranty.json",
+            "prístupové_url": "https://mesto-senica.github.io/lkod/gis/data/2024/04/kulturne_pamiatky.json",
+            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/gis/data/2024/04/kulturne_pamiatky.json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
             "typ_média": "https://www.iana.org/assignments/media-types/application/geo+json",
             "názov": {
-                "sk": "Studne a hydranty vo formáte GeoJSON"
+                "sk": "Kultúrne pamiatky vo formáte GeoJSON"
             }
         }
     ]
