@@ -1,0 +1,1749 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2554,
+                "type_tid": 22,
+                "title": "Hotel Arli",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Hotel Arli:Hotel Arli:Ubytovacie zariadenie:Ubytovacie zariadenie:::'arli':2 'hotel':1 'ubytovacie':3 'zariadenie':4:'arli':2 'hotel':1 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Hotel Arli",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548955.36,
+                                -1223327
+                            ],
+                            [
+                                -548949.55,
+                                -1223326.58
+                            ],
+                            [
+                                -548948.72,
+                                -1223353.95
+                            ],
+                            [
+                                -548948.49,
+                                -1223353.95
+                            ],
+                            [
+                                -548948.46,
+                                -1223354.43
+                            ],
+                            [
+                                -548959.73,
+                                -1223354.92
+                            ],
+                            [
+                                -548959.97,
+                                -1223348.32
+                            ],
+                            [
+                                -548959.45,
+                                -1223348.28
+                            ],
+                            [
+                                -548959.73,
+                                -1223339.09
+                            ],
+                            [
+                                -548960.14,
+                                -1223327.17
+                            ],
+                            [
+                                -548955.36,
+                                -1223327
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2555,
+                "type_tid": 22,
+                "title": "Hotel Branč",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Hotel Branč:Hotel Branc:Ubytovacie zariadenie:Ubytovacie zariadenie:::'branč':2 'hotel':1 'ubytovacie':3 'zariadenie':4:'branc':2 'hotel':1 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Hotel Branč",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548737.63,
+                                -1223366.2
+                            ],
+                            [
+                                -548737.53,
+                                -1223368.08
+                            ],
+                            [
+                                -548737.5,
+                                -1223368.67
+                            ],
+                            [
+                                -548737.27,
+                                -1223372.12
+                            ],
+                            [
+                                -548732.7,
+                                -1223372.08
+                            ],
+                            [
+                                -548732.56,
+                                -1223374.08
+                            ],
+                            [
+                                -548730.75,
+                                -1223374.06
+                            ],
+                            [
+                                -548730.57,
+                                -1223377.85
+                            ],
+                            [
+                                -548728.92,
+                                -1223377.75
+                            ],
+                            [
+                                -548728.59,
+                                -1223384.25
+                            ],
+                            [
+                                -548727.61,
+                                -1223399.17
+                            ],
+                            [
+                                -548756.09,
+                                -1223400.19
+                            ],
+                            [
+                                -548756.59,
+                                -1223397.42
+                            ],
+                            [
+                                -548762.54,
+                                -1223397.41
+                            ],
+                            [
+                                -548762.88,
+                                -1223385.05
+                            ],
+                            [
+                                -548762.94,
+                                -1223382.69
+                            ],
+                            [
+                                -548763.07,
+                                -1223379.33
+                            ],
+                            [
+                                -548763.53,
+                                -1223374.99
+                            ],
+                            [
+                                -548769.15,
+                                -1223375.8
+                            ],
+                            [
+                                -548769.64,
+                                -1223364.28
+                            ],
+                            [
+                                -548769.37,
+                                -1223364.24
+                            ],
+                            [
+                                -548755.31,
+                                -1223363.72
+                            ],
+                            [
+                                -548753.03,
+                                -1223363.59
+                            ],
+                            [
+                                -548744.75,
+                                -1223363.37
+                            ],
+                            [
+                                -548744.75,
+                                -1223366.31
+                            ],
+                            [
+                                -548737.63,
+                                -1223366.2
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2557,
+                "type_tid": 22,
+                "title": "Hotel Senica",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Hotel Senica:Hotel Senica:Ubytovacie zariadenie:Ubytovacie zariadenie:::'hotel':1 'senica':2 'ubytovacie':3 'zariadenie':4:'hotel':1 'senica':2 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Hotel Senica",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549578.72,
+                                -1223518.58
+                            ],
+                            [
+                                -549581.3,
+                                -1223517.6
+                            ],
+                            [
+                                -549585.27,
+                                -1223508.06
+                            ],
+                            [
+                                -549587.88,
+                                -1223502.27
+                            ],
+                            [
+                                -549588.33,
+                                -1223502.47
+                            ],
+                            [
+                                -549591.67,
+                                -1223494.8
+                            ],
+                            [
+                                -549575.64,
+                                -1223487.83
+                            ],
+                            [
+                                -549572.29,
+                                -1223495.49
+                            ],
+                            [
+                                -549572.68,
+                                -1223495.7
+                            ],
+                            [
+                                -549565.22,
+                                -1223512.69
+                            ],
+                            [
+                                -549578.72,
+                                -1223518.58
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2559,
+                "type_tid": 22,
+                "title": "Grand Hotel Senica",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Grand Hotel Senica:Grand Hotel Senica:Ubytovacie zariadenie:Ubytovacie zariadenie:::'grand':1 'hotel':2 'senica':3 'ubytovacie':4 'zariadenie':5:'grand':1 'hotel':2 'senica':3 'ubytovacie':4 'zariadenie':5",
+                "tooltip": "Ubytovacie zariadenie | Grand Hotel Senica",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548695.41,
+                                -1222953.55
+                            ],
+                            [
+                                -548694.67,
+                                -1222942.48
+                            ],
+                            [
+                                -548686.36,
+                                -1222943.13
+                            ],
+                            [
+                                -548685.97,
+                                -1222939.67
+                            ],
+                            [
+                                -548672.78,
+                                -1222941.79
+                            ],
+                            [
+                                -548673.23,
+                                -1222946.81
+                            ],
+                            [
+                                -548677.67,
+                                -1222946.4
+                            ],
+                            [
+                                -548677.65,
+                                -1222945.15
+                            ],
+                            [
+                                -548681.56,
+                                -1222944.84
+                            ],
+                            [
+                                -548682.6,
+                                -1222957.22
+                            ],
+                            [
+                                -548681.41,
+                                -1222957.27
+                            ],
+                            [
+                                -548681.67,
+                                -1222960.7
+                            ],
+                            [
+                                -548695.84,
+                                -1222959.66
+                            ],
+                            [
+                                -548695.41,
+                                -1222953.55
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2565,
+                "type_tid": 22,
+                "title": "Rekreačná chata Kunov",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Rekreačná chata Kunov:Rekreacna chata Kunov:Ubytovacie zariadenie:Ubytovacie zariadenie:::'chata':2 'kunov':3 'rekreačná':1 'ubytovacie':4 'zariadenie':5:'chata':2 'kunov':3 'rekreacna':1 'ubytovacie':4 'zariadenie':5",
+                "tooltip": "Ubytovacie zariadenie | Rekreačná chata Kunov",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -545319.95,
+                                -1220749.28
+                            ],
+                            [
+                                -545338.36,
+                                -1220748.3
+                            ],
+                            [
+                                -545337.93,
+                                -1220741.99
+                            ],
+                            [
+                                -545339.09,
+                                -1220741.88
+                            ],
+                            [
+                                -545339.04,
+                                -1220740.41
+                            ],
+                            [
+                                -545334.25,
+                                -1220740.7
+                            ],
+                            [
+                                -545333.25,
+                                -1220726.51
+                            ],
+                            [
+                                -545325.25,
+                                -1220726.96
+                            ],
+                            [
+                                -545325.19,
+                                -1220726.05
+                            ],
+                            [
+                                -545320.32,
+                                -1220726.35
+                            ],
+                            [
+                                -545321.3,
+                                -1220742.6
+                            ],
+                            [
+                                -545319.53,
+                                -1220742.7
+                            ],
+                            [
+                                -545319.95,
+                                -1220749.28
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2567,
+                "type_tid": 22,
+                "title": "Chata Mariana",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Chata Mariana:Chata Mariana:Ubytovacie zariadenie:Ubytovacie zariadenie:::'chata':1 'mariana':2 'ubytovacie':3 'zariadenie':4:'chata':1 'mariana':2 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Chata Mariana",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -545318.02,
+                                -1221040.18
+                            ],
+                            [
+                                -545318.22,
+                                -1221047.46
+                            ],
+                            [
+                                -545319.68,
+                                -1221047.46
+                            ],
+                            [
+                                -545319.96,
+                                -1221052.1
+                            ],
+                            [
+                                -545327.16,
+                                -1221051.68
+                            ],
+                            [
+                                -545326.04,
+                                -1221039.52
+                            ],
+                            [
+                                -545318.02,
+                                -1221040.18
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2568,
+                "type_tid": 22,
+                "title": "Chata Ondrej",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Chata Ondrej:Chata Ondrej:Ubytovacie zariadenie:Ubytovacie zariadenie:::'chata':1 'ondrej':2 'ubytovacie':3 'zariadenie':4:'chata':1 'ondrej':2 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Chata Ondrej",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -545298.78,
+                                -1221044.53
+                            ],
+                            [
+                                -545298.92,
+                                -1221054.18
+                            ],
+                            [
+                                -545308.36,
+                                -1221053.9
+                            ],
+                            [
+                                -545307.59,
+                                -1221044.25
+                            ],
+                            [
+                                -545298.78,
+                                -1221044.53
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2563,
+                "type_tid": 22,
+                "title": "Grand Café kongresové centrum",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Grand Café kongresové centrum:Grand Cafe kongresove centrum:Ubytovacie zariadenie:Ubytovacie zariadenie:::'café':2 'centrum':4 'grand':1 'kongresové':3 'ubytovacie':5 'zariadenie':6:'cafe':2 'centrum':4 'grand':1 'kongresove':3 'ubytovacie':5 'zariadenie':6",
+                "tooltip": "Ubytovacie zariadenie | Grand Café kongresové centrum",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -549061.92,
+                                -1223183.21
+                            ],
+                            [
+                                -549039.38,
+                                -1223175.55
+                            ],
+                            [
+                                -549034.55,
+                                -1223189.74
+                            ],
+                            [
+                                -549056.8,
+                                -1223197.31
+                            ],
+                            [
+                                -549064.52,
+                                -1223200.29
+                            ],
+                            [
+                                -549066.91,
+                                -1223194.08
+                            ],
+                            [
+                                -549073.22,
+                                -1223196.52
+                            ],
+                            [
+                                -549070.9,
+                                -1223201.95
+                            ],
+                            [
+                                -549088.7,
+                                -1223208.01
+                            ],
+                            [
+                                -549090.91,
+                                -1223202.79
+                            ],
+                            [
+                                -549096.89,
+                                -1223204.81
+                            ],
+                            [
+                                -549083.29,
+                                -1223245.27
+                            ],
+                            [
+                                -549091.33,
+                                -1223247.98
+                            ],
+                            [
+                                -549090.98,
+                                -1223249.15
+                            ],
+                            [
+                                -549091.31,
+                                -1223249.3
+                            ],
+                            [
+                                -549091.43,
+                                -1223249.4
+                            ],
+                            [
+                                -549097.21,
+                                -1223251.32
+                            ],
+                            [
+                                -549114.75,
+                                -1223199.83
+                            ],
+                            [
+                                -549108.91,
+                                -1223197.85
+                            ],
+                            [
+                                -549109.29,
+                                -1223196.71
+                            ],
+                            [
+                                -549106.37,
+                                -1223195.71
+                            ],
+                            [
+                                -549100.67,
+                                -1223193.6
+                            ],
+                            [
+                                -549099.23,
+                                -1223197.84
+                            ],
+                            [
+                                -549093.25,
+                                -1223195.82
+                            ],
+                            [
+                                -549095.07,
+                                -1223190.11
+                            ],
+                            [
+                                -549091.63,
+                                -1223189.21
+                            ],
+                            [
+                                -549077.39,
+                                -1223184.05
+                            ],
+                            [
+                                -549076,
+                                -1223188.45
+                            ],
+                            [
+                                -549069.93,
+                                -1223186.29
+                            ],
+                            [
+                                -549061.92,
+                                -1223183.21
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2558,
+                "type_tid": 22,
+                "title": "Penzión Roos Group",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Penzión Roos Group:Penzion Roos Group:Ubytovacie zariadenie:Ubytovacie zariadenie:::'group':3 'penzión':1 'roos':2 'ubytovacie':4 'zariadenie':5:'group':3 'penzion':1 'roos':2 'ubytovacie':4 'zariadenie':5",
+                "tooltip": "Ubytovacie zariadenie | Penzión Roos Group",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548893.78,
+                                -1223286.05
+                            ],
+                            [
+                                -548895.24,
+                                -1223286.11
+                            ],
+                            [
+                                -548906.23,
+                                -1223286.5
+                            ],
+                            [
+                                -548912.3,
+                                -1223286.47
+                            ],
+                            [
+                                -548912.42,
+                                -1223273.04
+                            ],
+                            [
+                                -548851.89,
+                                -1223271.36
+                            ],
+                            [
+                                -548851.96,
+                                -1223284.5
+                            ],
+                            [
+                                -548862.05,
+                                -1223284.82
+                            ],
+                            [
+                                -548875.77,
+                                -1223285.37
+                            ],
+                            [
+                                -548875.74,
+                                -1223286.4
+                            ],
+                            [
+                                -548882.27,
+                                -1223286.65
+                            ],
+                            [
+                                -548888.23,
+                                -1223286.65
+                            ],
+                            [
+                                -548888.29,
+                                -1223285.84
+                            ],
+                            [
+                                -548893.78,
+                                -1223286.05
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2564,
+                "type_tid": 22,
+                "title": "Koliba Senica",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Koliba Senica:Koliba Senica:Ubytovacie zariadenie:Ubytovacie zariadenie:::'koliba':1 'senica':2 'ubytovacie':3 'zariadenie':4:'koliba':1 'senica':2 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Koliba Senica",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548739.47,
+                                -1222760.89
+                            ],
+                            [
+                                -548751.11,
+                                -1222765.78
+                            ],
+                            [
+                                -548755.07,
+                                -1222756.28
+                            ],
+                            [
+                                -548736.43,
+                                -1222748.86
+                            ],
+                            [
+                                -548732.8,
+                                -1222758.37
+                            ],
+                            [
+                                -548739.47,
+                                -1222760.89
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2562,
+                "type_tid": 22,
+                "title": "Penzión Atlas",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Penzión Atlas:Penzion Atlas:Ubytovacie zariadenie:Ubytovacie zariadenie:::'atlas':2 'penzión':1 'ubytovacie':3 'zariadenie':4:'atlas':2 'penzion':1 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Penzión Atlas",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -550018.4,
+                                -1223897.35
+                            ],
+                            [
+                                -549991.48,
+                                -1223878.36
+                            ],
+                            [
+                                -549980.93,
+                                -1223893.31
+                            ],
+                            [
+                                -549989.89,
+                                -1223899.63
+                            ],
+                            [
+                                -549994.86,
+                                -1223893.77
+                            ],
+                            [
+                                -550007.81,
+                                -1223902.91
+                            ],
+                            [
+                                -550003.83,
+                                -1223908.67
+                            ],
+                            [
+                                -550008.16,
+                                -1223911.72
+                            ],
+                            [
+                                -550017.07,
+                                -1223918.13
+                            ],
+                            [
+                                -550020.59,
+                                -1223912.65
+                            ],
+                            [
+                                -550034.05,
+                                -1223922.33
+                            ],
+                            [
+                                -550028.74,
+                                -1223929.68
+                            ],
+                            [
+                                -550038.43,
+                                -1223936.64
+                            ],
+                            [
+                                -550042.69,
+                                -1223930.71
+                            ],
+                            [
+                                -550050.23,
+                                -1223920.25
+                            ],
+                            [
+                                -550018.4,
+                                -1223897.35
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2561,
+                "type_tid": 22,
+                "title": "Chata nad plážou",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Chata nad plážou:Chata nad plazou:Ubytovacie zariadenie:Ubytovacie zariadenie:::'chata':1 'nad':2 'plážou':3 'ubytovacie':4 'zariadenie':5:'chata':1 'nad':2 'plazou':3 'ubytovacie':4 'zariadenie':5",
+                "tooltip": "Ubytovacie zariadenie | Chata nad plážou",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -545313.99,
+                                -1220668.63
+                            ],
+                            [
+                                -545314.51,
+                                -1220668.48
+                            ],
+                            [
+                                -545311.39,
+                                -1220659.08
+                            ],
+                            [
+                                -545312,
+                                -1220658.84
+                            ],
+                            [
+                                -545308.9,
+                                -1220649.53
+                            ],
+                            [
+                                -545309.77,
+                                -1220649.22
+                            ],
+                            [
+                                -545308.2,
+                                -1220644.41
+                            ],
+                            [
+                                -545306.67,
+                                -1220644.6
+                            ],
+                            [
+                                -545305.31,
+                                -1220639.9
+                            ],
+                            [
+                                -545279.36,
+                                -1220646.84
+                            ],
+                            [
+                                -545281.89,
+                                -1220656.53
+                            ],
+                            [
+                                -545295.06,
+                                -1220653.12
+                            ],
+                            [
+                                -545302.58,
+                                -1220681.74
+                            ],
+                            [
+                                -545317.03,
+                                -1220678.04
+                            ],
+                            [
+                                -545313.99,
+                                -1220668.63
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2556,
+                "type_tid": 22,
+                "title": "Domov mládeže OA",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Domov mládeže OA:Domov mladeze OA:Ubytovacie zariadenie:Ubytovacie zariadenie:::'domov':1 'mládeže':2 'oa':3 'ubytovacie':4 'zariadenie':5:'domov':1 'mladeze':2 'oa':3 'ubytovacie':4 'zariadenie':5",
+                "tooltip": "Ubytovacie zariadenie | Domov mládeže OA",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548904.44,
+                                -1223900.28
+                            ],
+                            [
+                                -548899.87,
+                                -1223915.36
+                            ],
+                            [
+                                -548918.56,
+                                -1223920.38
+                            ],
+                            [
+                                -548923.24,
+                                -1223904.91
+                            ],
+                            [
+                                -548922,
+                                -1223904.53
+                            ],
+                            [
+                                -548930,
+                                -1223877.95
+                            ],
+                            [
+                                -548916.34,
+                                -1223873.79
+                            ],
+                            [
+                                -548915.44,
+                                -1223876.72
+                            ],
+                            [
+                                -548911.91,
+                                -1223875.67
+                            ],
+                            [
+                                -548904.44,
+                                -1223900.28
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2560,
+                "type_tid": 22,
+                "title": "Turistická ubytovňa Senica - Kunovská priehrada D1755",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Turistická ubytovňa Senica - Kunovská priehrada D1755:Turisticka ubytovna Senica - Kunovska priehrada D1755:Ubytovacie zariadenie:Ubytovacie zariadenie:::'d1755':6 'kunovská':4 'priehrada':5 'senica':3 'turistická':1 'ubytovacie':7 'ubytovňa':2 'zariadenie':8:'d1755':6 'kunovska':4 'priehrada':5 'senica':3 'turisticka':1 'ubytovacie':7 'ubytovna':2 'zariadenie':8",
+                "tooltip": "Ubytovacie zariadenie | Turistická ubytovňa Senica - Kunovská priehrada D1755",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -545331.5,
+                                -1220854.49
+                            ],
+                            [
+                                -545336.82,
+                                -1220879.71
+                            ],
+                            [
+                                -545339.52,
+                                -1220879.14
+                            ],
+                            [
+                                -545340.55,
+                                -1220882.91
+                            ],
+                            [
+                                -545328.59,
+                                -1220885.5
+                            ],
+                            [
+                                -545330.31,
+                                -1220894.47
+                            ],
+                            [
+                                -545355.61,
+                                -1220889.01
+                            ],
+                            [
+                                -545353.92,
+                                -1220880.2
+                            ],
+                            [
+                                -545347.08,
+                                -1220881.47
+                            ],
+                            [
+                                -545340.82,
+                                -1220852.62
+                            ],
+                            [
+                                -545331.5,
+                                -1220854.49
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2566,
+                "type_tid": 22,
+                "title": "Ubytovanie v Senici",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Ubytovanie v Senici:Ubytovanie v Senici:Ubytovacie zariadenie:Ubytovacie zariadenie:::'senici':3 'ubytovacie':4 'ubytovanie':1 'v':2 'zariadenie':5:'senici':3 'ubytovacie':4 'ubytovanie':1 'v':2 'zariadenie':5",
+                "tooltip": "Ubytovacie zariadenie | Ubytovanie v Senici",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548186.46,
+                                -1224033.01
+                            ],
+                            [
+                                -548183.94,
+                                -1224032.59
+                            ],
+                            [
+                                -548177.11,
+                                -1224031.57
+                            ],
+                            [
+                                -548176.83,
+                                -1224033.76
+                            ],
+                            [
+                                -548177.73,
+                                -1224033.95
+                            ],
+                            [
+                                -548176.89,
+                                -1224041.39
+                            ],
+                            [
+                                -548182.01,
+                                -1224042.05
+                            ],
+                            [
+                                -548182.06,
+                                -1224041.54
+                            ],
+                            [
+                                -548190.26,
+                                -1224042.53
+                            ],
+                            [
+                                -548191.29,
+                                -1224033.41
+                            ],
+                            [
+                                -548186.46,
+                                -1224033.01
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2569,
+                "type_tid": 22,
+                "title": "Ubytovňa Sehost",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Ubytovňa Sehost:Ubytovna Sehost:Ubytovacie zariadenie:Ubytovacie zariadenie:::'sehost':2 'ubytovacie':3 'ubytovňa':1 'zariadenie':4:'sehost':2 'ubytovacie':3 'ubytovna':1 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Ubytovňa Sehost",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_MultiPolygon"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548630.83,
+                                -1223233.66
+                            ],
+                            [
+                                -548620.31,
+                                -1223231.92
+                            ],
+                            [
+                                -548615.37,
+                                -1223261.79
+                            ],
+                            [
+                                -548625.95,
+                                -1223263.18
+                            ],
+                            [
+                                -548630.83,
+                                -1223233.66
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2345,
+                "type_tid": 22,
+                "title": "",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "::Ubytovacie zariadenie:Ubytovacie zariadenie:::'ubytovacie':1 'zariadenie':2:'ubytovacie':1 'zariadenie':2",
+                "tooltip": "Ubytovacie zariadenie |",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_Polygon"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            -548608.16,
+                            -1222933.35
+                        ],
+                        [
+                            -548591.16,
+                            -1222934.85
+                        ],
+                        [
+                            -548595.41,
+                            -1222987.11
+                        ],
+                        [
+                            -548611.91,
+                            -1222985.86
+                        ],
+                        [
+                            -548609.99,
+                            -1222962.99
+                        ],
+                        [
+                            -548608.16,
+                            -1222933.35
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2346,
+                "type_tid": 22,
+                "title": "Útulný apartmán - Cosy apartment",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Útulný apartmán - Cosy apartment:Utulny apartman - Cosy apartment:Ubytovacie zariadenie:Ubytovacie zariadenie:::'apartment':4 'apartmán':2 'cosy':3 'ubytovacie':5 'zariadenie':6 'útulný':1:'apartman':2 'apartment':4 'cosy':3 'ubytovacie':5 'utulny':1 'zariadenie':6",
+                "tooltip": "Ubytovacie zariadenie | Útulný apartmán - Cosy apartment",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_Polygon"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            -547666.46,
+                            -1222695.8
+                        ],
+                        [
+                            -547669.21,
+                            -1222725.8
+                        ],
+                        [
+                            -547682.96,
+                            -1222724.43
+                        ],
+                        [
+                            -547680.21,
+                            -1222694.55
+                        ],
+                        [
+                            -547666.46,
+                            -1222695.8
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2348,
+                "type_tid": 22,
+                "title": "Chata Kunov",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Chata Kunov:Chata Kunov:Ubytovacie zariadenie:Ubytovacie zariadenie:::'chata':1 'kunov':2 'ubytovacie':3 'zariadenie':4:'chata':1 'kunov':2 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Chata Kunov",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_Polygon"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            -545306.37,
+                            -1221044.03
+                        ],
+                        [
+                            -545298.62,
+                            -1221044.78
+                        ],
+                        [
+                            -545299.43,
+                            -1221053.72
+                        ],
+                        [
+                            -545306.99,
+                            -1221052.91
+                        ],
+                        [
+                            -545306.37,
+                            -1221044.03
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2347,
+                "type_tid": 22,
+                "title": "Chata Kunov",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Chata Kunov:Chata Kunov:Ubytovacie zariadenie:Ubytovacie zariadenie:::'chata':1 'kunov':2 'ubytovacie':3 'zariadenie':4:'chata':1 'kunov':2 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Chata Kunov",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_Polygon"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            -545317.59,
+                            -1221040.63
+                        ],
+                        [
+                            -545317.96,
+                            -1221048.01
+                        ],
+                        [
+                            -545316.71,
+                            -1221048.38
+                        ],
+                        [
+                            -545317.03,
+                            -1221051.63
+                        ],
+                        [
+                            -545319.96,
+                            -1221051.44
+                        ],
+                        [
+                            -545319.84,
+                            -1221052.19
+                        ],
+                        [
+                            -545325.53,
+                            -1221051.94
+                        ],
+                        [
+                            -545324.84,
+                            -1221040.25
+                        ],
+                        [
+                            -545317.59,
+                            -1221040.63
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2340,
+                "type_tid": 22,
+                "title": "Útulný apartmán - Cosy apartment",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Útulný apartmán - Cosy apartment:Utulny apartman - Cosy apartment:Ubytovacie zariadenie:Ubytovacie zariadenie:::'apartment':4 'apartmán':2 'cosy':3 'ubytovacie':5 'zariadenie':6 'útulný':1:'apartman':2 'apartment':4 'cosy':3 'ubytovacie':5 'utulny':1 'zariadenie':6",
+                "tooltip": "Ubytovacie zariadenie | Útulný apartmán - Cosy apartment",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547669.54,
+                    -1222716.96
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2341,
+                "type_tid": 22,
+                "title": "Apartmán Senica",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Apartmán Senica:Apartman Senica:Ubytovacie zariadenie:Ubytovacie zariadenie:::'apartmán':1 'senica':2 'ubytovacie':3 'zariadenie':4:'apartman':1 'senica':2 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Apartmán Senica",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548612.19,
+                    -1222976.42
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2343,
+                "type_tid": 22,
+                "title": "Chata Kunov",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Chata Kunov:Chata Kunov:Ubytovacie zariadenie:Ubytovacie zariadenie:::'chata':1 'kunov':2 'ubytovacie':3 'zariadenie':4:'chata':1 'kunov':2 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Chata Kunov",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -545299.99,
+                    -1221049.83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2344,
+                "type_tid": 22,
+                "title": "Apartmán Senica",
+                "description": "",
+                "typcz": "Ubytovacie zariadenie",
+                "ikona": "uby_4-mala-ubytovanihotel.png",
+                "temata_tid": 2,
+                "permalink": "evidencia-inych-objektov-a-zariadeni",
+                "nazevcz": "Evidencia iných objektov a zariadení",
+                "url_ikona": "/mapa/nosync/images/gispoi/uby_4-mala-ubytovanihotel.png",
+                "vyhledavani": "Apartmán Senica:Apartman Senica:Ubytovacie zariadenie:Ubytovacie zariadenie:::'apartmán':1 'senica':2 'ubytovacie':3 'zariadenie':4:'apartman':1 'senica':2 'ubytovacie':3 'zariadenie':4",
+                "tooltip": "Ubytovacie zariadenie | Apartmán Senica",
+                "barva": "#e81515",
+                "rgb": "232,21,21",
+                "geom_type": "ST_Point"
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548612.11,
+                    -1222976.29
+                ]
+            }
+        }
+    ]
+}
