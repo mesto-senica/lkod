@@ -1,6 +1,6 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/dataset/gis/2024/05/studne_a_hydranty.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/05/gis/studne_a_hydranty.jsonld",
     "typ": "Dataset",
     "názov": {
         "sk": "Studne a hydranty - Máj 2024"
@@ -29,8 +29,8 @@
         "https://data.gov.sk/id/nuts3/SK021"
     ],
     "webová_stránka_datasetu": "https://gisplan.senica.sk",
-    "dátum_publikácie": "2024-06-03T12:36:53.320Z",
-    "dátum_modifikácie": "2024-06-03T12:36:53.320Z",
+    "dátum_publikácie": "2024-06-03T12:56:13.564Z",
+    "dátum_modifikácie": "2024-06-03T12:56:13.564Z",
     "časové_pokrytie": {
         "typ": "Časový interval",
         "začiatok": "2024-05-01",
@@ -50,7 +50,7 @@
     "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis/studne_a_hydranty.jsonld",
     "distribúcia": [
         {
-            "iri": "https://mesto-senica.github.io/lkod/data/gis/2024/05/studne_a_hydranty.json",
+            "iri": "https://mesto-senica.github.io/lkod/data/2024/05/gis/studne_a_hydranty.json",
             "typ": "Distribúcia",
             "podmienky_použitia": {
                 "typ": "Špecifikácia podmienok použitia",
@@ -65,8 +65,8 @@
                 },
                 "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
             },
-            "prístupové_url": "https://mesto-senica.github.io/lkod/data/gis/2024/05/studne_a_hydranty.json",
-            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/gis/2024/05/studne_a_hydranty.json",
+            "prístupové_url": "https://mesto-senica.github.io/lkod/data/2024/05/gis/studne_a_hydranty.json",
+            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/2024/05/gis/studne_a_hydranty.json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
             "typ_média": "https://www.iana.org/assignments/media-types/application/geo+json",
             "názov": {
