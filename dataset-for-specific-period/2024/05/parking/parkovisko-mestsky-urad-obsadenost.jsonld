@@ -3,7 +3,7 @@
     "iri": "https://mesto-senica.github.io/lkod/dataset/parking/parkovisko-mestsky-urad-obsadenost.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Parkovisko pri Mestskom úrade - obsadenosť"
+        "sk": "Parkovisko pri Mestskom úrade - obsadenosť, 2024/05"
     },
     "popis": {
         "sk": "Dataset obsahuje záznamy počtu obsadených miest parkoviska pri Mestskom úrade v Senici. Záznamy sú robené v 15 minútových intervaloch"

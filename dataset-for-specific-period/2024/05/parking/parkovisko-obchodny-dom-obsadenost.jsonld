@@ -3,7 +3,7 @@
     "iri": "https://mesto-senica.github.io/lkod/dataset/parking/parkovisko-obchodny-dom-obsadenost.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Parkovisko obchodný dom - obsadenosť"
+        "sk": "Parkovisko obchodný dom - obsadenosť, 2024/05"
     },
     "popis": {
         "sk": "Dataset obsahuje záznamy počtu obsadených miest parkoviska pri Eurodome a UniCredit banke na Hviezdoslavovej ulici v Senici. Záznamy sú robené v 15 minútových intervaloch"

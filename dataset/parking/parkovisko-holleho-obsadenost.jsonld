@@ -1,9 +1,9 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/dataset/parking/pakovisko-holleho-obsadenost.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset/parking/parkovisko-holleho-obsadenost.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Parkovisko na ulici Hollého - obsadenosť"
+        "sk": "Parkovisko na ulici Hollého - obsadenosť, zastrešujúci dataset"
     },
     "popis": {
         "sk": "Dataset obsahuje záznamy počtu obsadených miest parkoviska na konci ulice Hollého za obchodným domom Cieľ v Senici. Záznamy sú robené v 15 minútových intervaloch"

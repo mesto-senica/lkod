@@ -1,9 +1,9 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/dataset/parking/pakovisko-holleho-obsadenost.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset/parking/parkovisko-holleho-obsadenost.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Parkovisko na ulici Hollého - obsadenosť"
+        "sk": "Parkovisko na ulici Hollého - obsadenosť, 2024/05"
     },
     "popis": {
         "sk": "Dataset obsahuje záznamy počtu obsadených miest parkoviska na konci ulice Hollého za obchodným domom Cieľ v Senici. Záznamy sú robené v 15 minútových intervaloch"
@@ -48,10 +48,10 @@
         "http://publications.europa.eu/resource/authority/pub-theme/N07",
         "http://eurovoc.europa.eu/4651"
     ],
-     "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/parking/pakovisko-holleho-obsadenost.jsonld",
+     "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/parking/parkovisko-holleho-obsadenost.jsonld",
      "distribúcia": [
        {
-         "iri": "https://mesto-senica.github.io/lkod/data/2024/05/parking/pakovisko-holleho-obsadenost.csv",
+         "iri": "https://mesto-senica.github.io/lkod/data/2024/05/parking/parkovisko-holleho-obsadenost.csv",
          "typ": "Distribúcia",
          "podmienky_použitia": {
            "typ": "Špecifikácia podmienok použitia",
@@ -66,8 +66,8 @@
            },
            "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
          },
-         "prístupové_url": "https://mesto-senica.github.io/lkod/data/2024/05/parking/pakovisko-holleho-obsadenost.csv",
-         "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/2024/05/parking/pakovisko-holleho-obsadenost.csv",
+         "prístupové_url": "https://mesto-senica.github.io/lkod/data/2024/05/parking/parkovisko-holleho-obsadenost.csv",
+         "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/2024/05/parking/parkovisko-holleho-obsadenost.csv",
          "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
          "typ_média": "https://www.iana.org/assignments/media-types/text/csv",
          "názov": {
