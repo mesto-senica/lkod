@@ -3,7 +3,7 @@
     "iri": "https://mesto-senica.github.io/lkod/dataset/parking/parkovisko-mestsky-urad-obsadenost.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Parkovisko pri Mestskom úrade - obsadenosť, 2024/05"
+        "sk": "Parkovisko pri Mestskom úrade - obsadenosť, 2024/04"
     },
     "popis": {
         "sk": "Dataset obsahuje záznamy počtu obsadených miest parkoviska pri Mestskom úrade v Senici. Záznamy sú robené v 15 minútových intervaloch"
@@ -33,8 +33,8 @@
     "dátum_modifikácie": "2024-06-13T10:00:00.000Z",
     "časové_pokrytie": {
         "typ": "Časový interval",
-        "začiatok": "2024-05-01",
-        "koniec": "2024-05-31"
+        "začiatok": "2024-04-01",
+        "koniec": "2024-04-30"
     },
     "kontaktný_bod": {
         "typ": "Mesto",
@@ -51,7 +51,7 @@
     "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/parking/parkovisko-mestsky-urad-obsadenost.jsonld",
       "distribúcia": [
         {
-          "iri": "https://mesto-senica.github.io/lkod/data/2024/05/parking/parkovisko-mestsky-urad-obsadenost.csv",
+          "iri": "https://mesto-senica.github.io/lkod/data/2024/04/parking/parkovisko-mestsky-urad-obsadenost.csv",
           "typ": "Distribúcia",
           "podmienky_použitia": {
             "typ": "Špecifikácia podmienok použitia",
@@ -66,8 +66,8 @@
             },
             "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
           },
-          "prístupové_url": "https://mesto-senica.github.io/lkod/data/2024/05/parking/parkovisko-mestsky-urad-obsadenost.csv",
-          "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/2024/05/parking/parkovisko-mestsky-urad-obsadenost.csv",
+          "prístupové_url": "https://mesto-senica.github.io/lkod/data/2024/04/parking/parkovisko-mestsky-urad-obsadenost.csv",
+          "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/2024/04/parking/parkovisko-mestsky-urad-obsadenost.csv",
           "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
           "typ_média": "https://www.iana.org/assignments/media-types/text/csv",
           "názov": {
