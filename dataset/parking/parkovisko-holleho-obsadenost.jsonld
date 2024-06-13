@@ -1,0 +1,51 @@
+{
+    "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset/parking/pakovisko-holleho-obsadenost.jsonld",
+    "typ": "Dataset",
+    "názov": {
+        "sk": "Parkovisko na ulici Hollého - obsadenosť"
+    },
+    "popis": {
+        "sk": "Dataset obsahuje záznamy počtu obsadených miest parkoviska na konci ulice Hollého za obchodným domom Cieľ v Senici. Záznamy sú robené v 15 minútových intervaloch"
+    },
+    "poskytovateľ": "https://data.gov.sk/id/legal-subject/00309974",
+    "typ_datasetu": "https://data.gov.sk/def/dataset-type/1",
+    "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+    ],
+    "periodicita_aktualizácie": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+    "kľúčové_slovo": {
+        "sk": [
+            "doprava",
+            "vozidlo"
+        ]
+    },
+    "geografické_územie": [
+        "http://publications.europa.eu/resource/authority/place/SVK_SEA",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/continent/EUROPE",
+        "https://data.gov.sk/id/lau2/SK0215504203",
+        "https://data.gov.sk/id/lau1/SK0215",
+        "https://data.gov.sk/id/nuts3/SK021"
+    ],
+    "webová_stránka_datasetu": "https://gisplan.senica.sk",
+    "dátum_publikácie": "2024-06-13T10:00:00.000Z",
+    "dátum_modifikácie": "2024-06-13T10:00:00.000Z",
+    "časové_pokrytie": {
+        "typ": "Časový interval",
+        "začiatok": "2024-05-01",
+        "koniec": "2099-12-31"
+    },
+    "kontaktný_bod": {
+        "typ": "Mesto",
+        "meno": {
+            "sk": "Mesto Senica",
+            "en": "City of Senica"
+        },
+        "e-mail": "mailto:opendata@senica.sk"
+    },
+    "koncept_euroVoc": [
+        "http://publications.europa.eu/resource/authority/pub-theme/N07",
+        "http://eurovoc.europa.eu/4651"
+    ]
+}
