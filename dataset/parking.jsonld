@@ -1,12 +1,12 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/dataset/parking/parkovisko-mestsky-urad-obsadenost.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset/parking.jsonld",
     "typ": "Dataset",
     "názov": {
-        "sk": "Parkovisko pri Mestskom úrade - obsadenosť, zastrešujúci dataset"
+        "sk": "Parkovanie v Senici - monitoring obsadenosti vybraných parkovísk, zastrešujúci dataset"
     },
     "popis": {
-        "sk": "Dataset obsahuje záznamy počtu obsadených miest parkoviska pri Mestskom úrade v Senici. Záznamy sú robené v 15 minútových intervaloch"
+        "sk": "Podradené datasety obsahujú záznamy počtu obsadených miest na rôznych parkoviskách v Senici. Záznamy sú robené v 15 minútových intervaloch"
     },
     "poskytovateľ": "https://data.gov.sk/id/legal-subject/00309974",
     "typ_datasetu": "https://data.gov.sk/def/dataset-type/1",
@@ -28,7 +28,6 @@
         "https://data.gov.sk/id/lau1/SK0215",
         "https://data.gov.sk/id/nuts3/SK021"
     ],
-    "webová_stránka_datasetu": "https://gisplan.senica.sk",
     "dátum_publikácie": "2024-06-13T10:00:00.000Z",
     "dátum_modifikácie": "2024-06-13T10:00:00.000Z",
     "časové_pokrytie": {
@@ -47,6 +46,5 @@
     "koncept_euroVoc": [
         "http://publications.europa.eu/resource/authority/pub-theme/N07",
         "http://eurovoc.europa.eu/4651"
-    ],
-    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/parking.jsonld",
+    ]
 }
