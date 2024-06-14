@@ -1,6 +1,6 @@
 {
     "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-    "iri": "https://mesto-senica.github.io/lkod/dataset/parking/parkovisko-obchodny-dom-obsadenost.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/05/parking/parkovisko-obchodny-dom-obsadenost.jsonld",
     "typ": "Dataset",
     "názov": {
         "sk": "Parkovisko obchodný dom - obsadenosť, 2024/05"
