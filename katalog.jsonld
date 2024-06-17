@@ -28,6 +28,8 @@
     },
     "domovská_stránka": "https://www.senica.sk",
     "dataset": [
+        "https://mesto-senica.github.io/lkod/dataset/gis.jsonld",
+        "https://mesto-senica.github.io/lkod/dataset/monitoring-dopravy.jsonld",
         "https://mesto-senica.github.io/lkod/dataset/parking.jsonld",
         "https://mesto-senica.github.io/lkod/dataset/gis/autobusove_zastavky.jsonld",
         "https://mesto-senica.github.io/lkod/dataset/gis/bezbarierove_miesta.jsonld",
