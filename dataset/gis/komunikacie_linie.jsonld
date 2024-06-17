@@ -48,5 +48,6 @@
     "koncept_euroVoc": [
         "http://eurovoc.europa.eu/3438",
         "http://eurovoc.europa.eu/1433"
-    ]
+    ],
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis.jsonld"
 }

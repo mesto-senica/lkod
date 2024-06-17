@@ -48,5 +48,6 @@
     "koncept_euroVoc": [
         "http://data.europa.eu/cpv/cpv/44212321",
         "http://data.europa.eu/cpv/cpv/34928440"
-    ]
+    ],
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis.jsonld"
 }

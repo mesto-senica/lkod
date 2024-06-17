@@ -43,5 +43,6 @@
         },
         "e-mail": "mailto:opendata@senica.sk"
     },
-    "koncept_euroVoc": []
+    "koncept_euroVoc": [],
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis.jsonld"
 }
