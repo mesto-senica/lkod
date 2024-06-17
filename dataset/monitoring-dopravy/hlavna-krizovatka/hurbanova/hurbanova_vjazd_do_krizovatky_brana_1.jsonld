@@ -45,5 +45,6 @@
     "koncept_euroVoc": [
         "http://publications.europa.eu/resource/authority/pub-theme/N07",
         "http://eurovoc.europa.eu/4651"
-    ]
+    ],
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/monitoring-dopravy.jsonld"
 }
