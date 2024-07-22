@@ -1,0 +1,77 @@
+{
+    "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
+    "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/06/gis/mhd.jsonld",
+    "typ": "Dataset",
+    "názov": {
+        "sk": "Mestská hromadná doprava - Jún 2024"
+    },
+    "popis": {
+        "sk": "Mestská hromadná doprava - Jún 2024"
+    },
+    "poskytovateľ": "https://data.gov.sk/id/legal-subject/00309974",
+    "typ_datasetu": "https://data.gov.sk/def/dataset-type/1",
+    "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+    ],
+    "periodicita_aktualizácie": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+    "kľúčové_slovo": {
+        "sk": [
+            "Mestská hromadná doprava",
+            "publicTransport"
+        ]
+    },
+    "geografické_územie": [
+        "http://publications.europa.eu/resource/authority/place/SVK_SEA",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/continent/EUROPE",
+        "https://data.gov.sk/id/lau2/SK0215504203",
+        "https://data.gov.sk/id/lau1/SK0215",
+        "https://data.gov.sk/id/nuts3/SK021"
+    ],
+    "webová_stránka_datasetu": "https://gisplan.senica.sk",
+    "dátum_publikácie": "2024-07-22T06:26:43.015Z",
+    "dátum_modifikácie": "2024-07-22T06:26:43.015Z",
+    "časové_pokrytie": {
+        "typ": "Časový interval",
+        "začiatok": "2024-06-01",
+        "koniec": "2024-06-30"
+    },
+    "kontaktný_bod": {
+        "typ": "Mesto",
+        "meno": {
+            "sk": "Mesto Senica",
+            "en": "City of Senica"
+        },
+        "e-mail": "mailto:opendata@senica.sk"
+    },
+    "koncept_euroVoc": [
+        "http://eurovoc.europa.eu/4512"
+    ],
+    "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/gis/mhd.jsonld",
+    "distribúcia": [
+        {
+            "iri": "https://mesto-senica.github.io/lkod/data/2024/06/gis/mhd.json",
+            "typ": "Distribúcia",
+            "podmienky_použitia": {
+                "typ": "Špecifikácia podmienok použitia",
+                "autorské_dielo": "http://publications.europa.eu/resource/authority/licence/CC_BY_4_0",
+                "autor": {
+                    "sk": "Mesto Senica"
+                },
+                "databáza_chránená_zvláštnými_právami": "http://publications.europa.eu/resource/authority/licence/CC0",
+                "databáza_ako_autorské_dielo": "http://publications.europa.eu/resource/authority/licence/CC_BY_4_0",
+                "autor_databázy": {
+                    "sk": "Mesto Senica"
+                },
+                "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
+            },
+            "prístupové_url": "https://mesto-senica.github.io/lkod/data/2024/06/gis/mhd.json",
+            "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/2024/06/gis/mhd.json",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
+            "typ_média": "https://www.iana.org/assignments/media-types/application/geo+json",
+            "názov": {
+                "sk": "Mestská hromadná doprava vo formáte GeoJSON"
+            }
+        }
+    ]
+}

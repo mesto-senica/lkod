@@ -1,0 +1,1137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 1,
+                "inventarni_cislo": "M 1",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "cesta III. triedy",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -550628.38,
+                                -1223373.53
+                            ],
+                            [
+                                -550632.33,
+                                -1223375.19
+                            ],
+                            [
+                                -550641.1,
+                                -1223378.95
+                            ],
+                            [
+                                -550644.93,
+                                -1223371.9
+                            ],
+                            [
+                                -550641.44,
+                                -1223370.42
+                            ],
+                            [
+                                -550632.12,
+                                -1223366.39
+                            ],
+                            [
+                                -550628.38,
+                                -1223373.53
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2,
+                "inventarni_cislo": "M 2",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "MK IV. triedy (d)",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -551911.68,
+                                -1225180.91
+                            ],
+                            [
+                                -551913.74,
+                                -1225183.53
+                            ],
+                            [
+                                -551916.12,
+                                -1225186.5
+                            ],
+                            [
+                                -551919.07,
+                                -1225189.99
+                            ],
+                            [
+                                -551921.93,
+                                -1225193.17
+                            ],
+                            [
+                                -551923.82,
+                                -1225195.44
+                            ],
+                            [
+                                -551924.86,
+                                -1225196.93
+                            ],
+                            [
+                                -551930,
+                                -1225196.98
+                            ],
+                            [
+                                -551925.56,
+                                -1225191.12
+                            ],
+                            [
+                                -551918.84,
+                                -1225182.65
+                            ],
+                            [
+                                -551915.84,
+                                -1225178.5
+                            ],
+                            [
+                                -551911.68,
+                                -1225180.91
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 3,
+                "inventarni_cislo": "M 3",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "cesta III. triedy",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -550214.23,
+                                -1223354.74
+                            ],
+                            [
+                                -550219.89,
+                                -1223343.31
+                            ],
+                            [
+                                -550213.91,
+                                -1223341.19
+                            ],
+                            [
+                                -550211.28,
+                                -1223346.32
+                            ],
+                            [
+                                -550205.79,
+                                -1223357.1
+                            ],
+                            [
+                                -550204.5,
+                                -1223359.29
+                            ],
+                            [
+                                -550210.45,
+                                -1223361.94
+                            ],
+                            [
+                                -550214.23,
+                                -1223354.74
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 4,
+                "inventarni_cislo": "L 3",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "lávka",
+                "trida": "nerozlíšená štátna cesta",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -550220.66,
+                                -1223347.17
+                            ],
+                            [
+                                -550213.1,
+                                -1223361.95
+                            ],
+                            [
+                                -550214.64,
+                                -1223362.82
+                            ],
+                            [
+                                -550222.37,
+                                -1223347.94
+                            ],
+                            [
+                                -550223.73,
+                                -1223345.38
+                            ],
+                            [
+                                -550222.03,
+                                -1223344.38
+                            ],
+                            [
+                                -550220.66,
+                                -1223347.17
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 5,
+                "inventarni_cislo": "M 5",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "MK IV. triedy (d)",
+                "povrch": "nespevnený povrch (štrk, šotolina, hlina...)",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -550570.7,
+                                -1223543.62
+                            ],
+                            [
+                                -550567.12,
+                                -1223541.36
+                            ],
+                            [
+                                -550560.75,
+                                -1223537.36
+                            ],
+                            [
+                                -550562.13,
+                                -1223541.9
+                            ],
+                            [
+                                -550567.63,
+                                -1223545.4
+                            ],
+                            [
+                                -550571.8,
+                                -1223547.85
+                            ],
+                            [
+                                -550570.7,
+                                -1223543.62
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 6,
+                "inventarni_cislo": "M 6",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "MK I. triedy (a)",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -546946.81,
+                                -1223300.53
+                            ],
+                            [
+                                -546939.33,
+                                -1223297.16
+                            ],
+                            [
+                                -546936.66,
+                                -1223302.94
+                            ],
+                            [
+                                -546944.12,
+                                -1223306
+                            ],
+                            [
+                                -546946.81,
+                                -1223300.53
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 7,
+                "inventarni_cislo": "M 7",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "MK I. triedy (a)",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -546152.83,
+                                -1222232.03
+                            ],
+                            [
+                                -546168,
+                                -1222218.07
+                            ],
+                            [
+                                -546165.42,
+                                -1222209.93
+                            ],
+                            [
+                                -546150.11,
+                                -1222223.99
+                            ],
+                            [
+                                -546152.83,
+                                -1222232.03
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 8,
+                "inventarni_cislo": "M 8",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "MK IV. triedy (d)",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -545991.33,
+                                -1221181.47
+                            ],
+                            [
+                                -545999.39,
+                                -1221184.1
+                            ],
+                            [
+                                -546008.03,
+                                -1221186.99
+                            ],
+                            [
+                                -546015.61,
+                                -1221189.53
+                            ],
+                            [
+                                -546016.67,
+                                -1221186.28
+                            ],
+                            [
+                                -546012.09,
+                                -1221184.69
+                            ],
+                            [
+                                -546005.2,
+                                -1221182.51
+                            ],
+                            [
+                                -545997.49,
+                                -1221179.85
+                            ],
+                            [
+                                -545992.43,
+                                -1221178.22
+                            ],
+                            [
+                                -545991.33,
+                                -1221181.47
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 9,
+                "inventarni_cislo": "M 9",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "MK IV. triedy (d)",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -545266.79,
+                                -1220462.86
+                            ],
+                            [
+                                -545265.64,
+                                -1220459.02
+                            ],
+                            [
+                                -545261.86,
+                                -1220460.09
+                            ],
+                            [
+                                -545263.11,
+                                -1220463.97
+                            ],
+                            [
+                                -545266.79,
+                                -1220462.86
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 10,
+                "inventarni_cislo": "L 1",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "lávka",
+                "trida": "účelová (ostatné)",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -546794.73,
+                                -1222669.12
+                            ],
+                            [
+                                -546769.71,
+                                -1222655.46
+                            ],
+                            [
+                                -546767.97,
+                                -1222658.64
+                            ],
+                            [
+                                -546793.16,
+                                -1222671.77
+                            ],
+                            [
+                                -546794.73,
+                                -1222669.12
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 11,
+                "inventarni_cislo": "L 2",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "lávka",
+                "trida": "účelová (ostatné)",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -546363.33,
+                                -1222535.17
+                            ],
+                            [
+                                -546345.5,
+                                -1222543
+                            ],
+                            [
+                                -546346.88,
+                                -1222545.49
+                            ],
+                            [
+                                -546353.86,
+                                -1222542.1
+                            ],
+                            [
+                                -546370.16,
+                                -1222535.59
+                            ],
+                            [
+                                -546369.83,
+                                -1222534.97
+                            ],
+                            [
+                                -546369.26,
+                                -1222533.9
+                            ],
+                            [
+                                -546368.86,
+                                -1222533.14
+                            ],
+                            [
+                                -546363.33,
+                                -1222535.17
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 12,
+                "inventarni_cislo": "M 12",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "cesta III. triedy",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -548706.24,
+                                -1223004.87
+                            ],
+                            [
+                                -548706.18,
+                                -1223006.2
+                            ],
+                            [
+                                -548706.01,
+                                -1223010.07
+                            ],
+                            [
+                                -548705.84,
+                                -1223013.39
+                            ],
+                            [
+                                -548705.67,
+                                -1223017.07
+                            ],
+                            [
+                                -548705.57,
+                                -1223019.89
+                            ],
+                            [
+                                -548705.48,
+                                -1223021.56
+                            ],
+                            [
+                                -548705.41,
+                                -1223022.68
+                            ],
+                            [
+                                -548705.1,
+                                -1223029.39
+                            ],
+                            [
+                                -548703.86,
+                                -1223054.87
+                            ],
+                            [
+                                -548703.84,
+                                -1223057.02
+                            ],
+                            [
+                                -548703.32,
+                                -1223065.31
+                            ],
+                            [
+                                -548703.07,
+                                -1223071.55
+                            ],
+                            [
+                                -548703.03,
+                                -1223072.94
+                            ],
+                            [
+                                -548702.79,
+                                -1223077.56
+                            ],
+                            [
+                                -548702.6,
+                                -1223082.48
+                            ],
+                            [
+                                -548702.47,
+                                -1223084.14
+                            ],
+                            [
+                                -548714.73,
+                                -1223067.38
+                            ],
+                            [
+                                -548715.01,
+                                -1223060.48
+                            ],
+                            [
+                                -548715.31,
+                                -1223054.37
+                            ],
+                            [
+                                -548715.8,
+                                -1223044.89
+                            ],
+                            [
+                                -548716.2,
+                                -1223036.22
+                            ],
+                            [
+                                -548716.53,
+                                -1223030.31
+                            ],
+                            [
+                                -548717.01,
+                                -1223020.19
+                            ],
+                            [
+                                -548717.1,
+                                -1223018.14
+                            ],
+                            [
+                                -548706.24,
+                                -1223004.87
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 13,
+                "inventarni_cislo": "M 13",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "MK IV. triedy (d)",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -552811.62,
+                                -1225099.04
+                            ],
+                            [
+                                -552811.58,
+                                -1225098.44
+                            ],
+                            [
+                                -552809.19,
+                                -1225095.86
+                            ],
+                            [
+                                -552808.15,
+                                -1225094.6
+                            ],
+                            [
+                                -552806.52,
+                                -1225092.14
+                            ],
+                            [
+                                -552803.74,
+                                -1225087.46
+                            ],
+                            [
+                                -552801.1,
+                                -1225082.85
+                            ],
+                            [
+                                -552800.37,
+                                -1225081.4
+                            ],
+                            [
+                                -552799.61,
+                                -1225081
+                            ],
+                            [
+                                -552791.67,
+                                -1225085.22
+                            ],
+                            [
+                                -552793.88,
+                                -1225089.68
+                            ],
+                            [
+                                -552801.38,
+                                -1225103.48
+                            ],
+                            [
+                                -552811.62,
+                                -1225099.04
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 14,
+                "inventarni_cislo": "M 14",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "MK IV. triedy (d)",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -552906.8,
+                                -1224854.1
+                            ],
+                            [
+                                -552903.55,
+                                -1224873.84
+                            ],
+                            [
+                                -552901.86,
+                                -1224884.14
+                            ],
+                            [
+                                -552900.98,
+                                -1224889.04
+                            ],
+                            [
+                                -552905.52,
+                                -1224889.69
+                            ],
+                            [
+                                -552906.72,
+                                -1224882.18
+                            ],
+                            [
+                                -552909.44,
+                                -1224865.44
+                            ],
+                            [
+                                -552911.4,
+                                -1224853.67
+                            ],
+                            [
+                                -552907.2,
+                                -1224852.59
+                            ],
+                            [
+                                -552906.8,
+                                -1224854.1
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 15,
+                "inventarni_cislo": "M 15",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "MK IV. triedy (d)",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -553034.78,
+                                -1225269.56
+                            ],
+                            [
+                                -553048.31,
+                                -1225280.22
+                            ],
+                            [
+                                -553054.03,
+                                -1225275.77
+                            ],
+                            [
+                                -553052.8,
+                                -1225274.82
+                            ],
+                            [
+                                -553040.65,
+                                -1225265.46
+                            ],
+                            [
+                                -553034.78,
+                                -1225269.56
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 16,
+                "inventarni_cislo": "M 16",
+                "inventarni_cislo_poznamka": "",
+                "oznaceni": "",
+                "nazev": "",
+                "poznamka": "",
+                "druh": "most",
+                "trida": "MK I. triedy (a)",
+                "povrch": "asfaltobetón",
+                "spravce": "",
+                "techstav": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -551104.06,
+                                -1224036.78
+                            ],
+                            [
+                                -551095.17,
+                                -1224044.64
+                            ],
+                            [
+                                -551086.76,
+                                -1224052.42
+                            ],
+                            [
+                                -551090.53,
+                                -1224058.67
+                            ],
+                            [
+                                -551099.6,
+                                -1224050.43
+                            ],
+                            [
+                                -551108.43,
+                                -1224042.54
+                            ],
+                            [
+                                -551108.53,
+                                -1224042.02
+                            ],
+                            [
+                                -551104.06,
+                                -1224036.78
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
