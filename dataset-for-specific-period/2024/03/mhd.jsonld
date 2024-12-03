@@ -1,12 +1,12 @@
 {
   "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
-  "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/02/mhd.jsonld",
+  "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2024/03/mhd.jsonld",
   "typ": "Dataset",
   "názov": {
-    "sk": "MHD mesta Senica, využívanosť - 2024/02"
+    "sk": "MHD mesta Senica, využívanosť - 2024/03"
   },
   "popis": {
-    "sk": "MHD mesta Senica, využívanosť - 2024/02"
+    "sk": "MHD mesta Senica, využívanosť - 2024/03"
   },
   "poskytovateľ": "https://data.gov.sk/id/legal-subject/00309974",
   "typ_datasetu": "https://data.gov.sk/def/dataset-type/1",
@@ -29,8 +29,8 @@
   "dátum_modifikácie": "2024-12-02T10:00:00.000Z",
   "časové_pokrytie": {
     "typ": "Časový interval",
-    "začiatok": "2024-02-01",
-    "koniec": "2024-02-29"
+    "začiatok": "2024-03-01",
+    "koniec": "2024-03-31"
   },
   "kontaktný_bod": {
     "typ": "Mesto",
@@ -44,7 +44,7 @@
   "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/mhd.jsonld",
   "distribúcia": [
     {
-      "iri": "https://mesto-senica.github.io/lkod/data/2024/02/mhd.csv",
+      "iri": "https://mesto-senica.github.io/lkod/data/2024/03/mhd.csv",
       "typ": "Distribúcia",
       "podmienky_použitia": {
         "typ": "Špecifikácia podmienok použitia",
@@ -59,8 +59,8 @@
         },
         "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
       },
-      "prístupové_url": "https://mesto-senica.github.io/lkod/data/2024/02/mhd.csv",
-      "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/2024/02/mhd.csv",
+      "prístupové_url": "https://mesto-senica.github.io/lkod/data/2024/03/mhd.csv",
+      "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/2024/03/mhd.csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "typ_média": "https://www.iana.org/assignments/media-types/text/csv",
       "názov": {
