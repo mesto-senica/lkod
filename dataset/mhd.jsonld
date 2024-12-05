@@ -25,8 +25,8 @@
     "https://data.gov.sk/id/lau1/SK0215",
     "https://data.gov.sk/id/nuts3/SK021"
   ],
-  "dátum_publikácie": "2024-12-02T10:00:00.000Z",
-  "dátum_modifikácie": "2024-12-02T10:00:00.000Z",
+  "dátum_publikácie": "2024-12-02",
+  "dátum_modifikácie": "2024-12-02",
   "časové_pokrytie": {
     "typ": "Časový interval",
     "začiatok": "2024-02-01",
