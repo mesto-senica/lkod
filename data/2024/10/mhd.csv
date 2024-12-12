@@ -1,4 +1,4 @@
-Linka;Smer;Dátum;Deň v týždni;Čas začiatku linky;Označenie linky;Vozidlo;Vodič;Poradie zastávky;Poradie zastavky;Názov zastávky;Plánovaný príchod na zastávku;Skutočný príchod na zastávku;Status;Plánovaný odchod zo zastávky;Skutočný odchod zo zastávky;Počet nastupujúcich ľudí;Počet vystupujúcich ľudí;Obsadenosť po odchode zo zastávky
+Linka;Smer;Dátum;Deň v týždni;Čas začiatku linky;Označenie linky;Vozidlo;Vodič;Poradie zastávky;Názov zastávky;Plánovaný príchod na zastávku;Skutočný príchod na zastávku;Status;Plánovaný odchod zo zastávky;Skutočný odchod zo zastávky;Počet nastupujúcich ľudí;Počet vystupujúcich ľudí;Obsadenosť po odchode zo zastávky
 4;Senica, Čáčov, horný koniec/1;2024-10-01;utorok;07:15;4/5;AA034DL;422af69c6a624009b2e22e10a267a25c;4;Senica, Autobusová stanica/1;07:15;07:15:10;10.0;07:15;07:15:24;1;0;1;
 4;Senica, Čáčov, horný koniec/1;2024-10-01;utorok;07:15;4/5;AA034DL;422af69c6a624009b2e22e10a267a25c;9;Senica, Čáčov, horný koniec/1;07:20;07:23:16;10.0;07:20;07:23:16;0;1;0;
 4;Senica, Sotina, Zimný štadión/1;2024-10-01;utorok;07:25;4/6;AA034DL;422af69c6a624009b2e22e10a267a25c;1;Senica, Čáčov, horný koniec/1;07:25;07:24:58;10.0;07:25;07:26:13;5;0;5;

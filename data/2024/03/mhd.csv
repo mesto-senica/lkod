@@ -1,4 +1,4 @@
-Linka;Smer;Dátum;Deň v týždni;Čas začiatku linky;Označenie linky;Vozidlo;Vodič;Poradie zastávky;Poradie zastavky;Názov zastávky;Plánovaný príchod na zastávku;Skutočný príchod na zastávku;Status;Plánovaný odchod zo zastávky;Skutočný odchod zo zastávky;Počet nastupujúcich ľudí;Počet vystupujúcich ľudí;Obsadenosť po odchode zo zastávky
+Linka;Smer;Dátum;Deň v týždni;Čas začiatku linky;Označenie linky;Vozidlo;Vodič;Poradie zastávky;Názov zastávky;Plánovaný príchod na zastávku;Skutočný príchod na zastávku;Status;Plánovaný odchod zo zastávky;Skutočný odchod zo zastávky;Počet nastupujúcich ľudí;Počet vystupujúcich ľudí;Obsadenosť po odchode zo zastávky
 3;Senica, Poliklinika/1;2024-03-01;piatok;05:20;3/1;TT482JH;4c598aadf562abe5206bc090b5527293;1;Senica, Poliklinika/2;05:20;05:18:48;10.0;05:20;05:20:24;7;0;7;
 3;Senica, Poliklinika/1;2024-03-01;piatok;05:20;3/1;TT482JH;4c598aadf562abe5206bc090b5527293;2;Senica, TESCO/2;05:21;05:20:39;10.0;05:21;05:22:07;3;0;10;
 3;Senica, Poliklinika/1;2024-03-01;piatok;05:20;3/1;TT482JH;4c598aadf562abe5206bc090b5527293;3;Senica, Autobusová stanica/1;05:24;05:22:54;5.0;05:24;05:23:42;2;0;12;

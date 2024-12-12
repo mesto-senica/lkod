@@ -1,4 +1,4 @@
-Linka;Smer;Dátum;Deň v týždni;Čas začiatku linky;Označenie linky;Vozidlo;Vodič;Poradie zastávky;Poradie zastavky;Názov zastávky;Plánovaný príchod na zastávku;Skutočný príchod na zastávku;Status;Plánovaný odchod zo zastávky;Skutočný odchod zo zastávky;Počet nastupujúcich ľudí;Počet vystupujúcich ľudí;Obsadenosť po odchode zo zastávky
+Linka;Smer;Dátum;Deň v týždni;Čas začiatku linky;Označenie linky;Vozidlo;Vodič;Poradie zastávky;Názov zastávky;Plánovaný príchod na zastávku;Skutočný príchod na zastávku;Status;Plánovaný odchod zo zastávky;Skutočný odchod zo zastávky;Počet nastupujúcich ľudí;Počet vystupujúcich ľudí;Obsadenosť po odchode zo zastávky
 2;Senica, Žel. stanica/1;2024-06-03;pondelok;04:05;2/1;TT482JH;4c598aadf562abe5206bc090b5527293;1;Senica, Sotina, Zimný štadión/1;04:05;04:06:24;10.0;04:05;04:07:18;1;0;1;
 2;Senica, Žel. stanica/1;2024-06-03;pondelok;04:05;2/1;TT482JH;4c598aadf562abe5206bc090b5527293;2;Senica, Sotina, Amfiteáter/1;04:06;04:07:39;10.0;04:06;04:08:43;1;0;2;
 2;Senica, Žel. stanica/1;2024-06-03;pondelok;04:05;2/1;TT482JH;4c598aadf562abe5206bc090b5527293;4;Senica, Poliklinika/2;04:07;04:08:48;10.0;04:07;04:09:46;2;0;4;
