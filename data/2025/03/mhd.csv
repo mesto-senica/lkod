@@ -18319,3 +18319,779 @@ Linka;Smer;Dátum;Deň v týždni;Čas začiatku linky;Označenie linky;Vozidlo;
 4;Senica, Sotina, Zimný štadión/1;2025-03-27;štvrtok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;7;Senica, Sadová/2;07:42;07:43:31;10;07:42;07:44:15;0;0;34
 4;Senica, Sotina, Zimný štadión/1;2025-03-27;štvrtok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;8;Senica, Sotina, Amfiteáter/1;07:43;07:44:50;10;07:43;07:45:10;0;0;34
 4;Senica, Sotina, Zimný štadión/1;2025-03-27;štvrtok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;9;Senica, Sotina, Zimný štadión/1;07:45;07:45:17;10;07:45;07:45:17;0;34;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Autobusová stanica/1;07:20;07:16:52;10;07:20;07:21:10;4;0;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, TESCO/2;07:23;07:21:36;10;07:23;07:23:23;9;0;13
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Poliklinika/2;07:24;07:23:35;10;07:24;07:24:58;3;2;14
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Sotinská/1;07:25;07:25:16;10;07:25;07:26:11;2;0;16
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, Kunov, rázc./1;07:28;07:28:09;10;07:28;07:29:25;2;0;18
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;6;Senica, Kunov, Jednota/1;07:29;07:30:02;10;07:29;07:31:50;10;0;28
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Kunov, IBV/1;07:30;07:32:11;10;07:30;07:32:59;1;0;29
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;8;Senica, Agrostav/2;07:32;07:34:21;10;07:32;07:35:21;3;0;32
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, II. ZŠ/2;07:34;07:36:37;10;07:34;07:38:06;0;19;13
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Brezová/1;07:35;07:38:23;10;07:35;07:39:21;0;4;9
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, Vajanského, cintorín/1;07:36;07:39:23;10;07:36;07:40:44;0;6;3
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;07:20;1/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, Autobusová stanica/1;07:41;07:42:56;10;07:41;07:42:56;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Autobusová stanica/1;08:20;08:19:57;10;08:20;08:22:13;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, TESCO/2;08:23;08:22:39;10;08:23;08:23:19;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Poliklinika/2;08:24;08:23:30;10;08:24;08:24:05;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Sotinská/1;08:25;08:24:21;10;08:25;08:25:13;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, Kunov, rázc./1;08:28;08:26:54;5;08:28;08:27:53;1;0;1
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, Kunov, Jednota/1;08:29;08:28:24;10;08:29;08:29:18;1;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Kunov, IBV/1;08:30;08:29:41;10;08:30;08:30:01;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;8;Senica, Agrostav/2;08:32;08:31:27;10;08:32;08:32:11;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, II. ZŠ/2;08:34;08:33:28;10;08:34;08:34:07;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Brezová/1;08:35;08:34:32;5;08:35;08:34:59;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, Vajanského, cintorín/1;08:36;08:35:01;10;08:36;08:36:11;0;1;1
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;08:20;1/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, Autobusová stanica/1;08:41;08:37:14;10;08:41;08:37:14;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Autobusová stanica/1;13:25;13:24:12;10;13:25;13:26:49;10;0;10
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, TESCO/2;13:28;13:27:14;10;13:28;13:28:36;2;1;11
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Poliklinika/2;13:29;13:28:47;10;13:29;13:29:38;1;0;12
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Sotinská/1;13:30;13:29:55;10;13:30;13:30:13;0;0;12
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, Kunov, rázc./1;13:33;13:32:01;10;13:33;13:33:07;0;0;12
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, Kunov, Jednota/1;13:34;13:33:48;10;13:34;13:34:52;2;7;7
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Kunov, IBV/1;13:35;13:35:16;10;13:35;13:36:03;0;3;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;8;Senica, Agrostav/2;13:37;13:37:33;10;13:37;13:37:53;0;0;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, II. ZŠ/2;13:39;13:39:02;10;13:39;13:39:56;0;1;3
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Brezová/1;13:40;13:40:18;10;13:40;13:40:48;0;0;3
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, Vajanského, cintorín/1;13:41;13:40:50;10;13:41;13:42:24;0;2;1
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:25;1/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, Autobusová stanica/1;13:46;13:46;10;13:46;13:46;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Autobusová stanica/1;13:55;13:53:48;10;13:55;13:56:38;4;0;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, TESCO/2;13:58;13:57:06;10;13:58;13:58:24;0;1;3
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Poliklinika/2;13:59;13:58:36;10;13:59;13:59:22;0;0;3
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Sotinská/1;14:00;13:59:42;10;14:00;14:00:49;0;5;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, Kunov, rázc./1;14:03;14:02:36;10;14:03;14:04:03;1;0;1
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, Kunov, Jednota/1;14:04;14:04:36;10;14:04;14:05:30;0;1;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Kunov, IBV/1;14:05;14:05:51;10;14:05;14:06:09;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;8;Senica, Agrostav/2;14:07;14:07:37;10;14:07;14:07:54;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, II. ZŠ/2;14:09;14:09:06;10;14:09;14:09:42;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Brezová/1;14:10;14:10:04;10;14:10;14:10:31;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, Vajanského, cintorín/1;14:11;14:10:33;10;14:11;14:12:10;0;1;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;13:55;1/15;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, Autobusová stanica/1;14:16;14:15:30;10;14:16;14:15:30;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Autobusová stanica/1;14:25;14:21:31;10;14:25;14:26:58;7;0;7
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, TESCO/2;14:28;14:27:23;10;14:28;14:28:38;0;2;5
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Poliklinika/2;14:29;14:28:49;10;14:29;14:29:40;1;0;6
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Sotinská/1;14:30;14:30:01;10;14:30;14:30:19;0;0;6
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, Kunov, rázc./1;14:33;14:31:53;10;14:33;14:33:18;2;0;8
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, Kunov, Jednota/1;14:34;14:33:49;10;14:34;14:35:15;1;0;9
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Kunov, IBV/1;14:35;14:35:36;10;14:35;14:36:17;0;1;8
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;8;Senica, Agrostav/2;14:37;14:37:40;10;14:37;14:38:44;3;0;11
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, II. ZŠ/2;14:39;14:39:46;10;14:39;14:40:47;0;2;9
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Brezová/1;14:40;14:41:08;10;14:40;14:41:34;0;0;9
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, Vajanského, cintorín/1;14:41;14:41:36;10;14:41;14:42:26;0;0;9
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;14:25;1/17;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, Autobusová stanica/1;14:46;14:45:02;10;14:46;14:45:02;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Autobusová stanica/1;15:25;15:24:33;10;15:25;15:27:17;7;0;7
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, TESCO/2;15:28;15:28:17;10;15:28;15:29:28;1;0;8
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Poliklinika/2;15:29;15:29:41;10;15:29;15:30:43;1;1;8
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Sotinská/1;15:30;15:31:02;10;15:30;15:31:21;0;0;8
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, Kunov, rázc./1;15:33;15:33:04;10;15:33;15:35:46;1;1;8
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, Kunov, Jednota/1;15:34;15:36:21;10;15:34;15:37:11;0;1;7
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Kunov, IBV/1;15:35;15:37:32;10;15:35;15:37:49;0;0;7
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;8;Senica, Agrostav/2;15:37;15:39:10;10;15:37;15:40:01;0;2;5
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, II. ZŠ/2;15:39;15:41:16;10;15:39;15:41:49;0;0;5
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Brezová/1;15:40;15:42:13;10;15:40;15:42:44;0;0;5
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, Vajanského, cintorín/1;15:41;15:42:46;10;15:41;15:43:47;0;1;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;15:25;1/19;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, Autobusová stanica/1;15:46;15:44:39;10;15:46;15:44:39;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Autobusová stanica/1;16:25;16:24:03;10;16:25;16:26:24;4;0;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, TESCO/2;16:28;16:26:50;5;16:28;16:27:59;2;0;6
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Poliklinika/2;16:29;16:28:15;10;16:29;16:29:04;0;0;6
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Sotinská/1;16:30;16:29:24;10;16:30;16:30:23;0;2;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, Kunov, rázc./1;16:33;16:32:09;10;16:33;16:33:10;0;1;3
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, Kunov, Jednota/1;16:34;16:33:43;10;16:34;16:35:03;3;2;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Kunov, IBV/1;16:35;16:35:26;10;16:35;16:35:45;0;0;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;8;Senica, Agrostav/2;16:37;16:37:15;10;16:37;16:37:32;0;0;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, II. ZŠ/2;16:39;16:38:43;10;16:39;16:39:27;0;0;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Brezová/1;16:40;16:39:51;10;16:40;16:40:16;0;0;4
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, Vajanského, cintorín/1;16:41;16:40:18;10;16:41;16:41:24;0;2;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;16:25;1/21;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, Autobusová stanica/1;16:46;16:42:40;10;16:46;16:42:40;0;0;0
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Autobusová stanica/1;17:25;17:23:39;10;17:25;17:26:20;2;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, TESCO/2;17:28;17:26:47;10;17:28;17:28:01;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Poliklinika/2;17:29;17:28:16;10;17:29;17:29:03;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Sotinská/1;17:30;17:29:23;5;17:30;17:29:46;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, Kunov, rázc./1;17:33;17:31:44;5;17:33;17:32:52;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, Kunov, Jednota/1;17:34;17:33:32;10;17:34;17:34:59;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Kunov, IBV/1;17:35;17:35:24;10;17:35;17:35:44;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;8;Senica, Agrostav/2;17:37;17:37:04;10;17:37;17:37:20;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, II. ZŠ/2;17:39;17:38:28;10;17:39;17:39:06;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Brezová/1;17:40;17:39:26;5;17:40;17:39:49;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, Vajanského, cintorín/1;17:41;17:39:51;5;17:41;17:40:27;0;0;2
+1;Senica, Autobusová stanica/1;2025-03-28;piatok;17:25;1/23;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, Autobusová stanica/1;17:46;17:42:28;10;17:46;17:42:28;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Sotina, Zimný štadión/1;04:05;04:02:14;10;04:05;04:05:34;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Sotina, Amfiteáter/1;04:06;04:06:01;10;04:06;04:07:12;1;0;1
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Poliklinika/1;04:07;04:07:18;10;04:07;04:08:26;1;0;2
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, TESCO/1;04:08;04:08:37;10;04:08;04:09:09;0;0;2
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, Autobusová stanica/1;04:11;04:09:49;5;04:11;04:10:19;3;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Pošta/2;04:13;04:12:07;5;04:13;04:12:25;0;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Dlhá, č. 260/1;04:14;04:12:29;5;04:14;04:13:27;1;2;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Gymnázium/1;04:15;04:13:42;5;04:15;04:14:02;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, DEMA/2;04:16;04:14:28;5;04:16;04:15:32;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, SPP/1;04:17;04:15:36;5;04:17;04:15:59;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Technické služby/1 ;04:18;04:16:37;5;04:18;04:16:51;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;14;Senica, Železničná, ARRIVA/1;04:19;04:17:09;5;04:19;04:17:28;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;04:05;2/1;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Žel. stanica/1;04:21;04:18:04;10;04:21;04:18:04;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;04:30;2/2;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Žel. stanica/1;04:30;04:30:25;10;04:30;04:30:55;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;04:30;2/2;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Železničná, ARRIVA/2;04:31;04:31:36;10;04:31;04:31:53;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;04:30;2/2;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Technické služby/2 ;04:32;04:32:09;10;04:32;04:32:23;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;04:30;2/2;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, DEMA/1;04:34;04:33:29;10;04:34;04:34:26;1;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;04:30;2/2;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Gymnázium/2;04:35;04:34:59;10;04:35;04:35:19;0;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;04:30;2/2;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Vajanského, cintorín/1;04:36;04:35:44;10;04:36;04:36:30;0;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;04:30;2/2;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Autobusová stanica/1;04:40;04:37:17;5;04:40;04:37:44;0;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;04:30;2/2;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, TESCO/2;04:42;04:40:35;5;04:42;04:41:04;0;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;04:30;2/2;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, Poliklinika/2;04:43;04:41:14;5;04:43;04:41:30;0;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;04:30;2/2;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Sotinská/1;04:44;04:41:45;5;04:44;04:42:05;0;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;04:30;2/2;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Sotina, Zimný štadión/1;04:45;04:42:51;10;04:45;04:42:51;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Sotina, Zimný štadión/1;06:00;05:58:18;10;06:00;06:00:38;3;0;3
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Sotina, Amfiteáter/1;06:01;06:01:05;10;06:01;06:02:19;2;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Poliklinika/1;06:02;06:02:24;10;06:02;06:03:40;2;0;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, TESCO/1;06:03;06:03:51;10;06:03;06:04:54;2;0;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, Autobusová stanica/1;06:08;06:05:33;5;06:08;06:06:04;0;0;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Pošta/2;06:10;06:09:18;5;06:10;06:09:38;0;0;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Dlhá, č. 260/1;06:11;06:09:43;5;06:11;06:10:46;3;0;12
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Gymnázium/1;06:12;06:11;5;06:12;06:11:46;1;0;13
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, DEMA/2;06:13;06:12:13;10;06:13;06:13:05;0;3;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, SPP/1;06:14;06:13:09;5;06:14;06:13:29;0;0;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Technické služby/1 ;06:15;06:14:16;10;06:15;06:15:09;1;3;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;14;Senica, Železničná, ARRIVA/1;06:16;06:15:32;10;06:16;06:16:14;0;1;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;06:00;2/3;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Žel. stanica/1;06:18;06:16:49;10;06:18;06:16:49;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;06:34;2/4;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Žel. stanica/1;06:34;06:29:09;10;06:34;06:34:05;8;0;8
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;06:34;2/4;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Železničná, ARRIVA/2;06:35;06:34:49;10;06:35;06:35:07;0;0;8
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;06:34;2/4;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Technické služby/2 ;06:36;06:35:25;5;06:36;06:35:42;0;0;8
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;06:34;2/4;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, DEMA/1;06:38;06:36:52;10;06:38;06:38:17;4;0;12
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;06:34;2/4;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Gymnázium/2;06:39;06:38:46;10;06:39;06:39:08;0;0;12
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;06:34;2/4;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Vajanského, cintorín/1;06:40;06:39:32;10;06:40;06:40:56;1;2;11
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;06:34;2/4;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Autobusová stanica/1;06:44;06:41:45;5;06:44;06:42:16;3;5;9
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;06:34;2/4;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, TESCO/2;06:47;06:44:28;5;06:47;06:45:34;0;4;5
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;06:34;2/4;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, Poliklinika/2;06:48;06:45:46;10;06:48;06:56:24;0;6;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;06:34;2/4;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Sotinská/1;06:49;06:56:40;6;06:49;06:57;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;06:34;2/4;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Sotina, Zimný štadión/1;06:50;06:58:09;6;06:50;06:58:09;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Sotina, Zimný štadión/1;07:00;06:58:29;10;07:00;07:00:31;8;0;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Sotina, Amfiteáter/1;07:01;07:00:57;10;07:01;07:02:20;3;0;11
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Poliklinika/1;07:02;07:02:24;10;07:02;07:03:41;2;1;12
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, TESCO/1;07:03;07:03:54;10;07:03;07:05:27;5;0;17
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, Autobusová stanica/1;07:08;07:06:08;5;07:08;07:06:42;6;4;19
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Pošta/2;07:10;07:09:57;10;07:10;07:11;3;1;21
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Dlhá, č. 260/1;07:11;07:11:05;10;07:11;07:11:59;0;1;20
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Gymnázium/1;07:12;07:12:13;10;07:12;07:13:15;0;3;17
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, DEMA/2;07:13;07:13:46;10;07:13;07:14:32;0;0;17
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, SPP/1;07:14;07:14:35;10;07:14;07:14:59;0;0;17
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Technické služby/1 ;07:15;07:15:50;10;07:15;07:16:34;0;2;15
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;14;Senica, Železničná, ARRIVA/1;07:16;07:16:57;10;07:16;07:17:47;0;6;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;07:00;2/5;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Žel. stanica/1;07:18;07:18:22;10;07:18;07:18:22;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:34;2/6;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Žel. stanica/1;07:34;07:28:59;10;07:34;07:34:03;22;0;22
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:34;2/6;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Železničná, ARRIVA/2;07:35;07:34:44;10;07:35;07:35:31;1;0;23
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:34;2/6;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Technické služby/2 ;07:36;07:35:53;10;07:36;07:36:09;0;0;23
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:34;2/6;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, DEMA/1;07:38;07:37:24;10;07:38;07:38:23;2;0;25
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:34;2/6;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Gymnázium/2;07:39;07:38:54;10;07:39;07:40:06;0;8;17
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:34;2/6;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Vajanského, cintorín/1;07:40;07:40:33;10;07:40;07:43:21;2;2;17
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:34;2/6;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Autobusová stanica/1;07:47;07:44:46;5;07:47;07:45:28;4;5;16
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:34;2/6;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, TESCO/2;07:50;07:48:19;5;07:50;07:49:19;0;2;14
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:34;2/6;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, Poliklinika/2;07:51;07:49:30;5;07:51;07:50:34;0;12;2
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:34;2/6;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Sotinská/1;07:52;07:50:54;5;07:52;07:51:14;0;0;2
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:34;2/6;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Sotina, Zimný štadión/1;07:53;07:51:56;10;07:53;07:51:56;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Sotina, Zimný štadión/1;10:00;09:51:02;10;10:00;10:00:43;4;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, Sotina, Amfiteáter/1;10:01;10:01:20;10;10:01;10:02:14;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Poliklinika/1;10:02;10:02:18;10;10:02;10:04:11;6;0;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, TESCO/1;10:03;10:04:23;10;10:03;10:06:56;5;0;15
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, Autobusová stanica/1;10:08;10:09:10;10;10:08;10:10:24;0;3;12
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Pošta/2;10:10;10:13:18;10;10:10;10:14:18;0;5;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, Dlhá, č. 260/1;10:11;10:14:24;10;10:11;10:15:34;0;1;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Gymnázium/1;10:12;10:15:49;10;10:12;10:16:14;0;0;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, DEMA/2;10:13;10:16:37;10;10:13;10:17:29;0;2;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, SPP/1;10:14;10:17:33;10;10:14;10:18:25;1;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;13;Senica, Technické služby/1 ;10:15;10:19:09;10;10:15;10:19:25;0;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;14;Senica, Železničná, ARRIVA/1;10:16;10:19:42;10;10:16;10:19:58;0;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;10:00;2/7;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;15;Senica, Žel. stanica/1;10:18;10:20:31;10;10:18;10:20:31;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;10:34;2/8;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, Žel. stanica/1;10:34;10:30:05;10;10:34;10:37:23;1;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;10:34;2/8;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Železničná, ARRIVA/2;10:35;10:38;10;10:35;10:38:18;0;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;10:34;2/8;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Technické služby/2 ;10:36;10:38:35;10;10:36;10:39:43;1;0;2
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;10:34;2/8;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, DEMA/1;10:38;10:40:49;10;10:38;10:41:48;2;0;4
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;10:34;2/8;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Gymnázium/2;10:39;10:42:14;10;10:39;10:42:32;0;0;4
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;10:34;2/8;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, Vajanského, cintorín/1;10:40;10:42:54;10;10:40;10:44:23;3;0;7
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;10:34;2/8;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Autobusová stanica/1;10:44;10:45:53;10;10:44;10:46:36;9;0;16
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;10:34;2/8;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, TESCO/2;10:47;10:50:25;10;10:47;10:52;0;3;13
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;10:34;2/8;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, Poliklinika/2;10:48;10:52:13;10;10:48;10:53:23;0;4;9
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;10:34;2/8;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;13;Senica, Sotinská/1;10:49;10:53:46;10;10:49;10:54:05;0;0;9
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;10:34;2/8;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;15;Senica, Sotina, Zimný štadión/1;10:50;10:54:48;10;10:50;10:54:48;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Sotina, Zimný štadión/1;12:00;11:57;10;12:00;12:00:34;1;0;1
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Sotina, Amfiteáter/1;12:01;12:00:59;10;12:01;12:02:10;1;0;2
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Poliklinika/1;12:02;12:02:16;10;12:02;12:04:11;5;0;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, TESCO/1;12:03;12:04:23;10;12:03;12:06:18;3;0;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, Autobusová stanica/1;12:08;12:09:12;10;12:08;12:10:55;15;2;23
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Pošta/2;12:10;12:15:04;10;12:10;12:16:08;0;1;22
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Dlhá, č. 260/1;12:11;12:16:13;10;12:11;12:17:05;0;0;22
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Gymnázium/1;12:12;12:17:18;10;12:12;12:18:34;7;2;27
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, DEMA/2;12:13;12:19:03;6;12:13;12:20:05;1;7;21
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, SPP/1;12:14;12:20:08;6;12:14;12:20:28;0;0;21
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Technické služby/1 ;12:15;12:21:11;6;12:15;12:21:25;0;0;21
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;14;Senica, Železničná, ARRIVA/1;12:16;12:21:42;10;12:16;12:22;0;0;21
+2;Senica, Žel. stanica/1;2025-03-28;piatok;12:00;2/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Žel. stanica/1;12:18;12:22:34;10;12:18;12:22:34;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;12:34;2/10;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Žel. stanica/1;12:34;12:28:31;10;12:34;12:34:42;11;0;11
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;12:34;2/10;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Železničná, ARRIVA/2;12:35;12:35:23;10;12:35;12:35:40;0;0;11
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;12:34;2/10;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Technické služby/2 ;12:36;12:35:59;10;12:36;12:36:15;0;0;11
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;12:34;2/10;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, DEMA/1;12:38;12:37:21;10;12:38;12:38:30;5;0;16
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;12:34;2/10;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Gymnázium/2;12:39;12:39;10;12:39;12:39:48;1;0;17
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;12:34;2/10;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Vajanského, cintorín/1;12:40;12:40:12;10;12:40;12:41:20;0;0;17
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;12:34;2/10;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Autobusová stanica/1;12:44;12:42:36;5;12:44;12:43:05;4;10;11
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;12:34;2/10;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, TESCO/2;12:47;12:46:10;10;12:47;12:47:13;0;7;4
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;12:34;2/10;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, Poliklinika/2;12:48;12:47:23;10;12:48;12:48:12;0;3;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;12:34;2/10;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Sotinská/1;12:49;12:48:31;10;12:49;12:49:16;0;1;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;12:34;2/10;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Sotina, Zimný štadión/1;12:50;12:50:10;10;12:50;12:50:10;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Sotina, Zimný štadión/1;14:00;13:58:28;10;14:00;14:00:56;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Sotina, Amfiteáter/1;14:01;14:01:18;10;14:01;14:02:52;6;0;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Poliklinika/1;14:02;14:02:57;10;14:02;14:05:02;6;0;12
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, TESCO/1;14:03;14:05:15;10;14:03;14:06:35;2;0;14
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, Autobusová stanica/1;14:08;14:07:23;10;14:08;14:08:26;10;4;20
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Pošta/2;14:10;14:12:10;10;14:10;14:13:07;0;4;16
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Dlhá, č. 260/1;14:11;14:13:11;10;14:11;14:14:12;1;0;17
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Gymnázium/1;14:12;14:14:27;10;14:12;14:15:21;1;0;18
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, DEMA/2;14:13;14:15:50;10;14:13;14:16:57;3;3;18
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, SPP/1;14:14;14:17;10;14:14;14:17:57;1;0;19
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Technické služby/1 ;14:15;14:18:36;10;14:15;14:19:14;0;1;18
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;14;Senica, Železničná, ARRIVA/1;14:16;14:19:36;10;14:16;14:19:58;0;0;18
+2;Senica, Žel. stanica/1;2025-03-28;piatok;14:00;2/11;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Žel. stanica/1;14:18;14:20:30;10;14:18;14:20:30;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;14:34;2/12;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Žel. stanica/1;14:34;14:30:20;10;14:34;14:36:52;22;0;22
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;14:34;2/12;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Železničná, ARRIVA/2;14:35;14:37:36;10;14:35;14:38:02;0;0;22
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;14:34;2/12;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Technické služby/2 ;14:36;14:38:23;10;14:36;14:39:07;0;1;21
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;14:34;2/12;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, DEMA/1;14:38;14:45:10;6;14:38;14:46:47;9;0;30
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;14:34;2/12;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Gymnázium/2;14:39;14:47:16;6;14:39;14:48:06;0;2;28
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;14:34;2/12;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Vajanského, cintorín/1;14:40;14:48:33;6;14:40;14:49:52;0;8;20
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;14:34;2/12;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Autobusová stanica/1;14:44;14:51:52;6;14:44;14:52:25;2;7;15
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;14:34;2/12;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, TESCO/2;14:47;14:55:38;6;14:47;14:56:52;0;5;10
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;14:34;2/12;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, Poliklinika/2;14:48;14:57:04;6;14:48;14:58:01;0;5;5
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;14:34;2/12;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Sotinská/1;14:49;14:58:18;6;14:49;14:59:07;0;1;4
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;14:34;2/12;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Sotina, Zimný štadión/1;14:50;14:59:58;6;14:50;14:59:58;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Sotina, Zimný štadión/1;15:00;15:00:49;10;15:00;15:01:29;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Sotina, Amfiteáter/1;15:01;15:01:52;10;15:01;15:03:05;2;0;2
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Poliklinika/1;15:02;15:03:10;10;15:02;15:04:54;6;0;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, TESCO/1;15:03;15:05:06;10;15:03;15:06:19;3;0;11
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, Autobusová stanica/1;15:08;15:07:08;10;15:08;15:08:25;16;1;26
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Pošta/2;15:10;15:13:42;10;15:10;15:14:28;0;0;26
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Dlhá, č. 260/1;15:11;15:14:57;10;15:11;15:16:09;3;1;28
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Gymnázium/1;15:12;15:16:24;10;15:12;15:17:16;2;0;30
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, DEMA/2;15:13;15:17:44;10;15:13;15:18:41;1;4;27
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, SPP/1;15:14;15:18:44;10;15:14;15:19:03;0;0;27
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Technické služby/1 ;15:15;15:19:44;10;15:15;15:20:27;0;2;25
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;14;Senica, Železničná, ARRIVA/1;15:16;15:20:46;10;15:16;15:21:06;0;0;25
+2;Senica, Žel. stanica/1;2025-03-28;piatok;15:00;2/13;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Žel. stanica/1;15:18;15:21:39;10;15:18;15:21:39;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;15:34;2/14;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Žel. stanica/1;15:34;15:27:29;10;15:34;15:38:09;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;15:34;2/14;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Železničná, ARRIVA/2;15:35;15:38:45;10;15:35;15:38:59;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;15:34;2/14;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Technické služby/2 ;15:36;15:39:17;10;15:36;15:39:42;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;15:34;2/14;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, DEMA/1;15:38;15:40:52;10;15:38;15:41:44;0;3;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;15:34;2/14;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Gymnázium/2;15:39;15:42:13;10;15:39;15:43:23;2;0;2
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;15:34;2/14;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Vajanského, cintorín/1;15:40;15:43:45;10;15:40;15:45:14;0;9;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;15:34;2/14;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Autobusová stanica/1;15:44;15:46:35;10;15:44;15:47:11;1;5;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;15:34;2/14;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, TESCO/2;15:47;15:50:29;10;15:47;15:51:49;0;4;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;15:34;2/14;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, Poliklinika/2;15:48;15:52:04;10;15:48;15:52:52;0;1;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;15:34;2/14;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Sotinská/1;15:49;15:53:10;10;15:49;15:53:56;0;3;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;15:34;2/14;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Sotina, Zimný štadión/1;15:50;15:54:39;10;15:50;15:54:39;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Sotina, Zimný štadión/1;16:00;15:59:47;10;16:00;16:01:02;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Sotina, Amfiteáter/1;16:01;16:01:33;10;16:01;16:02:13;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Poliklinika/1;16:02;16:02:18;10;16:02;16:04:01;3;0;3
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, TESCO/1;16:03;16:04:12;10;16:03;16:04:41;0;0;3
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, Autobusová stanica/1;16:08;16:05:38;5;16:08;16:06:18;6;1;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Pošta/2;16:10;16:10:24;10;16:10;16:11:39;5;0;13
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Dlhá, č. 260/1;16:11;16:11:46;10;16:11;16:12:55;2;2;13
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Gymnázium/1;16:12;16:13:09;10;16:12;16:13:29;0;0;13
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, DEMA/2;16:13;16:13:58;10;16:13;16:14:55;0;3;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, SPP/1;16:14;16:14:58;10;16:14;16:15:48;1;2;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Technické služby/1 ;16:15;16:16:26;10;16:15;16:17:06;1;0;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;14;Senica, Železničná, ARRIVA/1;16:16;16:17:26;10;16:16;16:17:45;0;0;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;16:00;2/15;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Žel. stanica/1;16:18;16:18:19;10;16:18;16:18:19;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;16:34;2/16;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Žel. stanica/1;16:34;16:29:01;10;16:34;16:36:36;17;0;17
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;16:34;2/16;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Železničná, ARRIVA/2;16:35;16:37:14;10;16:35;16:37:59;1;0;18
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;16:34;2/16;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Technické služby/2 ;16:36;16:38:22;10;16:36;16:38:39;0;0;18
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;16:34;2/16;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, DEMA/1;16:38;16:39:47;10;16:38;16:40:50;3;1;20
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;16:34;2/16;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Gymnázium/2;16:39;16:41:17;10;16:39;16:41:36;0;0;20
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;16:34;2/16;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Vajanského, cintorín/1;16:40;16:41:58;10;16:40;16:43:17;0;5;15
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;16:34;2/16;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Autobusová stanica/1;16:44;16:44:26;10;16:44;16:45:01;0;4;11
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;16:34;2/16;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, TESCO/2;16:47;16:47:04;10;16:47;16:48:14;0;3;8
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;16:34;2/16;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, Poliklinika/2;16:48;16:48:25;10;16:48;16:49:12;0;3;5
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;16:34;2/16;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Sotinská/1;16:49;16:49:29;10;16:49;16:50:19;0;3;2
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;16:34;2/16;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Sotina, Zimný štadión/1;16:50;16:51:09;10;16:50;16:51:09;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Sotina, Zimný štadión/1;17:00;16:52:58;10;17:00;17:00:33;4;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Sotina, Amfiteáter/1;17:01;17:00:55;10;17:01;17:01:38;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Poliklinika/1;17:02;17:01:42;10;17:02;17:03:07;2;0;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, TESCO/1;17:03;17:03:18;10;17:03;17:04:26;1;0;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, Autobusová stanica/1;17:08;17:05:11;5;17:08;17:06:02;1;0;12
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Pošta/2;17:10;17:10:29;10;17:10;17:11:26;2;1;13
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Dlhá, č. 260/1;17:11;17:11:32;10;17:11;17:12:27;0;2;11
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Gymnázium/1;17:12;17:12:42;10;17:12;17:13:30;0;1;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, DEMA/2;17:13;17:13:55;10;17:13;17:14:48;1;2;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, SPP/1;17:14;17:14:51;10;17:14;17:15:36;0;1;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Technické služby/1 ;17:15;17:16:22;10;17:15;17:16:36;0;0;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;14;Senica, Železničná, ARRIVA/1;17:16;17:16:53;10;17:16;17:17:18;0;0;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;17:00;2/17;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Žel. stanica/1;17:18;17:17:52;10;17:18;17:17:52;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;17:34;2/18;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Žel. stanica/1;17:34;17:27:28;5;17:34;17:33:29;14;0;14
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;17:34;2/18;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Železničná, ARRIVA/2;17:35;17:34:09;5;17:35;17:34:28;0;0;14
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;17:34;2/18;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Technické služby/2 ;17:36;17:34:48;5;17:36;17:35:04;0;0;14
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;17:34;2/18;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, DEMA/1;17:38;17:36:08;10;17:38;17:38:12;4;0;18
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;17:34;2/18;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Gymnázium/2;17:39;17:38:41;10;17:39;17:39:02;0;0;18
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;17:34;2/18;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Vajanského, cintorín/1;17:40;17:39:25;10;17:40;17:40:36;0;2;16
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;17:34;2/18;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Autobusová stanica/1;17:44;17:42:35;5;17:44;17:43:08;2;6;12
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;17:34;2/18;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, TESCO/2;17:47;17:45:03;5;17:47;17:46:13;0;6;6
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;17:34;2/18;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, Poliklinika/2;17:48;17:46:24;5;17:48;17:47:18;0;4;2
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;17:34;2/18;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Sotinská/1;17:49;17:47:35;5;17:49;17:48:20;0;2;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;17:34;2/18;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Sotina, Zimný štadión/1;17:50;17:49:08;10;17:50;17:49:08;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Sotina, Zimný štadión/1;18:00;17:56:45;10;18:00;18:00:57;4;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, Sotina, Amfiteáter/1;18:01;18:01:17;10;18:01;18:02:09;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Poliklinika/1;18:02;18:02:14;10;18:02;18:02:55;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, TESCO/1;18:03;18:03:04;10;18:03;18:03:30;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;6;Senica, Autobusová stanica/1;18:08;18:04:28;5;18:08;18:05:04;5;1;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Pošta/2;18:10;18:10:39;10;18:10;18:11:02;0;0;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Dlhá, č. 260/1;18:11;18:11:09;10;18:11;18:11:44;0;0;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Gymnázium/1;18:12;18:11:57;10;18:12;18:13:05;1;0;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, DEMA/2;18:13;18:13:27;10;18:13;18:14:19;0;1;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, SPP/1;18:14;18:14:22;10;18:14;18:14:43;0;0;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Technické služby/1 ;18:15;18:15:23;10;18:15;18:16:13;0;1;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Železničná, ARRIVA/1;18:16;18:16:32;10;18:16;18:16:50;0;0;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;18:00;2/19;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Žel. stanica/1;18:18;18:17:19;10;18:18;18:17:19;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;20:34;2/20;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, Žel. stanica/1;20:34;20:29:25;10;20:34;20:34:36;9;0;9
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;20:34;2/20;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Železničná, ARRIVA/2;20:35;20:35:16;10;20:35;20:35:33;0;0;9
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;20:34;2/20;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Technické služby/2 ;20:36;20:35:52;10;20:36;20:36:10;0;0;9
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;20:34;2/20;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;6;Senica, DEMA/1;20:38;20:37:15;10;20:38;20:38:22;0;1;8
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;20:34;2/20;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Gymnázium/2;20:39;20:38:49;10;20:39;20:39:08;0;0;8
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;20:34;2/20;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Vajanského, cintorín/1;20:40;20:39:33;10;20:40;20:40:54;0;2;6
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;20:34;2/20;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Autobusová stanica/1;20:44;20:41:40;5;20:44;20:42:03;0;2;4
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;20:34;2/20;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, TESCO/2;20:47;20:44:10;;20:47;20:44:10;0;0;4
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;20:34;2/20;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, Poliklinika/2;20:48;20:45:10;;20:48;20:45:10;0;0;4
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;20:34;2/20;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Sotinská/1;20:49;20:46:10;;20:49;20:46:10;0;0;4
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;20:34;2/20;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Sotina, Zimný štadión/1;20:50;20:47:10;;20:50;20:47:10;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:35;2/21;TT862GK;72ec7bcbfba8b4d91b2e015841f8d78b;6;Senica, Autobusová stanica/1;05:35;05:34:30;10;05:35;05:36:03;3;0;3
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:35;2/21;TT862GK;72ec7bcbfba8b4d91b2e015841f8d78b;7;Senica, Pošta/2;05:37;05:36:44;10;05:37;05:37:03;0;0;3
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:35;2/21;TT862GK;72ec7bcbfba8b4d91b2e015841f8d78b;9;Senica, Dlhá, č. 260/1;05:38;05:37:13;10;05:38;05:38:16;0;0;3
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:35;2/21;TT862GK;72ec7bcbfba8b4d91b2e015841f8d78b;10;Senica, Gymnázium/1;05:39;05:38:40;10;05:39;05:39:36;2;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:35;2/21;TT862GK;72ec7bcbfba8b4d91b2e015841f8d78b;11;Senica, DEMA/2;05:40;05:40:04;10;05:40;05:40:38;0;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:35;2/21;TT862GK;72ec7bcbfba8b4d91b2e015841f8d78b;12;Senica, SPP/1;05:41;05:40:48;10;05:41;05:41:27;0;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:35;2/21;TT862GK;72ec7bcbfba8b4d91b2e015841f8d78b;13;Senica, Technické služby/1 ;05:42;05:42:14;10;05:42;05:42:57;0;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:35;2/21;TT862GK;72ec7bcbfba8b4d91b2e015841f8d78b;14;Senica, Železničná, ARRIVA/1;05:43;05:43:25;10;05:43;05:43:48;0;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:35;2/21;TT862GK;72ec7bcbfba8b4d91b2e015841f8d78b;15;Senica, Žel. stanica/1;05:45;05:45:48;;05:45;05:45:48;0;0;5
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;05:34;2/22;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Žel. stanica/1;05:34;05:31:47;5;05:34;05:33:40;2;0;2
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;05:34;2/22;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Železničná, ARRIVA/2;05:35;05:34:25;5;05:35;05:34:45;0;0;2
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;05:34;2/22;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Technické služby/2 ;05:36;05:35:04;5;05:36;05:35:20;0;0;2
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;05:34;2/22;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, DEMA/1;05:38;05:36:29;5;05:38;05:37:35;0;2;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;05:34;2/22;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Gymnázium/2;05:39;05:38:02;5;05:39;05:38:18;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;05:34;2/22;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Vajanského, cintorín/1;05:40;05:38:44;5;05:40;05:39:29;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;05:34;2/22;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Autobusová stanica/1;05:44;05:40:27;5;05:44;05:40:57;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;05:34;2/22;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, TESCO/2;05:47;05:44:25;5;05:47;05:44:56;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;05:34;2/22;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, Poliklinika/2;05:48;05:45:07;10;05:48;05:56:12;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;05:34;2/22;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Sotinská/1;05:49;05:56:30;6;05:49;05:56:52;1;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;05:34;2/22;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Sotina, Zimný štadión/1;05:50;05:58:06;6;05:50;05:58:06;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Sotina, Zimný štadión/1;20:00;20:00:04;10;20:00;20:01;1;0;1
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, Sotina, Amfiteáter/1;20:01;20:01:23;10;20:01;20:02;0;0;1
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Poliklinika/1;20:02;20:02:04;10;20:02;20:03:24;2;0;3
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, TESCO/1;20:03;20:03:34;10;20:03;20:04:58;3;0;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;6;Senica, Autobusová stanica/1;20:08;20:05:35;5;20:08;20:06:09;3;0;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Pošta/2;20:10;20:09:53;10;20:10;20:10:53;1;0;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Dlhá, č. 260/1;20:11;20:10:58;10;20:11;20:11:32;0;0;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Gymnázium/1;20:12;20:11:47;10;20:12;20:12:12;0;0;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, DEMA/2;20:13;20:12:38;10;20:13;20:13:53;1;4;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, SPP/1;20:14;20:13:56;10;20:14;20:14:47;0;1;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Technické služby/1 ;20:15;20:15:26;10;20:15;20:15:49;0;0;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Železničná, ARRIVA/1;20:16;20:16:05;10;20:16;20:16:21;0;0;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;20:00;2/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Žel. stanica/1;20:18;20:16:51;10;20:18;20:16:51;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;18:34;2/24;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, Žel. stanica/1;18:34;18:28:27;10;18:34;18:34:25;20;0;20
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;18:34;2/24;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Železničná, ARRIVA/2;18:35;18:35:04;10;18:35;18:35:23;0;0;20
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;18:34;2/24;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Technické služby/2 ;18:36;18:35:39;5;18:36;18:35:58;0;0;20
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;18:34;2/24;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;6;Senica, DEMA/1;18:38;18:37:05;10;18:38;18:38:25;1;1;20
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;18:34;2/24;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Gymnázium/2;18:39;18:38:53;10;18:39;18:39:13;0;0;20
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;18:34;2/24;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Vajanského, cintorín/1;18:40;18:39:36;10;18:40;18:41:11;1;2;19
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;18:34;2/24;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Autobusová stanica/1;18:44;18:41:52;5;18:44;18:42:23;0;10;9
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;18:34;2/24;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, TESCO/2;18:47;18:45:20;10;18:47;18:47:22;0;3;6
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;18:34;2/24;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, Poliklinika/2;18:48;18:47:32;;18:48;18:47:32;0;5;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;18:34;2/24;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Sotinská/1;18:49;18:48:32;;18:49;18:48:32;0;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;18:34;2/24;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Sotina, Zimný štadión/1;18:50;18:49:32;;18:50;18:49:32;0;0;1
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Sotina, Zimný štadión/1;05:05;05:01:57;10;05:05;05:05:51;4;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Sotina, Amfiteáter/1;05:06;05:06:15;10;05:06;05:07:42;4;0;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Poliklinika/1;05:07;05:07:47;10;05:07;05:08:59;2;0;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, TESCO/1;05:08;05:09:11;10;05:08;05:10;0;0;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, Autobusová stanica/1;05:11;05:10:41;10;05:11;05:11:11;6;1;15
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Pošta/2;05:13;05:13:20;10;05:13;05:13:40;0;0;15
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Dlhá, č. 260/1;05:14;05:13:46;10;05:14;05:14:43;1;0;16
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Gymnázium/1;05:15;05:14:59;10;05:15;05:15:50;0;1;15
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, DEMA/2;05:16;05:16:20;10;05:16;05:17:22;2;2;15
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, SPP/1;05:17;05:17:25;10;05:17;05:18:18;1;1;15
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Technické služby/1 ;05:18;05:19;10;05:18;05:19:51;0;6;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;14;Senica, Železničná, ARRIVA/1;05:19;05:20:11;10;05:19;05:20:31;0;0;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;05:05;2/25;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Žel. stanica/1;05:21;05:21:08;10;05:21;05:21:08;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Sotina, Zimný štadión/1;08:00;07:52:40;10;08:00;08:00:41;1;0;1
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Sotina, Amfiteáter/1;08:01;08:01:09;10;08:01;08:01:59;0;0;1
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Poliklinika/1;08:02;08:02:04;10;08:02;08:04:27;4;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, TESCO/1;08:03;08:04:41;10;08:03;08:05:58;2;0;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, Autobusová stanica/1;08:08;08:08:32;10;08:08;08:09:26;6;0;13
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Pošta/2;08:10;08:12:33;10;08:10;08:13:31;0;3;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Dlhá, č. 260/1;08:11;08:13:36;10;08:11;08:14:24;0;0;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Gymnázium/1;08:12;08:14:39;10;08:12;08:15:41;1;1;10
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, DEMA/2;08:13;08:16:09;10;08:13;08:16:56;0;1;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, SPP/1;08:14;08:16:59;10;08:14;08:17:20;0;0;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Technické služby/1 ;08:15;08:18:04;10;08:15;08:18:44;0;1;8
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;14;Senica, Železničná, ARRIVA/1;08:16;08:19:02;10;08:16;08:19:41;0;1;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;08:00;2/27;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Žel. stanica/1;08:18;08:20:19;10;08:18;08:20:19;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;08:34;2/28;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, Žel. stanica/1;08:34;08:28:59;5;08:34;08:33:22;11;0;11
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;08:34;2/28;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Železničná, ARRIVA/2;08:35;08:34:02;5;08:35;08:34:19;0;0;11
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;08:34;2/28;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Technické služby/2 ;08:36;08:34:38;5;08:36;08:34:58;0;0;11
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;08:34;2/28;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;6;Senica, DEMA/1;08:38;08:36:08;5;08:38;08:37:40;2;2;11
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;08:34;2/28;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;7;Senica, Gymnázium/2;08:39;08:38:09;5;08:39;08:38:58;1;0;12
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;08:34;2/28;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Vajanského, cintorín/1;08:40;08:39:24;10;08:40;08:40:49;1;2;11
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;08:34;2/28;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Autobusová stanica/1;08:44;08:42:01;5;08:44;08:42:31;1;5;7
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;08:34;2/28;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, TESCO/2;08:47;08:45:42;5;08:47;08:46:46;0;1;6
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;08:34;2/28;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, Poliklinika/2;08:48;08:46:58;5;08:48;08:47:45;0;5;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;08:34;2/28;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Sotinská/1;08:49;08:48:02;5;08:49;08:48:22;0;0;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;08:34;2/28;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Sotina, Zimný štadión/1;08:50;08:49:10;10;08:50;08:49:10;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Sotina, Zimný štadión/1;09:00;08:54:59;10;09:00;09:01:06;3;0;3
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, Sotina, Amfiteáter/1;09:01;09:01:27;10;09:01;09:02:07;0;0;3
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Poliklinika/1;09:02;09:02:12;10;09:02;09:03:33;1;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, TESCO/1;09:03;09:03:58;10;09:03;09:05:42;4;1;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, Autobusová stanica/1;09:08;09:06:35;5;09:08;09:07:08;1;2;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Pošta/2;09:10;09:11:21;10;09:10;09:12:23;0;1;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, Dlhá, č. 260/1;09:11;09:12:31;10;09:11;09:13:16;0;0;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Gymnázium/1;09:12;09:13:31;10;09:12;09:14:27;1;0;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, DEMA/2;09:13;09:14:53;10;09:13;09:15:54;2;2;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, SPP/1;09:14;09:15:57;10;09:14;09:17:13;3;0;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;13;Senica, Technické služby/1 ;09:15;09:18;10;09:15;09:18:17;0;0;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;14;Senica, Železničná, ARRIVA/1;09:16;09:18:36;10;09:16;09:18:52;0;0;9
+2;Senica, Žel. stanica/1;2025-03-28;piatok;09:00;2/29;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;15;Senica, Žel. stanica/1;09:18;09:19:23;10;09:18;09:19:23;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Sotina, Zimný štadión/1;11:00;10:55:27;10;11:00;11:00:59;2;0;2
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, Sotina, Amfiteáter/1;11:01;11:01:19;10;11:01;11:02:27;2;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Poliklinika/1;11:02;11:02:30;10;11:02;11:05:03;11;0;15
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, TESCO/1;11:03;11:05:22;10;11:03;11:07:25;4;0;19
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, Autobusová stanica/1;11:08;11:09:19;10;11:08;11:10:50;7;4;22
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Pošta/2;11:10;11:15:04;10;11:10;11:15:50;0;0;22
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, Dlhá, č. 260/1;11:11;11:15:55;10;11:11;11:17;1;0;23
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Gymnázium/1;11:12;11:17:14;10;11:12;11:18:19;1;0;24
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, DEMA/2;11:13;11:18:43;10;11:13;11:19:44;0;2;22
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, SPP/1;11:14;11:19:47;10;11:14;11:20:42;1;1;22
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;13;Senica, Technické služby/1 ;11:15;11:21:33;6;11:15;11:21:48;0;0;22
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;14;Senica, Železničná, ARRIVA/1;11:16;11:22:05;6;11:16;11:22:21;0;0;22
+2;Senica, Žel. stanica/1;2025-03-28;piatok;11:00;2/31;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;15;Senica, Žel. stanica/1;11:18;11:22:50;10;11:18;11:22:50;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;09:34;2/32;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, Žel. stanica/1;09:34;09:28:24;10;09:34;09:35:02;3;0;3
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;09:34;2/32;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Železničná, ARRIVA/2;09:35;09:35:40;10;09:35;09:35:57;0;0;3
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;09:34;2/32;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Technické služby/2 ;09:36;09:36:16;10;09:36;09:36:33;0;0;3
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;09:34;2/32;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, DEMA/1;09:38;09:37:54;10;09:38;09:39:19;5;0;8
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;09:34;2/32;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Gymnázium/2;09:39;09:39:46;10;09:39;09:40:04;0;0;8
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;09:34;2/32;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, Vajanského, cintorín/1;09:40;09:40:27;10;09:40;09:41:37;0;2;6
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;09:34;2/32;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Autobusová stanica/1;09:44;09:42:25;5;09:44;09:42:53;3;4;5
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;09:34;2/32;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, TESCO/2;09:47;09:45:45;10;09:47;09:47:15;1;1;5
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;09:34;2/32;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, Poliklinika/2;09:48;09:47:39;10;09:48;09:48:45;0;4;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;09:34;2/32;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;13;Senica, Sotinská/1;09:49;09:49:03;10;09:49;09:49:48;0;1;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;09:34;2/32;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;15;Senica, Sotina, Zimný štadión/1;09:50;09:50:32;10;09:50;09:50:32;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Sotina, Zimný štadión/1;13:00;12:54:32;10;13:00;13:00:54;4;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, Sotina, Amfiteáter/1;13:01;13:01:13;10;13:01;13:02:22;3;0;7
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Poliklinika/1;13:02;13:02:26;10;13:02;13:04:56;5;0;12
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, TESCO/1;13:03;13:05:05;10;13:03;13:07:24;4;1;15
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, Autobusová stanica/1;13:08;13:09:11;10;13:08;13:10:24;4;3;16
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Pošta/2;13:10;13:13:51;10;13:10;13:14:51;1;3;14
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, Dlhá, č. 260/1;13:11;13:14:57;10;13:11;13:16:05;1;0;15
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Gymnázium/1;13:12;13:16:21;10;13:12;13:17:21;1;1;15
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, DEMA/2;13:13;13:17:49;10;13:13;13:18:42;1;2;14
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, SPP/1;13:14;13:18:46;10;13:14;13:19:33;0;0;14
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;13;Senica, Technické služby/1 ;13:15;13:20:14;10;13:15;13:21:07;2;0;16
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;14;Senica, Železničná, ARRIVA/1;13:16;13:21:28;10;13:16;13:21:46;0;0;16
+2;Senica, Žel. stanica/1;2025-03-28;piatok;13:00;2/33;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;15;Senica, Žel. stanica/1;13:18;13:22:18;10;13:18;13:22:18;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;11:34;2/34;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, Žel. stanica/1;11:34;11:30:27;10;11:34;11:34:28;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;11:34;2/34;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Železničná, ARRIVA/2;11:35;11:35:05;10;11:35;11:36:05;3;0;3
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;11:34;2/34;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Technické služby/2 ;11:36;11:36:26;10;11:36;11:36:42;0;0;3
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;11:34;2/34;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, DEMA/1;11:38;11:37:37;10;11:38;11:38:38;2;2;3
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;11:34;2/34;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Gymnázium/2;11:39;11:39:09;10;11:39;11:39:56;1;0;4
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;11:34;2/34;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, Vajanského, cintorín/1;11:40;11:40:18;10;11:40;11:41:38;2;2;4
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;11:34;2/34;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Autobusová stanica/1;11:44;11:42:39;5;11:44;11:43:16;4;0;8
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;11:34;2/34;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, TESCO/2;11:47;11:45:58;10;11:47;11:47:25;1;0;9
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;11:34;2/34;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, Poliklinika/2;11:48;11:47:40;10;11:48;11:48:45;0;8;1
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;11:34;2/34;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;13;Senica, Sotinská/1;11:49;11:49:07;10;11:49;11:49:57;0;1;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;11:34;2/34;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;15;Senica, Sotina, Zimný štadión/1;11:50;11:50:41;10;11:50;11:50:41;0;0;0
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Sotina, Zimný štadión/1;19:00;19:00:21;10;19:00;19:01:11;1;0;1
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, Sotina, Amfiteáter/1;19:01;19:01:34;10;19:01;19:02:17;0;0;1
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Poliklinika/1;19:02;19:02:21;10;19:02;19:03:08;0;0;1
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, TESCO/1;19:03;19:03:19;10;19:03;19:04:52;3;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;6;Senica, Autobusová stanica/1;19:08;19:05:29;5;19:08;19:06:04;2;0;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Pošta/2;19:10;19:11:22;10;19:10;19:12:06;0;1;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Dlhá, č. 260/1;19:11;19:12:11;10;19:11;19:13:19;1;0;6
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Gymnázium/1;19:12;19:13:31;10;19:12;19:13:53;0;1;5
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, DEMA/2;19:13;19:14:49;10;19:13;19:15:55;1;2;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, SPP/1;19:14;19:15:59;10;19:14;19:16:18;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Technické služby/1 ;19:15;19:16:57;10;19:15;19:17:16;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Železničná, ARRIVA/1;19:16;19:17:32;10;19:16;19:17:48;0;0;4
+2;Senica, Žel. stanica/1;2025-03-28;piatok;19:00;2/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Žel. stanica/1;19:18;19:18:19;10;19:18;19:18:19;0;0;0
+2;Senica, Autobusová stanica/1;2025-03-28;piatok;13:34;2/36;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, Žel. stanica/1;13:34;13:28:24;10;13:34;13:34:32;9;0;9
+2;Senica, Autobusová stanica/1;2025-03-28;piatok;13:34;2/36;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Železničná, ARRIVA/2;13:35;13:35:10;10;13:35;13:36;2;0;11
+2;Senica, Autobusová stanica/1;2025-03-28;piatok;13:34;2/36;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Technické služby/2 ;13:36;13:36:21;10;13:36;13:37:07;1;0;12
+2;Senica, Autobusová stanica/1;2025-03-28;piatok;13:34;2/36;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;6;Senica, DEMA/1;13:38;13:38:24;10;13:38;13:39:15;0;0;12
+2;Senica, Autobusová stanica/1;2025-03-28;piatok;13:34;2/36;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Gymnázium/2;13:39;13:39:49;10;13:39;13:40:22;0;0;12
+2;Senica, Autobusová stanica/1;2025-03-28;piatok;13:34;2/36;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;9;Senica, Vajanského, cintorín/1;13:40;13:40:49;10;13:40;13:43:57;2;4;10
+2;Senica, Autobusová stanica/1;2025-03-28;piatok;13:34;2/36;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Autobusová stanica/1;13:44;13:47:56;10;13:44;13:47:56;0;0;0
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;19:34;2/38;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, Žel. stanica/1;19:34;19:29:33;10;19:34;19:35:51;21;0;21
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;19:34;2/38;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Železničná, ARRIVA/2;19:35;19:36:33;10;19:35;19:36:53;0;0;21
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;19:34;2/38;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Technické služby/2 ;19:36;19:37:11;10;19:36;19:38;0;1;20
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;19:34;2/38;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;6;Senica, DEMA/1;19:38;19:39:04;10;19:38;19:40:01;0;2;18
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;19:34;2/38;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Gymnázium/2;19:39;19:40:29;10;19:39;19:40:47;0;0;18
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;19:34;2/38;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Vajanského, cintorín/1;19:40;19:41:09;10;19:40;19:42:27;0;3;15
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;19:34;2/38;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Autobusová stanica/1;19:44;19:43:49;10;19:44;19:44:16;0;8;7
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;19:34;2/38;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, TESCO/2;19:47;19:46:23;10;19:47;19:47:27;0;1;6
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;19:34;2/38;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, Poliklinika/2;19:48;19:47:36;10;19:48;19:48:17;0;0;6
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;19:34;2/38;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Sotinská/1;19:49;19:48:33;10;19:49;19:49:25;0;2;4
+2;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;19:34;2/38;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Sotina, Zimný štadión/1;19:50;19:50:17;10;19:50;19:50:17;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Poliklinika/1;05:25;05:23:52;5;05:25;05:24:03;3;0;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, TESCO/1;05:26;05:26:01;10;05:26;05:26:59;2;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Autobusová stanica/1;05:29;05:27:41;5;05:29;05:28:29;4;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Hviezdoslavova/1;05:31;05:30:55;10;05:31;05:31:33;1;0;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, Čáčovská cesta/1;05:32;05:32:17;10;05:32;05:32:44;0;0;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;6;Senica, MAHLE/1;05:33;05:32:51;10;05:33;05:34:53;0;8;2
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Čáčov, MŠ/1;05:36;05:37:07;10;05:36;05:37:46;0;0;2
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Čáčov, dolný koniec/2;05:38;05:38:28;10;05:38;05:39:24;1;0;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, Tehelná ulica/2;05:39;05:40:15;10;05:39;05:40:37;0;0;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, DEMA/1;05:41;05:40:50;10;05:41;05:41:45;1;0;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Priemyselná, mliekareň/1;05:42;05:42:36;10;05:42;05:43:30;0;3;1
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Lipová, IBV/1;05:44;05:44:26;10;05:44;05:45:02;0;0;1
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Okružná/1;05:47;05:47:16;10;05:47;05:47:45;0;0;1
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;16;Senica, SNP, cintorín/1;05:48;05:47:59;10;05:48;05:48:23;0;0;1
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;17;Senica, II. ZŠ/1;05:50;05:48:54;10;05:50;05:50:20;0;0;1
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;18;Senica, Štefánikova/1;05:51;05:50:43;10;05:51;05:51:24;0;0;1
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;19;Senica, Mestský úrad/2;05:52;05:51:35;10;05:52;05:52:04;0;0;1
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;20;Senica, Autobusová stanica/1;05:56;05:52:35;5;05:56;05:53:05;0;1;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;21;Senica, TESCO/2;05:59;05:57:02;5;05:59;05:57:29;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;05:25;3/1;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;22;Senica, Poliklinika/2;06:00;05:57:38;10;06:00;05:57:38;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Poliklinika/1;06:00;05:58:55;10;06:00;06:00:19;3;0;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, TESCO/1;06:01;06:00:29;10;06:01;06:01:25;0;0;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Autobusová stanica/1;06:04;06:02:03;5;06:04;06:02:33;3;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Hviezdoslavova/1;06:06;06:05:57;10;06:06;06:06:20;0;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, Čáčovská cesta/1;06:07;06:06:46;10;06:07;06:07:44;0;2;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;8;Senica, Čáčov, horný koniec/1;06:12;06:10:35;10;06:12;06:12:21;0;0;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Čáčov, kostol/1;06:14;06:12:54;10;06:14;06:14:27;2;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Čáčov, dolný koniec/2;06:15;06:14:32;10;06:15;06:15:29;2;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, Tehelná ulica/2;06:16;06:16:43;10;06:16;06:17:46;1;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, DEMA/1;06:18;06:17:59;10;06:18;06:19:15;3;1;11
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Priemyselná, mliekareň/1;06:19;06:20:09;10;06:19;06:21:09;0;4;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Lipová, IBV/1;06:21;06:22:05;10;06:21;06:22:52;0;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Okružná/1;06:24;06:25:02;10;06:24;06:25:28;0;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;16;Senica, SNP, cintorín/1;06:25;06:25:44;10;06:25;06:26:11;0;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;17;Senica, II. ZŠ/1;06:27;06:26:53;10;06:27;06:27:33;0;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;18;Senica, Štefánikova/1;06:28;06:28;10;06:28;06:29:38;2;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;19;Senica, Mestský úrad/2;06:29;06:29:49;10;06:29;06:30:45;0;3;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;20;Senica, Autobusová stanica/1;06:33;06:32:19;5;06:33;06:32:43;1;1;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;21;Senica, TESCO/2;06:36;06:34:30;5;06:36;06:35:34;0;2;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;06:00;3/3;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;22;Senica, Poliklinika/2;06:37;06:35:45;10;06:37;06:35:45;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Poliklinika/1;07:15;07:12:39;10;07:15;07:15:24;8;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, TESCO/1;07:16;07:15:39;10;07:16;07:16:46;2;0;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Autobusová stanica/1;07:19;07:17:22;5;07:19;07:18:15;3;1;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Hviezdoslavova/1;07:21;07:21:43;10;07:21;07:22:32;1;1;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, Čáčovská cesta/1;07:22;07:23:06;10;07:22;07:24:14;5;1;16
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Čáčov, MŠ/1;07:26;07:26:46;10;07:26;07:28:10;2;1;17
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Čáčov, dolný koniec/2;07:28;07:28:42;10;07:28;07:29:30;0;0;17
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, Tehelná ulica/2;07:29;07:30:34;10;07:29;07:31:29;0;1;16
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, DEMA/1;07:31;07:31:45;10;07:31;07:33:23;6;1;21
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;13;Senica, Priemyselná, mliekareň/1;07:32;07:34:29;10;07:32;07:34:49;0;0;21
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;14;Senica, Lipová, IBV/1;07:34;07:35:51;10;07:34;07:36:59;1;0;22
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;15;Senica, Okružná/1;07:37;07:39:39;10;07:37;07:40:11;0;0;22
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;16;Senica, SNP, cintorín/1;07:38;07:40:31;10;07:38;07:41:38;0;4;18
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;17;Senica, II. ZŠ/1;07:40;07:42:20;10;07:40;07:43:54;0;0;18
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;18;Senica, Štefánikova/1;07:42;07:44:43;10;07:42;07:46:22;0;1;17
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;19;Senica, Mestský úrad/2;07:43;07:46:33;10;07:43;07:47:27;0;0;17
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;20;Senica, Autobusová stanica/1;07:49;07:49:34;10;07:49;07:50:08;1;1;17
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;21;Senica, TESCO/2;07:52;07:53:17;10;07:52;07:54:40;0;1;16
+3;Senica, Poliklinika/2;2025-03-28;piatok;07:15;3/5;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;22;Senica, Poliklinika/2;07:53;07:54:55;10;07:53;07:54:55;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Poliklinika/1;08:35;08:33:58;10;08:35;08:36:23;7;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, TESCO/1;08:36;08:36:34;10;08:36;08:38;2;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Autobusová stanica/1;08:40;08:38:44;5;08:40;08:39:16;6;3;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Hviezdoslavova/1;08:42;08:42:45;10;08:42;08:43:38;0;0;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, Čáčovská cesta/1;08:43;08:44:07;10;08:43;08:45:17;0;4;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Čáčov, MŠ/1;08:47;08:48:54;10;08:47;08:50:19;2;1;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Čáčov, dolný koniec/2;08:49;08:50:54;10;08:49;08:51:44;1;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, Tehelná ulica/2;08:50;08:52:41;10;08:50;08:53:32;0;1;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, DEMA/1;08:52;08:53:45;10;08:52;08:55:12;3;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Priemyselná, mliekareň/1;08:53;08:56:27;10;08:53;08:57:11;0;1;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Lipová, IBV/1;08:55;08:58:06;10;08:55;08:59:31;2;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Okružná/1;08:58;09:01:36;10;08:58;09:02:53;3;0;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;16;Senica, SNP, cintorín/1;08:59;09:03:22;10;08:59;09:04:11;0;0;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;17;Senica, II. ZŠ/1;09:01;09:04:42;10;09:01;09:05:55;1;1;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;18;Senica, Štefánikova/1;09:02;09:06:28;10;09:02;09:08:32;2;1;13
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;19;Senica, Mestský úrad/2;09:03;09:08:40;10;09:03;09:09:11;0;4;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;20;Senica, Autobusová stanica/1;09:09;09:10:32;10;09:09;09:11:17;2;1;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;21;Senica, TESCO/2;09:12;09:13:19;10;09:12;09:14:19;0;3;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;08:35;3/7;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;22;Senica, Poliklinika/2;09:13;09:14:29;10;09:13;09:14:29;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;1;Senica, Poliklinika/1;09:35;09:34:50;10;09:35;09:35:46;2;0;2
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;2;Senica, TESCO/1;09:36;09:35:59;10;09:36;09:37:12;2;0;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;3;Senica, Autobusová stanica/1;09:40;09:37:53;5;09:40;09:38:49;7;0;11
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;4;Senica, Hviezdoslavova/1;09:42;09:42:40;10;09:42;09:43:45;1;2;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;5;Senica, Čáčovská cesta/1;09:43;09:44:14;10;09:43;09:45:17;2;0;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;8;Senica, Čáčov, horný koniec/1;09:48;09:48:33;10;09:48;09:49:43;1;1;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;9;Senica, Čáčov, kostol/1;09:50;09:50:13;10;09:50;09:51:06;1;4;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;10;Senica, Čáčov, dolný koniec/2;09:51;09:51:13;10;09:51;09:52:08;2;0;11
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;11;Senica, Tehelná ulica/2;09:52;09:53:13;10;09:52;09:54:23;2;2;11
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;12;Senica, DEMA/1;09:54;09:54:37;10;09:54;09:55:29;0;2;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;13;Senica, Priemyselná, mliekareň/1;09:55;09:56:31;10;09:55;09:57:11;0;1;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;14;Senica, Lipová, IBV/1;09:57;09:58:11;10;09:57;09:59:19;0;1;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;15;Senica, Okružná/1;10:00;10:01:40;10;10:00;10:02:50;2;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;16;Senica, SNP, cintorín/1;10:01;10:03:05;10;10:01;10:03:56;0;1;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;17;Senica, II. ZŠ/1;10:03;10:04:25;10;10:03;10:05:02;0;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;18;Senica, Štefánikova/1;10:04;10:05:26;10;10:04;10:06:38;1;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;19;Senica, Mestský úrad/2;10:05;10:06:51;10;10:05;10:09:07;1;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;20;Senica, Autobusová stanica/1;10:11;10:10:47;10;10:11;10:11:13;0;2;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;21;Senica, TESCO/2;10:14;10:13:22;10;10:14;10:14:23;0;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;09:35;3/9;TT088JH;83b497ebe75301c9ee7fadbc108c57ef;22;Senica, Poliklinika/2;10:15;10:14:35;10;10:15;10:14:35;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Poliklinika/1;10:35;null;10;10:35;10:37:17;2;0;2
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, TESCO/1;10:36;10:37:17;10;10:36;10:40:10;2;0;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Autobusová stanica/1;10:40;10:41:04;10;10:40;10:41:46;3;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Hviezdoslavova/1;10:42;10:44:39;10;10:42;10:45:34;1;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, Čáčovská cesta/1;10:43;10:46;10;10:43;10:47:18;2;2;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Čáčov, MŠ/1;10:47;10:49:50;10;10:47;10:51:01;0;2;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Čáčov, dolný koniec/2;10:49;10:51:47;10;10:49;10:52:40;0;1;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, Tehelná ulica/2;10:50;10:53:37;10;10:50;10:54:29;1;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, DEMA/1;10:52;10:54:46;10;10:52;10:55:52;3;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Priemyselná, mliekareň/1;10:53;10:56:55;10;10:53;10:57:44;0;3;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Lipová, IBV/1;10:55;10:58:44;10;10:55;10:59:46;0;1;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Okružná/1;10:58;11:02:08;10;10:58;11:02:37;0;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;16;Senica, SNP, cintorín/1;10:59;11:02:48;10;10:59;11:03:12;0;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;17;Senica, II. ZŠ/1;11:01;11:03:43;10;11:01;11:04:20;0;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;18;Senica, Štefánikova/1;11:02;11:04:51;10;11:02;11:06:17;1;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;19;Senica, Mestský úrad/2;11:03;11:06:28;10;11:03;11:07:29;1;4;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;20;Senica, Autobusová stanica/1;11:09;11:09:02;10;11:09;11:09:25;2;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;21;Senica, TESCO/2;11:12;11:11:41;10;11:12;11:12:52;0;2;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;10:35;3/13;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;22;Senica, Poliklinika/2;11:13;11:13:02;10;11:13;11:13:02;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Poliklinika/1;11:35;11:29:39;10;11:35;11:36:12;6;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, TESCO/1;11:36;11:36:26;10;11:36;11:38:05;2;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Autobusová stanica/1;11:40;11:40:56;10;11:40;11:42:42;9;2;15
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Hviezdoslavova/1;11:42;11:46:18;10;11:42;11:46:37;0;0;15
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, Čáčovská cesta/1;11:43;11:47:03;10;11:43;11:47:58;0;4;11
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;8;Senica, Čáčov, horný koniec/1;11:48;11:50:54;10;11:48;11:52:03;0;2;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Čáčov, kostol/1;11:50;11:52:31;10;11:50;11:53:37;3;3;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Čáčov, dolný koniec/2;11:51;11:53:43;10;11:51;11:54:49;3;0;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, Tehelná ulica/2;11:52;11:56:01;10;11:52;11:56:21;0;0;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, DEMA/1;11:54;11:56:36;10;11:54;11:57:48;3;2;13
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Priemyselná, mliekareň/1;11:55;11:58:42;10;11:55;11:59:44;3;0;16
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Lipová, IBV/1;11:57;12:00:41;10;11:57;12:01:49;0;3;13
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Okružná/1;12:00;12:03:56;10;12:00;12:04:26;0;0;13
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;16;Senica, SNP, cintorín/1;12:01;12:04:47;10;12:01;12:05:50;0;2;11
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;17;Senica, II. ZŠ/1;12:03;12:06:04;10;12:03;12:06:46;0;0;11
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;18;Senica, Štefánikova/1;12:04;12:07:14;10;12:04;12:08:37;1;2;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;19;Senica, Mestský úrad/2;12:05;12:08:45;10;12:05;12:09:37;1;3;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;20;Senica, Autobusová stanica/1;12:11;12:10:51;10;12:11;12:11:31;1;2;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;21;Senica, TESCO/2;12:14;12:13:22;10;12:14;12:14:20;0;4;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;11:35;3/17;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;22;Senica, Poliklinika/2;12:15;12:14:30;10;12:15;12:14:30;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Poliklinika/1;12:35;12:33:27;10;12:35;12:35:31;8;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, TESCO/1;12:36;12:35:43;10;12:36;12:37:03;2;0;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Autobusová stanica/1;12:40;12:39:04;10;12:40;12:40:06;7;3;14
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Hviezdoslavova/1;12:42;12:42:57;10;12:42;12:43:52;0;1;13
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, Čáčovská cesta/1;12:43;12:44:16;10;12:43;12:45:16;0;1;11
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;8;Senica, Čáčov, horný koniec/1;12:48;12:48:26;10;12:48;12:49:49;1;5;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Čáčov, kostol/1;12:50;12:50:21;10;12:50;12:51:11;1;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Čáčov, dolný koniec/2;12:51;12:51:31;10;12:51;12:52:33;1;1;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, Tehelná ulica/2;12:52;12:53:38;10;12:52;12:54:35;1;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, DEMA/1;12:54;12:54:50;10;12:54;12:55:49;0;1;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Priemyselná, mliekareň/1;12:55;12:56:54;10;12:55;12:57:53;0;3;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Lipová, IBV/1;12:57;12:58:52;10;12:57;13:00:09;1;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Okružná/1;13:00;13:02:34;10;13:00;13:03:07;0;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;16;Senica, SNP, cintorín/1;13:01;13:03:20;10;13:01;13:03:50;0;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;17;Senica, II. ZŠ/1;13:03;13:04:23;10;13:03;13:06:07;3;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;18;Senica, Štefánikova/1;13:04;13:06:36;10;13:04;13:07:51;1;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;19;Senica, Mestský úrad/2;13:05;13:08:02;10;13:05;13:08:30;0;2;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;20;Senica, Autobusová stanica/1;13:11;13:10:45;10;13:11;13:11:14;2;7;2
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;21;Senica, TESCO/2;13:14;13:14:04;10;13:14;13:15:15;0;3;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;12:35;3/21;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;22;Senica, Poliklinika/2;13:15;13:15:25;10;13:15;13:15:25;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Poliklinika/1;13:35;13:32:28;10;13:35;13:36;10;0;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, TESCO/1;13:36;13:36:13;10;13:36;13:37:58;6;0;16
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Autobusová stanica/1;13:40;13:40:01;10;13:40;13:41:27;4;2;18
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Hviezdoslavova/1;13:42;13:44:46;10;13:42;13:45:37;0;1;17
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, Čáčovská cesta/1;13:43;13:46:05;10;13:43;13:47:09;1;6;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;8;Senica, Čáčov, horný koniec/1;13:48;13:50:01;10;13:48;13:52:04;6;2;16
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Čáčov, kostol/1;13:50;13:52:34;10;13:50;13:53:31;1;3;14
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Čáčov, dolný koniec/2;13:51;13:53:38;10;13:51;13:54:39;2;3;13
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, Tehelná ulica/2;13:52;13:55:46;10;13:52;13:56:37;0;1;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, DEMA/1;13:54;13:56:48;10;13:54;13:58:02;4;3;13
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Priemyselná, mliekareň/1;13:55;13:59:01;10;13:55;13:59:53;1;0;14
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Lipová, IBV/1;13:57;14:00:46;10;13:57;14:02:02;0;1;13
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Okružná/1;14:00;14:04:43;10;14:00;14:05:39;1;0;14
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;16;Senica, SNP, cintorín/1;14:01;14:05:53;10;14:01;14:06:15;0;0;14
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;17;Senica, II. ZŠ/1;14:03;14:06:58;10;14:03;14:08:12;2;0;16
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;18;Senica, Štefánikova/1;14:04;14:08:43;10;14:04;14:09:56;0;1;15
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;19;Senica, Mestský úrad/2;14:05;14:10:08;10;14:05;14:11:46;0;6;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;20;Senica, Autobusová stanica/1;14:11;14:16:08;10;14:11;14:16:38;3;1;11
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;21;Senica, TESCO/2;14:14;14:18:47;10;14:14;14:19:50;0;4;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;13:35;3/23;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;22;Senica, Poliklinika/2;14:15;14:20;10;14:15;14:20;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Poliklinika/1;14:35;14:33:49;10;14:35;14:36:30;4;0;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, TESCO/1;14:36;14:36:47;10;14:36;14:37:56;1;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Autobusová stanica/1;14:40;14:40:05;10;14:40;14:41:09;3;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Hviezdoslavova/1;14:42;14:44:40;10;14:42;14:45:02;0;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, Čáčovská cesta/1;14:43;14:45:29;10;14:43;14:46:52;4;1;11
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;8;Senica, Čáčov, horný koniec/1;14:48;14:49:36;10;14:48;14:50:43;0;1;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Čáčov, kostol/1;14:50;14:51:13;10;14:50;14:52:15;1;3;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Čáčov, dolný koniec/2;14:51;14:52:22;10;14:51;14:53:07;0;1;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, Tehelná ulica/2;14:52;14:54:19;10;14:52;14:55:16;0;1;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, DEMA/1;14:54;14:55:29;10;14:54;14:56:33;0;2;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Priemyselná, mliekareň/1;14:55;14:57:34;10;14:55;14:58:30;1;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Lipová, IBV/1;14:57;14:59:27;10;14:57;15:00:08;0;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Okružná/1;15:00;15:02:25;10;15:00;15:03:36;1;1;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;16;Senica, SNP, cintorín/1;15:01;15:03:50;10;15:01;15:04:17;0;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;17;Senica, II. ZŠ/1;15:03;15:04:46;10;15:03;15:06:17;4;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;18;Senica, Štefánikova/1;15:04;15:06:45;10;15:04;15:08:11;0;1;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;19;Senica, Mestský úrad/2;15:05;15:08:23;10;15:05;15:08:46;0;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;20;Senica, Autobusová stanica/1;15:11;15:12:56;10;15:11;15:13:20;0;3;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;21;Senica, TESCO/2;15:14;15:15:28;10;15:14;15:16:30;0;2;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;14:35;3/27;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;22;Senica, Poliklinika/2;15:15;15:16:40;10;15:15;15:16:40;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Poliklinika/1;15:35;15:35:02;10;15:35;15:35:18;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, TESCO/1;15:36;15:35:35;10;15:36;15:37:21;3;0;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Autobusová stanica/1;15:40;15:38:34;5;15:40;15:39:18;7;1;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Hviezdoslavova/1;15:42;15:42:45;10;15:42;15:43:24;0;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, Čáčovská cesta/1;15:43;15:43:54;10;15:43;15:44:55;0;2;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Čáčov, MŠ/1;15:47;15:47:58;10;15:47;15:48:39;0;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;8;Senica, Čáčov, horný koniec/1;15:49;15:49:44;10;15:49;15:50:54;1;2;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;9;Senica, Čáčov, kostol/1;15:51;15:51:24;10;15:51;15:52:38;1;1;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Čáčov, dolný koniec/2;15:52;15:52:44;10;15:52;15:53:44;1;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, Tehelná ulica/2;15:53;15:54:50;10;15:53;15:55:09;0;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, DEMA/1;15:55;15:55:23;10;15:55;15:56:10;0;2;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Priemyselná, mliekareň/1;15:56;15:57:04;10;15:56;15:57:55;1;1;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Lipová, IBV/1;15:58;15:58:50;10;15:58;15:59:29;0;0;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Okružná/1;16:01;16:01:54;10;16:01;16:02:22;0;0;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;16;Senica, SNP, cintorín/1;16:02;16:02:38;10;16:02;16:03:06;0;0;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;17;Senica, II. ZŠ/1;16:04;16:03:44;10;16:04;16:04:51;0;0;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;18;Senica, Štefánikova/1;16:05;16:05:18;10;16:05;16:06;0;0;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;19;Senica, Mestský úrad/2;16:06;16:06:10;10;16:06;16:07:07;0;3;1
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;20;Senica, Autobusová stanica/1;16:12;16:09:25;5;16:12;16:09:47;0;1;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;21;Senica, TESCO/2;16:15;16:13:57;5;16:15;16:14:52;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;15:35;3/31;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;22;Senica, Poliklinika/2;16:16;16:15:07;10;16:16;16:15:07;0;0;0
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;1;Senica, Poliklinika/1;16:35;16:30:50;10;16:35;16:36:10;8;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;2;Senica, TESCO/1;16:36;16:36:21;10;16:36;16:37:20;1;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;3;Senica, Autobusová stanica/1;16:40;16:38:01;5;16:40;16:38:39;4;1;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;4;Senica, Hviezdoslavova/1;16:42;16:42:54;10;16:42;16:43:34;0;0;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;5;Senica, Čáčovská cesta/1;16:43;16:44:01;10;16:43;16:45:01;3;3;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;7;Senica, Čáčov, MŠ/1;16:47;16:47:44;10;16:47;16:49;3;3;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;10;Senica, Čáčov, dolný koniec/2;16:49;16:49:25;10;16:49;16:50:15;0;0;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;11;Senica, Tehelná ulica/2;16:50;16:51:17;10;16:50;16:51:39;0;0;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;12;Senica, DEMA/1;16:52;16:51:52;10;16:52;16:53:03;1;1;12
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;13;Senica, Priemyselná, mliekareň/1;16:53;16:53:55;10;16:53;16:54:58;0;2;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;14;Senica, Lipová, IBV/1;16:55;16:55:58;10;16:55;16:56:36;0;0;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;15;Senica, Okružná/1;16:58;16:59;10;16:58;16:59:29;0;0;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;16;Senica, SNP, cintorín/1;16:59;16:59:43;10;16:59;17:00:05;0;0;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;17;Senica, II. ZŠ/1;17:01;17:00:38;10;17:01;17:01:13;0;0;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;18;Senica, Štefánikova/1;17:02;17:01:41;10;17:02;17:02:25;0;0;10
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;19;Senica, Mestský úrad/2;17:03;17:02:35;10;17:03;17:03:33;0;2;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;20;Senica, Autobusová stanica/1;17:09;17:05:18;5;17:09;17:05:41;0;4;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;21;Senica, TESCO/2;17:12;17:10:08;;17:12;17:10:08;0;3;1
+3;Senica, Poliklinika/2;2025-03-28;piatok;16:35;3/35;TT482JH;b3cddf6a494a22560cc4e9162ddecfe1;22;Senica, Poliklinika/2;17:13;17:11:08;;17:13;17:11:08;0;0;1
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;1;Senica, Poliklinika/1;17:50;17:45:13;10;17:50;17:50:23;3;0;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;2;Senica, TESCO/1;17:51;17:50:36;10;17:51;17:51:12;0;0;3
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;3;Senica, Autobusová stanica/1;17:55;17:51:54;5;17:55;17:52:47;2;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;4;Senica, Hviezdoslavova/1;17:57;17:55:06;5;17:57;17:56:44;0;0;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;5;Senica, Čáčovská cesta/1;17:58;17:57:15;10;17:58;17:58:12;0;1;4
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;7;Senica, Čáčov, MŠ/1;18:02;18:01:15;10;18:02;18:02:33;2;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;10;Senica, Čáčov, dolný koniec/2;18:04;18:03:04;5;18:04;18:03:55;0;1;5
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;11;Senica, Tehelná ulica/2;18:05;18:05:10;10;18:05;18:06:19;1;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;12;Senica, DEMA/1;18:07;18:06:38;10;18:07;18:07:08;0;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;13;Senica, Priemyselná, mliekareň/1;18:08;18:08:19;10;18:08;18:09:11;1;1;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;14;Senica, Lipová, IBV/1;18:10;18:10:33;10;18:10;18:11:17;0;0;6
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;15;Senica, Okružná/1;18:13;18:14:14;10;18:13;18:15:21;1;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;16;Senica, SNP, cintorín/1;18:14;18:15:43;10;18:14;18:16:36;0;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;17;Senica, II. ZŠ/1;18:16;18:17:13;10;18:16;18:17:52;0;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;18;Senica, Štefánikova/1;18:17;18:18:26;10;18:17;18:19:09;0;0;7
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;19;Senica, Mestský úrad/2;18:18;18:19:21;10;18:18;18:20:20;1;0;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;20;Senica, Autobusová stanica/1;18:22;18:21:54;10;18:22;18:22:25;1;0;9
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;21;Senica, TESCO/2;18:25;18:24:31;10;18:25;18:25:46;0;1;8
+3;Senica, Poliklinika/2;2025-03-28;piatok;17:50;3/39;TT788JG;6a8e345ca0e49d4bff771ac8105d9db9;22;Senica, Poliklinika/2;18:26;18:25:59;10;18:26;18:25:59;0;0;0
+4;Senica, Čáčov, horný koniec/1;2025-03-28;piatok;07:15;4/5;TT537ER;422af69c6a624009b2e22e10a267a25c;4;Senica, Autobusová stanica/1;07:15;07:16:15;10;07:15;07:16:54;1;0;1
+4;Senica, Čáčov, horný koniec/1;2025-03-28;piatok;07:15;4/5;TT537ER;422af69c6a624009b2e22e10a267a25c;9;Senica, Čáčov, horný koniec/1;07:20;07:22:05;10;07:20;07:22:05;0;1;0
+4;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;1;Senica, Čáčov, horný koniec/1;07:25;07:25:03;10;07:25;07:27:11;3;0;3
+4;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;2;Senica, Čáčov, kostol/1;07:27;07:27:46;10;07:27;07:29:16;13;0;16
+4;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;3;Senica, Čáčov, dolný koniec/2;07:29;07:29:27;10;07:29;07:30:55;9;0;25
+4;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;4;Senica, Tehelná ulica/2;07:31;07:32:07;10;07:31;07:32:48;0;0;25
+4;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;5;Senica, Gymnázium/2;07:35;07:34:08;10;07:35;07:35:29;0;0;25
+4;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;6;Senica, Autobusová stanica/1;07:40;07:38:36;5;07:40;07:39:01;0;0;25
+4;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;7;Senica, Sadová/2;07:42;07:41:56;10;07:42;07:42:43;0;0;25
+4;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;8;Senica, Sotina, Amfiteáter/1;07:43;07:43:24;10;07:43;07:43:49;0;0;25
+4;Senica, Sotina, Zimný štadión/1;2025-03-28;piatok;07:25;4/6;TT537ER;422af69c6a624009b2e22e10a267a25c;9;Senica, Sotina, Zimný štadión/1;07:45;07:43:55;10;07:45;07:43:55;0;25;0
