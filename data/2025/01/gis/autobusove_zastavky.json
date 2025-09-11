@@ -1,0 +1,2135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 1,
+                "nazev": "",
+                "inventarni_cislo": 1,
+                "poznamka": "Ulica: Dolné Suroviny",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548881.68,
+                    -1226635.1
+                ]
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 2,
+                "nazev": "",
+                "inventarni_cislo": 2,
+                "poznamka": "Ulica: Dolné Suroviny",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548816.18,
+                    -1226459.16
+                ]
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 3,
+                "nazev": "",
+                "inventarni_cislo": 3,
+                "poznamka": "",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548607.07,
+                    -1225638.33
+                ]
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 4,
+                "nazev": "",
+                "inventarni_cislo": 4,
+                "poznamka": "Ulica: Horné Suroviny",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "nevyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547885.64,
+                    -1225995.86
+                ]
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 5,
+                "nazev": "",
+                "inventarni_cislo": 5,
+                "poznamka": "Ulica: Vajanského",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548544.98,
+                    -1225515.85
+                ]
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 6,
+                "nazev": "",
+                "inventarni_cislo": 6,
+                "poznamka": "Ulica: Hlbocká cesta",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547162.41,
+                    -1225185.39
+                ]
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 7,
+                "nazev": "",
+                "inventarni_cislo": 7,
+                "poznamka": "Ulica: Košútovec",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -546700.47,
+                    -1225703.19
+                ]
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 8,
+                "nazev": "Senica, Okružná/1",
+                "inventarni_cislo": 8,
+                "poznamka": "Ulica: SNP\r\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548326.18,
+                        -1224195.18
+                    ]
+                ]
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 9,
+                "nazev": ";Senica, Priemyselná, mliekareň/1",
+                "inventarni_cislo": 9,
+                "poznamka": "Ulica: Priemyselná\r\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -549311.76,
+                        -1224322.01
+                    ]
+                ]
+            },
+            "id": 9
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 10,
+                "nazev": "",
+                "inventarni_cislo": 10,
+                "poznamka": "Ulica: Vajanského",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548602.77,
+                    -1224429.82
+                ]
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 11,
+                "nazev": "",
+                "inventarni_cislo": 11,
+                "poznamka": "Ulica: Vajanského",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548618.04,
+                    -1224448.79
+                ]
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 12,
+                "nazev": "Senica, Lipová, IBV/1",
+                "inventarni_cislo": 12,
+                "poznamka": "Ulica: Lipová\r\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548890.8,
+                        -1224334
+                    ]
+                ]
+            },
+            "id": 12
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 13,
+                "nazev": "Senica, Čáčovská cesta/1",
+                "inventarni_cislo": 13,
+                "poznamka": "Ulica: Hviezdoslavova\r\nLinka: 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -549487.37,
+                        -1223494.74
+                    ]
+                ]
+            },
+            "id": 13
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 14,
+                "nazev": "",
+                "inventarni_cislo": 14,
+                "poznamka": "Ulica: Hviezdoslavova\nLinka: 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -549433.52,
+                    -1223498.02
+                ]
+            },
+            "id": 14
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 15,
+                "nazev": "Senica, DEMA/2",
+                "inventarni_cislo": 15,
+                "poznamka": "Ulica: Dlhá\r\nLinka: 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -549586.47,
+                        -1223816.49
+                    ]
+                ]
+            },
+            "id": 15
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 16,
+                "nazev": "Senica, DEMA/1",
+                "inventarni_cislo": 16,
+                "poznamka": "Ulica: Dlhá\r\nLinka: 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -549674.57,
+                        -1223836.01
+                    ]
+                ]
+            },
+            "id": 16
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 17,
+                "nazev": "Senica, SPP/1",
+                "inventarni_cislo": 17,
+                "poznamka": "Ulica: Železničná\r\nLinka: 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -549844.7,
+                        -1223817.49
+                    ]
+                ]
+            },
+            "id": 17
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 18,
+                "nazev": "Senica, Tehelná ulica/2",
+                "inventarni_cislo": 18,
+                "poznamka": "Ulica: Tehelná\r\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -550005.8,
+                        -1223772.09
+                    ]
+                ]
+            },
+            "id": 18
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 19,
+                "nazev": "Senica, Technické služby/2",
+                "inventarni_cislo": 19,
+                "poznamka": "Ulica: Železničná\r\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -550357.96,
+                        -1224119.35
+                    ]
+                ]
+            },
+            "id": 19
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 20,
+                "nazev": "Senica, Technické služby/1",
+                "inventarni_cislo": 20,
+                "poznamka": "Ulica: Železničná\r\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -550422.38,
+                        -1224148.28
+                    ]
+                ]
+            },
+            "id": 20
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 21,
+                "nazev": "Senica, Železničná, ARRIVA/2",
+                "inventarni_cislo": 21,
+                "poznamka": "Ulica: Železničná\r\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -550745.99,
+                        -1224396.9
+                    ]
+                ]
+            },
+            "id": 21
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 22,
+                "nazev": "Senica, Železničná, ARRIVA/1",
+                "inventarni_cislo": 22,
+                "poznamka": "Ulica: Železničná\r\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -550777.58,
+                        -1224400.58
+                    ]
+                ]
+            },
+            "id": 22
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 23,
+                "nazev": "Senica, Žel. stanica/1",
+                "inventarni_cislo": 23,
+                "poznamka": "Ulica: Železničná\r\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -551252.3,
+                        -1224735.72
+                    ]
+                ]
+            },
+            "id": 23
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 24,
+                "nazev": "",
+                "inventarni_cislo": 24,
+                "poznamka": "Ulica: Čáčovská\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550855.51,
+                    -1223452.69
+                ]
+            },
+            "id": 24
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 25,
+                "nazev": "Senica, Čáčov, kostol/1",
+                "inventarni_cislo": 25,
+                "poznamka": "Ulica: Čáčovská\r\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -550857.7,
+                        -1223472.89
+                    ]
+                ]
+            },
+            "id": 25
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 26,
+                "nazev": "",
+                "inventarni_cislo": 26,
+                "poznamka": "Ulica: Čáčovská\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -551498.77,
+                    -1223696.41
+                ]
+            },
+            "id": 26
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 27,
+                "nazev": "Senica, Čáčov, horný koniec/1",
+                "inventarni_cislo": 27,
+                "poznamka": "Ulica: Čáčovská\r\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -551400.12,
+                        -1223683.15
+                    ]
+                ]
+            },
+            "id": 27
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 28,
+                "nazev": "Senica, Čáčov, dolný koniec/2",
+                "inventarni_cislo": 28,
+                "poznamka": "Ulica: Čáčovská\r\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -550589.24,
+                        -1223366.71
+                    ]
+                ]
+            },
+            "id": 28
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 29,
+                "nazev": "",
+                "inventarni_cislo": 29,
+                "poznamka": "Ulica: Čáčovská\nLinka: 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -550448.88,
+                    -1223328.38
+                ]
+            },
+            "id": 29
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 30,
+                "nazev": "Senica, Hviezdoslavova/1",
+                "inventarni_cislo": 30,
+                "poznamka": "Ulica: Hviezdoslavova\r\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -549005.28,
+                        -1223316.47
+                    ]
+                ]
+            },
+            "id": 30
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 31,
+                "nazev": "",
+                "inventarni_cislo": 31,
+                "poznamka": "Ulica: Hviezdoslavova\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548987.06,
+                    -1223329.34
+                ]
+            },
+            "id": 31
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 32,
+                "nazev": "",
+                "inventarni_cislo": 32,
+                "poznamka": "Ulica: Štefánikova\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548514,
+                    -1223316.59
+                ]
+            },
+            "id": 32
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 33,
+                "nazev": "Senica, Mestský úrad/2",
+                "inventarni_cislo": 33,
+                "poznamka": "Ulica: Štefánikova\r\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548474.98,
+                        -1223299.69
+                    ]
+                ]
+            },
+            "id": 33
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 34,
+                "nazev": "",
+                "inventarni_cislo": 34,
+                "poznamka": "Ulica: Štefánikova\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548168.42,
+                    -1223346.85
+                ]
+            },
+            "id": 34
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 35,
+                "nazev": "Senica, Štefánikova/1",
+                "inventarni_cislo": 35,
+                "poznamka": "Ulica: Štefánikova\r\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548140.16,
+                        -1223329.65
+                    ]
+                ]
+            },
+            "id": 35
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 36,
+                "nazev": "Senica, Gymnázium/1",
+                "inventarni_cislo": 36,
+                "poznamka": "Ulica: Dlhá\r\nLinka: 2, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -549081.27,
+                        -1223818.94
+                    ]
+                ]
+            },
+            "id": 36
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 37,
+                "nazev": "Senica, Dlhá, č. 260/1",
+                "inventarni_cislo": 37,
+                "poznamka": "Ulica: Dlhá\r\nLinka: 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548708.13,
+                        -1223791.82
+                    ]
+                ]
+            },
+            "id": 37
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 38,
+                "nazev": "Senica, Gymnázium/2",
+                "inventarni_cislo": 38,
+                "poznamka": "Ulica: Dlhá\r\nLinka: 2, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -549121.74,
+                        -1223831.6
+                    ]
+                ]
+            },
+            "id": 38
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 39,
+                "nazev": "",
+                "inventarni_cislo": 39,
+                "poznamka": "Ulica: Vajanského\nLinka: 1, 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548667.82,
+                    -1223847.83
+                ]
+            },
+            "id": 39
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 40,
+                "nazev": "Senica, Vajanského, cintorín/1",
+                "inventarni_cislo": 40,
+                "poznamka": "Ulica: Vajanského\r\nLinka: 1, 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548650.87,
+                        -1223745.87
+                    ]
+                ]
+            },
+            "id": 40
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 41,
+                "nazev": "Senica, Brezová/1",
+                "inventarni_cislo": 41,
+                "poznamka": "Ulica: Brezová\r\nLinka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548440.96,
+                        -1223755.88
+                    ]
+                ]
+            },
+            "id": 41
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 42,
+                "nazev": "Senica, SNP, cintorín/1",
+                "inventarni_cislo": 42,
+                "poznamka": "Ulica: SNP\r\nLinka: 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548368.48,
+                        -1223829.28
+                    ]
+                ]
+            },
+            "id": 42
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 43,
+                "nazev": "Senica, II. ZŠ/2",
+                "inventarni_cislo": 43,
+                "poznamka": "Ulica: Komenského\r\nLinka: 1, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548026.94,
+                        -1223685.59
+                    ]
+                ]
+            },
+            "id": 43
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 44,
+                "nazev": "Senica, II. ZŠ/1",
+                "inventarni_cislo": 44,
+                "poznamka": "Ulica: Komenského\r\nLinka: 1, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548016.17,
+                        -1223682.91
+                    ]
+                ]
+            },
+            "id": 44
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 45,
+                "nazev": "",
+                "inventarni_cislo": 45,
+                "poznamka": "Ulica: Brestové",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -545374.88,
+                    -1223914.44
+                ]
+            },
+            "id": 45
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 46,
+                "nazev": "",
+                "inventarni_cislo": 46,
+                "poznamka": "Ulica: Brestové",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vyhovujúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -545395.04,
+                    -1223899.01
+                ]
+            },
+            "id": 46
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 47,
+                "nazev": "",
+                "inventarni_cislo": 47,
+                "poznamka": "",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -545963.37,
+                    -1220967.67
+                ]
+            },
+            "id": 47
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 48,
+                "nazev": "Senica, Kunov, rázc./1",
+                "inventarni_cislo": 48,
+                "poznamka": "Linka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -546305.12,
+                        -1222096.86
+                    ]
+                ]
+            },
+            "id": 48
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 49,
+                "nazev": "Senica, Kunov, Jednota/1",
+                "inventarni_cislo": 49,
+                "poznamka": "Linka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -546005.85,
+                        -1222547.72
+                    ]
+                ]
+            },
+            "id": 49
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 50,
+                "nazev": "",
+                "inventarni_cislo": 50,
+                "poznamka": "Linka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -545990.13,
+                    -1222556.9
+                ]
+            },
+            "id": 50
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 51,
+                "nazev": "Senica, Kunov, IBV/1",
+                "inventarni_cislo": 51,
+                "poznamka": "Linka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -546347.07,
+                        -1222869.33
+                    ]
+                ]
+            },
+            "id": 51
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 52,
+                "nazev": "Senica, Agrostav/2",
+                "inventarni_cislo": 52,
+                "poznamka": "Ulica: Štefánikova\r\nLinka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -547557.57,
+                        -1223368.05
+                    ]
+                ]
+            },
+            "id": 52
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 53,
+                "nazev": "",
+                "inventarni_cislo": 53,
+                "poznamka": "Ulica: Štefánikova\nLinka: 1",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547602.85,
+                    -1223377.36
+                ]
+            },
+            "id": 53
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 54,
+                "nazev": "Senica, Sadová/2",
+                "inventarni_cislo": 54,
+                "poznamka": "Ulica: Sadová\r\nLinka: 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548375.19,
+                        -1223078.54
+                    ]
+                ]
+            },
+            "id": 54
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 55,
+                "nazev": "Senica, Sotina, Amfiteáter/1",
+                "inventarni_cislo": 55,
+                "poznamka": "Ulica: L. Novomeského\r\nLinka: 2, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548202.17,
+                        -1222857.88
+                    ]
+                ]
+            },
+            "id": 55
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 56,
+                "nazev": "Senica, TESCO/1",
+                "inventarni_cislo": 56,
+                "poznamka": "Ulica: Sotinská\r\nLinka: 1, 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548582.78,
+                        -1222621.17
+                    ]
+                ]
+            },
+            "id": 56
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 57,
+                "nazev": "Senica, TESCO/2",
+                "inventarni_cislo": 57,
+                "poznamka": "Ulica: Sotinská\r\nLinka: 1, 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548588.35,
+                        -1222597.71
+                    ]
+                ]
+            },
+            "id": 57
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 58,
+                "nazev": "Senica, Poliklinika/2",
+                "inventarni_cislo": 58,
+                "poznamka": "Ulica: Sotinská\r\nLinka: 1, 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548254.93,
+                        -1222618.66
+                    ]
+                ]
+            },
+            "id": 58
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 59,
+                "nazev": "Senica, Poliklinika/1",
+                "inventarni_cislo": 59,
+                "poznamka": "Ulica: Sotinská\r\nLinka: 1, 2, 3",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548245.89,
+                        -1222640.49
+                    ]
+                ]
+            },
+            "id": 59
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 60,
+                "nazev": "Senica, Sotinská/1",
+                "inventarni_cislo": 60,
+                "poznamka": "Ulica: Sotinská\r\nLinka: 1, 2",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -547824,
+                        -1222708.13
+                    ]
+                ]
+            },
+            "id": 60
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 61,
+                "nazev": "",
+                "inventarni_cislo": 61,
+                "poznamka": "Linka: 2, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -547927.2,
+                    -1222892.51
+                ]
+            },
+            "id": 61
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 62,
+                "nazev": "",
+                "inventarni_cislo": 62,
+                "poznamka": "Linka: 1, 2, 3, 4",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "dobrý",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548837.22,
+                    -1223121.13
+                ]
+            },
+            "id": 62
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 274,
+                "nazev": "Senica, Sotina, Zimný štadión/1",
+                "inventarni_cislo": "",
+                "poznamka": "",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -547909.95,
+                        -1222911.53
+                    ]
+                ]
+            },
+            "id": 274
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 275,
+                "nazev": "Senica, Autobusová stanica/1",
+                "inventarni_cislo": "",
+                "poznamka": "",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -548772.59,
+                        -1223077.33
+                    ]
+                ]
+            },
+            "id": 275
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 276,
+                "nazev": "Senica, MAHLE/1",
+                "inventarni_cislo": "",
+                "poznamka": "",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -549789.44,
+                        -1223569.21
+                    ]
+                ]
+            },
+            "id": 276
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 277,
+                "nazev": "Senica, Čáčov, MŠ/1",
+                "inventarni_cislo": "",
+                "poznamka": "",
+                "druh": "autobusová zastávka",
+                "typ": "",
+                "techstav": "",
+                "spravce": "",
+                "obr_id1": "",
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": ""
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -550864.21,
+                        -1223306.25
+                    ]
+                ]
+            },
+            "id": 277
+        }
+    ]
+}
