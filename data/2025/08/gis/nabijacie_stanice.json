@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ogc_fid": 63,
+                "nazev": "",
+                "inventarni_cislo": 63,
+                "poznamka": "",
+                "druh": "nabíjacia stanica",
+                "typ": "",
+                "techstav": "vynikajúci",
+                "spravce": "",
+                "obr_id1": 13617,
+                "obr_id2": "",
+                "obr_id3": "",
+                "record_id": 63
+            },
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:5514"
+                    }
+                },
+                "coordinates": [
+                    -548894.35,
+                    -1222776.91
+                ]
+            },
+            "id": 63
+        }
+    ]
+}
