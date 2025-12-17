@@ -28,11 +28,11 @@
     "https://data.gov.sk/id/nuts3/SK021"
   ],
   "dátum_publikácie": "2025-12-01",
-  "dátum_modifikácie": "2025-12-02",
+  "dátum_modifikácie": "2025-12-17",
   "časové_pokrytie": {
     "typ": "Časový interval",
     "začiatok": "2025-12-01",
-    "koniec": "2025-12-02"
+    "koniec": "2025-12-17"
   },
   "kontaktný_bod": {
     "typ": "Mesto",
