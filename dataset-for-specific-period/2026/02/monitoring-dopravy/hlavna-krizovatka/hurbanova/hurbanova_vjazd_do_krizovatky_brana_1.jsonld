@@ -1,0 +1,76 @@
+{
+  "@context": "https://datova-kancelaria.github.io/dcat-ap-sk-2.0/kontexty/rozhranie-katalógu-otvorených-dát.jsonld",
+  "iri": "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2026/02/monitoring-dopravy/hlavna-krizovatka/hurbanova/hurbanova_vjazd_do_krizovatky_brana_1.jsonld",
+  "typ": "Dataset",
+  "názov": {
+    "sk": "Monitoring dopravy, Senica, objekty z 'Hurbanova' smerujúce na 'Hlavná križovatka' - 2026/02"
+  },
+  "popis": {
+    "sk": "Monitoring dopravy, Senica, objekty z 'Hurbanova' smerujúce na 'Hlavná križovatka' - 2026/02"
+  },
+  "poskytovateľ": "https://data.gov.sk/id/legal-subject/00309974",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "periodicita_aktualizácie": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+  "kľúčové_slovo": {
+    "sk": [
+      "doprava",
+      "vozidlo"
+    ]
+  },
+  "geografické_územie": [
+    "http://publications.europa.eu/resource/authority/place/SVK_SEA",
+    "http://publications.europa.eu/resource/authority/country/SVK",
+    "http://publications.europa.eu/resource/authority/continent/EUROPE",
+    "https://data.gov.sk/id/lau2/SK0215504203",
+    "https://data.gov.sk/id/lau1/SK0215",
+    "https://data.gov.sk/id/nuts3/SK021"
+  ],
+  "dátum_publikácie": "2026-02-01",
+  "dátum_modifikácie": "2026-02-02",
+  "časové_pokrytie": {
+    "typ": "Časový interval",
+    "začiatok": "2026-02-01",
+    "koniec": "2026-02-02"
+  },
+  "kontaktný_bod": {
+    "typ": "Mesto",
+    "meno": {
+      "sk": "Mesto Senica",
+      "en": "City of Senica"
+    },
+    "e-mail": "mailto:opendata@senica.sk"
+  },
+  "koncept_euroVoc": [
+    "http://publications.europa.eu/resource/authority/pub-theme/N07",
+    "http://eurovoc.europa.eu/4651"
+  ],
+  "je_súčásťou": "https://mesto-senica.github.io/lkod/dataset/monitoring-dopravy/hlavna-krizovatka/hurbanova/hurbanova_vjazd_do_krizovatky_brana_1.jsonld",
+  "distribúcia": [
+    {
+      "iri": "https://mesto-senica.github.io/lkod/data/2026/02/monitoring-dopravy/hlavna-krizovatka/hurbanova/hurbanova_vjazd_do_krizovatky_brana_1.csv",
+      "typ": "Distribúcia",
+      "podmienky_použitia": {
+        "typ": "Špecifikácia podmienok použitia",
+        "autorské_dielo": "http://publications.europa.eu/resource/authority/licence/CC_BY_4_0",
+        "autor": {
+          "sk": "Mesto Senica"
+        },
+        "databáza_chránená_zvláštnými_právami": "http://publications.europa.eu/resource/authority/licence/CC0",
+        "databáza_ako_autorské_dielo": "http://publications.europa.eu/resource/authority/licence/CC_BY_4_0",
+        "autor_databázy": {
+          "sk": "Mesto Senica"
+        },
+        "osobné_údaje": "https://data.gov.sk/def/personal-data-occurence-type/2"
+      },
+      "prístupové_url": "https://mesto-senica.github.io/lkod/data/2026/02/monitoring-dopravy/hlavna-krizovatka/hurbanova/hurbanova_vjazd_do_krizovatky_brana_1.csv",
+      "súbor_na_stiahnutie": "https://mesto-senica.github.io/lkod/data/2026/02/monitoring-dopravy/hlavna-krizovatka/hurbanova/hurbanova_vjazd_do_krizovatky_brana_1.csv",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+      "typ_média": "https://www.iana.org/assignments/media-types/text/csv",
+      "názov": {
+        "sk": "Dáta v CSV formáte"
+      }
+    }
+  ]
+}
