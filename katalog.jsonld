@@ -57,6 +57,7 @@
     "https://mesto-senica.github.io/lkod/dataset/monitoring-dopravy/hlavna-krizovatka/stefanikova/stefanikova_vjazd_do_krizovatky_brana_1.jsonld",
     "https://mesto-senica.github.io/lkod/dataset/monitoring-dopravy/hlavna-krizovatka/stefanikova/stefanikova_vyjazd_z_krizovatky_brana_1.jsonld",
     "https://mesto-senica.github.io/lkod/dataset/monitoring-dopravy/krizovatka-hurbanova-lidl/hurbanova/hurbanova_priechod_pri_lidli_smer_holic.jsonld",
+    "https://mesto-senica.github.io/lkod/dataset/monitoring-dopravy/krizovatka-hurbanova-lidl/hurbanova/hurbanova_priechod_pri_lidli_smer_jablonica.jsonld",
     "https://mesto-senica.github.io/lkod/dataset/monitoring-dopravy.jsonld",
     "https://mesto-senica.github.io/lkod/dataset/parking/parkovisko-holleho-obsadenost.jsonld",
     "https://mesto-senica.github.io/lkod/dataset/parking/parkovisko-mestsky-urad-obsadenost.jsonld",
@@ -636,6 +637,7 @@
     "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2026/11/monitoring-dopravy/hlavna-krizovatka/namestie-oslobodenia/namestie-oslobodenia_vyjazd_z_krizovatky_brana_1.jsonld",
     "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2026/11/monitoring-dopravy/hlavna-krizovatka/stefanikova/stefanikova_vjazd_do_krizovatky_brana_1.jsonld",
     "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2026/11/monitoring-dopravy/hlavna-krizovatka/stefanikova/stefanikova_vyjazd_z_krizovatky_brana_1.jsonld",
-    "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2026/11/monitoring-dopravy/krizovatka-hurbanova-lidl/hurbanova/hurbanova_priechod_pri_lidli_smer_holic.jsonld"
+    "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2026/11/monitoring-dopravy/krizovatka-hurbanova-lidl/hurbanova/hurbanova_priechod_pri_lidli_smer_holic.jsonld",
+    "https://mesto-senica.github.io/lkod/dataset-for-specific-period/2026/11/monitoring-dopravy/krizovatka-hurbanova-lidl/hurbanova/hurbanova_priechod_pri_lidli_smer_jablonica.jsonld"
   ]
 }
